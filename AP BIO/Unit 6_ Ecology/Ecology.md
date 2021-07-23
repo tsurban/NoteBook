@@ -1,0 +1,502 @@
+Ecology
+
+# Ecology
+
+### Intro
+ - Ecology word from greek oikios(one's home)
+ - Ecology is a relatively young science
+ - Began as "Natural History"
+	 - Greek and roman natural philosophers study world around themselves
+	 - Up until recently, ecology was very observational
+ - 1869 Haeckel - Ecology = "Total relations of the animal to both its organic and inorganic environment"
+ - 1927 Elton - Ecology = "Scientific natural history"
+ - 1961 Andrewartha - Ecology = "Scientific study of the distribution and abundance of organisms"
+	 - 1960s were biggest change in direction
+	 - 1963 Eugene Odum - "Study of strcture and function of nature"
+	 - Currently/late 1990s-2000s, "Scientific study of the interactions that determins the dstribution and abundance of organisms"
+ - Very observational w/ stats, etc
+ - Ecology today
+	 - Community ecology
+	 - Natural History
+	 - Applied Ecology
+		 - Like environmental science
+			 - Look At chemical and physical imapcts on plants animals ppl etc
+		 - 
+	 - Landscape Ecology(newest)
+		 - Taking native plants and fit them into new landscape(study affects of invasive plants)
+		 - 
+	 - Population ecology
+	 - Animal Behavior
+	 - Environmental studies
+		 - Policies, city planning, social ideas
+		 - Look at physical side(impact of lawn chemicals, digging)
+		 - Look at social science aspect(ppl living there(2 ppl, 2vheicles per house)
+			 - Look at impact of cars on road
+			 - If School-aged children live there, impact on school districe
+			 - Fire/PD, is road wide enough for biggest firetruck
+		 - Environmental justice, big cities, homes around industry are lower socieoeconomic groups
+ - Growth of ecology
+	 - Began 1890-1920
+		 - Conservation/efficency Movement(TR)
+		 - Liked by ppl like NRA(environmental conservatives)
+		 - National parks, etc
+		 - Environmental laws
+	 - 1920-1960 Conservation/Preservation
+		 - Focus on Habitat
+			 - Esp in great depression + CCC
+			 - Some CCC Camps incredibly destructive
+		 - Natural resources laws
+			 - Tried to get ppl to think abt conserving natural resources
+		 - Sierra Club, autobhan souciety, preservation/conservation clubs
+	 - 1960-1980 goes from conservation to environmental mvmnt
+		 - Starts with silent spring(described lament over losing songbirds to pesticides)
+		 - Looks at impact WE have on the environment
+		 - End of 1960s have first true regulatory environmental laws
+			 - National environmental policy act(created dept of environmental protection(epa), create council on environemntal quality(cabinet lvl group who council the president(40 pages long), created environmental impact statements(process by which developers have to go thru environmental testing before building)
+			 - Impact statments apply under commerce clause(bc polution not static, moves around, interstate, fedgov can regulate)
+			 - Sets up clean air, water, etc acts
+	 -1980-? Contemporary period
+		 - Focus on sustainability, environmental management, polluion preservation
+		 - Global problems
+ - Ecosystems
+	 - Producers
+	 - Consumers/Heterotrophs
+	 - Abioitic/nonliving organcs
+	 - Must be balanced, this is how ecosystems work
+	 - Early-ish ecology is abt ecosystems
+		 - Study relations btw these three
+		 - No longer much ecosystem stuff being published
+		 - Mostly applied stuff
+	 - Inputs and outputs to an ecosystem
+		 - Not really static, boundaries mostly fluid
+		 - Many inputs are also outputs(differences in heat vs sun, CO2+O2, water)(BALANCED)
+		 - WHen you change one thing, change everything bc interdependence
+	 - Ecosystem Ecologists only look at macro stuff
+		 - Start with organism(Elephants), look at individuals or herd(population) or interaction btw elephants, giraffe, plant life(community), or secondary, tertiary consumers(ecosystem), biome, biosphere
+		 - Organisim->population->community->ecosstem->(ecoregion)->biome->biosphere
+		 - Ecoregions based on dominant plant form(leigh valley described by applican woodland forest and original oak chesnut community)
+		 - Synecology(community interaction w/ environmennt)
+		 - Autecology (individuals/individual species interact w/environment)
+		 - Biosphere is zone at which all living things occur(1 mile into atmosphere, 7 miles down)
+		 - Takes into deepest part of the ocan
+	 - How individual organisims interact w/ eachother
+		 - Symbiosis > living together
+		 - Host- Primary
+		 - Symbiont- lives with or off of host
+	 - 3 major catagories of relationships
+		 - Mutualist - host and symbiant benefit(bacteria that live in intestines)
+			 - Bacteria digest foods
+			 - Bacteria in intestine prevents bad bacteria from growing
+			 - Bacteria also release vitamins you cant get
+			 - We provide them a home+food
+		 - Commensicalistic - Host dosen't have any benefit, symbiant does
+			 - Some would say Bacteria in gut are commensalistic
+			 - Very rare
+		 - Parasitic - host is harmed/suffers, symbiant benefits
+			 - Disease causing bacteria are parasites
+			 - Some plants(mistletoe) are parasites, mistletoe invades tissues
+	 - Clownfish and anenomie
+		 - Clownfish gets food and protection from anenmoe
+		 - Clownfish attracts other fish for anenome to eat
+		 - Mutualist
+	 - Lichen on tree 
+		 - Algae produces food for fungus, algae produces some nutrients and gives nutrients
+		 - All lichens are mutulaistic
+	 - Ants on acasia plant
+		 - Grey zone btw mut and commens
+		 - Plant depends on ants to eat other insects that would threaten tree
+		 - Plant allows ants to lay eggs
+	 - Shark and remorum
+		 - Can be mutualistic(hooks onto shark and eats sea lice from shark)
+		 - Dont do damage to shark, if is carniverous, will consume meat shark misses
+	 - Cattle egret on cow
+		 - Commensalistic
+		 - Cattle egret eats insects cow kicks up as it walks
+	 - Starfish(Crown of thorns) parisitic to kelp beds
+	 - Insects parasitizing other insects(caterpiller parasitized by wasp)
+		 - Wasp stings cateriler, puts eggs inside it, eggs hatch and eat organs
+		 - Cicaida wasps do the same w/ cicadias, have really long stingers, are relatively docile
+		 - Little 1.5" jet black wasp fights trantula, drag trantula to whole in ground
+	 - Mosquito w/ malaria worm(who is parasite)
+		 - Malaria is parasite to human and mosquito as is mosquito to human
+	 - Other types of symbiotic relations
+		 - Amensailsm - chemicals to prevent growth of other organisms(common in bacteria(60% all antibiotics)), mostly soil bacteria
+			 - No clear host/symbiote
+		 - Saprophytism - Removing energy/consumes from dead or dying tissue(fungi)
+		 - Proto-cooperation - causing another organism to perform a task in order to get food(Aphids paracitize rose, extract photosynthate from plant)
+			 - Aphids bad at processing, goes thru digestive system and out back as almost pure sugar(honeydew)
+			 - Ant takes aphid and places it and farms the excrement
+ - *** MISSED A DAY***
+ - Law of Minimum + Law of tolerance
+	 - Depends on factors like ph and thing
+ - Soil
+	 - Natural product of weathered rock(erosion w/ wind+water)
+		 - wind does little pieces
+		 - Water works w/ expansion+contraction
+		 - Some biologic activity does erosion too
+	 - Non-living
+	 - Not sterile
+		 - Soil is nonliving, but many organisims in it
+	 - Many layers of soil
+		 - Each layer is a horizon
+		 - Not all soils in all locations will have all possible horizons
+		 - Top Horizon(Organic/O horizon)
+			 - Soils that dont have this is usually bc we farmed it off
+			 - Has a lot of rich organic material(decomposing leaves/branches)
+			 - O1 horizon has big praticles(top)
+			 - O2 horizon has small particles(below O1)
+			 - Macrodecomposers(worms, centipeedes)
+		 - A horizon
+			 - Lots of organic material, but mostly mineralized
+			 - Complex organic molecule broken into smaller molecules
+			 - Gets finer as go down from A1->A3
+			 - More microdecomposer(fungi, bacteria, worms/nematodes)
+			 - Lottle black dots mean stone(smaller stones at surface, larger as move down)
+			 - Move down, have less biological activity
+		 - After this, 2 patterns
+			 - Almost no organic meteria
+			 - Larger and larger stone
+		 - Bottom horizon(R)
+			 - Bedrock is layer found right on top of core of earth
+			 - Find it in places like mountains
+			 - Depth of bedrock varys
+			 - Layers of massive pieces of stones(tectonic plates)
+		 - A+O make up topsoil
+		 - Made up of many diff things
+	 - USGS triangle
+		 - Three components:Sand, Clay, Silt
+		 - Difference is based on particle size
+		 - Sand has the biggest particle size(.1-2mm)
+			 - High porocity(water moves thru quickly)
+		 - Silt has smaller particle size, not as small as clay
+		 - Clay has smallest particle size(we have a lot of clay, standing water)
+		 - Loam is the A1 horizon(middle abt equal sandclaysilt%)
+		 - Soil testing to determine type from triangle
+		 - PA has many diff soil types, make soil maps
+	 - Water in soil
+		 - Diff types hold iff amounts
+		 - Field Capacity - Amount of water a soil holds so that all of the air spaces are filled with water(surface ponding starts)
+			 - Low for clay bc not a lot of air bc small particles
+			 - Sand has large for opposite reason
+		 - Permanent wilting point
+			 - Water is gone/removed from air spaces
+			 - Drought conditions(years of drought where no plants grow)
+		 - Availabe water capacity
+			 - How much water is avalible for photosynth
+			 - Type of soil has different type of water capacity
+			 - Soccer fields have lotsa loam, large water capacity
+			 - Tennis courts mostly on clay, yaknow
+- Water(Hydrolotic) cycle
+	- One of the biogeological cycles 
+	- Start with precipitation
+		- Any water-based material falling from clouds
+		- Rain/sleet/snow/hail/fog
+		- MIST IS NOT PRECIPITATION BC IT RISES
+	- As water falls, potentially intercepted by trees or by buildings
+	- Trees
+		- Through-fall
+			- Basically water hitting leaves and dripping off/down
+			- Leaf is able to hold some water b4 tipping, longer water is on leaf, greater leaf disolves into water, water enters leaf(leaf dies)
+			- Water hitting ground takes some of the leaf material with it
+		- Stem-flow
+			- Water runs down branch/bark of tree thru to soil
+			- Moves chemicals from parts of the tree to the roots
+	- Buildings
+		- Much greater impact
+		- Most buildings have tar roof/asphalt shingle, when it rains, some of that toxic roof material hits the ground
+		- Can end up with plant death bc of ^
+	- Once hits soil
+		- Surface runoff
+			- Occurs with soil at field capacity AND some slope to the soil(water runs towards lowest point)
+			- Same way that the groundwater is moving
+			- All water moves toward green pond(almost entirely spring-fed bc of this)
+			- All the stuff on the lawns, fertilizers, etc goes into green pond(algae grows)
+			- Major runoff event(overland flood)
+				- Usually in things like avalanches or springtime slow melts
+				- Still moving towards lowest geographic point
+		- Perculation/infiltration
+			- depends on soil type(sandy soil fast perculation, clay soil harder for water to enter(standing water)
+			- Perculation recharges ground water, sustains creation of underground lakes(aquifers)
+				- Aquifers used for crops or for drinking water
+				- Perched aquifer(Layer of rock underneath it so water is perched on top of rock)
+				- Artesion aquifer(trapped btw 2 layers of rock, is under pressure so good for well bc u get a gyser when ya)
+			- Takes a while to recharge groundwater(Recharge means reach full capacity)
+				- Many places where aquifers never get fully recharged
+	- Evaporation+Transpiration
+		- Vaporization of water
+		- Depends on Air Temp, Air Humidity, Wind Speed
+			- Hot day, low humidity, lotsa wind, lots of evap+transp
+		- Evaped water dosent come down in the same spot bc earth rotates
+- Biogeochemical cycles
+	- Gaseous and sedimentary cycles and some with both
+	- Oxygen, Carbon, Nitrogen, Sulfur, Phosphorous(most important cycles)
+		- Climate change, polution
+		- All are essential nutrient
+	- Gaseous cycle is fair amount of chemical cycle w/atmospheric component
+	- Sedimentary cycle starts in rock phase and ends in rock phase(can be gaseous somewhere in here)
+	- Oxygen Cycle
+		- Entirely Gaseous
+		- Sink/storage is atmosphere and ocean(lotsa o2 in atmosphere, lotsa o2 in ocean)
+		- Sources are atmosphere, plants, silica/oxides of metals
+		- Driven by energy(sun) and hydrologic cycles
+		- Photodissassociation(of water)
+			- $H_2O + UV -> 2H+\frac12O_2>02>03$
+		- Photosynthesis
+			- ya know
+			- Perhaps contributed oxygen very early on
+		- O2 in atmosphere makes ozone
+			- Cyclic photolytic reaction
+			- $O_2+\frac12O_2 +UV \to O_3$, spontaneously goes back to other direction
+			- Bonds of ozone are unstableish, absorb some UV radiation in upper atmosphere, is disrupted by chloroflorocarbons from propellants breaking down in UV rays, pulls off Oxygen which forms chlorinemonoxide and loses ozone, the thinnest places like the poles get thinner, melts ice
+			- At surface level, ozone is a pollutant(cell membrane disruptor, good for sewage/killing bacteria)
+	- Carbon cycle
+		- Important cycle for living organismims just as oxygen-both tied together
+		- Has both global and local flux(seasonal)
+			- Northern hemisphere, highest amnt carbon during winter(trees)
+			- more landmass in the northern hemisphere in the northern hemisphere, so higher carbon budget
+		- Hourly carbon differences
+			- Sunrise highest bc trees, lose carbon bc trees
+		- Sinks
+			- Oceans/freshwater habitats
+			- Plants particularly the tropics
+			- Fossil fuels at 13g/m^2/yr absorb it(carbonification)
+				- mostly in areas with lotsa oss and stuff, creates coal+oil+natural gas
+				- Need geological pressure
+		- Fixed as carbohydrates in photosynth
+		- More carbon out than in(majority out is respiration, combustion contribution is increasing+burning is significant too)
+		- Also Methane(CH4) into atmosphere
+			- Biggest source is cows
+			- Methane holds more heat bc bonding structure
+		- Some evidence from ice/glaciers that carbon in atm is cyclic process
+		- Carbon dioxide IS heavily correlated with temperatres(ice age, co2 was low)
+			- Started to warm, co2 spiked, then started decreasing again until~50k yrs ago, ice age, ~30k years ago, increase again
+			- If left as natural, we wouldnt get >250ppm co2 in atmosphere
+			- Line varies naturally bc of climate(ice cap melts free every summer, big glaciers mels)
+		- If increase continues, serious consequaences
+			- 9m of extra liquid from ice cap melting(florida, deleware, mass, conecticut, est coast+some in west)
+			- Definitely increase number of violent hurricanes, tornados
+		- Carbon is key to our process
+	- Nitrogen cycle
+		- Is component of amino+nucleic acids
+		- IS limiting nutrient
+		- Nitrogen is N_2 in atmosphere(triple bond, hard to break apart)
+			- Only bacteria(rozobium is one) and cyanobacteria(algae in ponds and seashore)
+			- Cyanobacteria form in chains, make heterocyst
+			- N_2+168kcal+6H+ -> 2NH3(basis for amine acids)
+				- Fixation of nitrogen into usable form
+				- Taken up by plant roots, decomposers, etc
+			- Rizosphere is around roots of trees, O+A horizons where rhizobium is located
+		- Ammonia is used by plants
+		- Wheree nitrogen is limited in soil(midwest), must inject ammonia into soil on tractor(dangerous gas)
+		- In soil, organisms go nitrofication(Oxidation of **ammonia** to Nitrate/NO2 or Nitrite/NO3)
+			- Different bacteria go thru different processes
+			- NO2+NO3 also usable biologically(reduce nitrogen to ammonia, use them)
+			- Nitrate is a water pollutant(Fedgov limited it)
+			- Midwest soils heavy in mitrates
+				- Condition called methyl-hemoglobia(blue baby syndrome)(nitrates tie up everything), babys and elderley turn blue
+		- DeNitrification
+			- Bacteria remove oxygen from nitrate, hook two nitrogens together into atmosphereic N2
+		- Organic nitrogen, bacteria break down into ammonia(ammonification)(mineralization/organic compound to inorganic)
+		- VERY BACTERIAL DRIVEN
+		- Rhizobium attached to roots, infects certian plant roots forming little bumps/nodules, works with plant root
+			- Nodules are on legumes(Seed pod producing plants+trees)
+		- There IS a terrestrial eutrophication(excessive plant growth bc excessive nutrients(N+Phosp become abundant not limiting))
+			- Aquatic eutrophication is phosphorous, well documented as limited nutrient
+		- Heavily bacterial driveno
+		- Intrusions
+		- Many human contributors to screwing up N cycle
+		- *Limiting Nutrient Cycle* - seen in terrestrial ecosystems
+			- Comparing N rainfall content will have excessive plant growth(east of cities)
+				- Bad bc invasive species can grow more
+				- kudzu along tennessee is massively invasive, fuled by N along interstate hwy
+				- 
+			- In eutrophication, N is primary component + phosphorous is secondary component
+			- Only natural intrusion is thunderstorm, thunderstorm can split triple bond, nitrogen then oxidized by ozone(unstable, oxidizes Nitrogen)
+			- Sewage/Sewage treatment(particularly if sewage to be used as fertilizer)
+				- Fertilizing stuff is massive problem
+			- Automobiles
+	- Phosphorus Cycle
+		- Only true sedimentary cycle(Starts in soil, weathered/added to aquatic systems, is primary aquatic eutrophication nutrien)
+		- Humans screwed up the cycle
+			- Lake/river homes didnt have sewage systems, wastes went into water
+			- phosphate based detergents(diswashing, laundry) are anthopathic compouns
+				- Anthopathic = Polar and nonpolar structures on same molecule(phospholipids)
+				- Nonpolar part of the soap disolves into stain+polar part absorbs into water
+		- Start with Phosphate(PO_4) being complexed/bonded to Ca or Fe
+		- weathering release calcium, iron, phosphate into water and down body of water, forms more sediment, etc
+		- Mineralization by bacteria, Carbs->Co2, N->Ammonia, Phosphorous mineralized into....I FORETTTTT
+		- Phosphorous used by plants, animals, deposited in fecal matter or detritus
+			- Phosphorous not usually availble for eutriphication bc always locked up in something
+		- Aquatic phosphorous
+			- Particlate
+				- Particles of phosphorous(membrane pieces, neucleic acid pieces, etc)
+			- Inorganic phosphorous(Complexed with Ca,Fe, divalent/trivalent cation)
+			- Organic(A living organism(Fish, bacteria, mold, turtles))
+			- Soluble phosphorous(orthophosphate)(Ready to use)(PO4)
+				- Only type of phosphorous we care about for eutrophication
+				- Only type readily avalible for bacteria+Algae to be used for stuff
+				- Testing kits test for this
+		- Aquatic eutrophication is well known, important
+			- Aquatic chemistry
+			- When something dies, it falls to the bottom, is deocmposed, decomposition at efficency is Aerobic process
+			- Add phosphorous, algae grows, dies, fall to the bottom, decomposed, uses up o2
+				- Oxygen in water maximum amount is 8ppm(notalot, depends on temp(warmer, less))
+				- PPM drops bc algae, fish die, need o2 to decompose, etc
+				- As o2 ppm decreases, pH increases
+				- When pH increases, phosphorous becomes mobile, removed from sediment, goes to the top, more algae
+			- Started with phosphate based detergents for 1950s-1980s, many ponds, etc algae, fish, etc
+			- 1980s phospate based detergents banned, still cant get phosphorous out of the system, eutrophic lakes will always be eutrophic
+	- Succession
+		- Step-like change in relative abundance of dominant species(Clements and Cowles)
+			- Is a plant ecology thing, can talk abt animals but not really
+			- changes in plant communities over time
+			- In 1920s, Clements and Cowles(first true amer. ecologists) on dune ecosystems at lake michigan
+				- As you move away from beach, get series of plant communities until reach old growth forest
+				- Over tiime, plant communities will replace one another(step-like process)
+		- 2 types of sucessive processes
+		- Autotrophic/primary succession
+			- Starts from bare rock substrate
+			- Takes thousands of years to progress from bare rock to climax community
+			- Primary/pioneer speices can survive without soil base/on bare rock(lichens(fungus+cyanobacteria))
+			- Once you get a soil base constructed w/ proper nutrients, etc, change from lichen/pioneer substrate to mosses
+				- Mosses can survive with minimum soul
+				- Very good at making new soil base
+			- Once soil base is made, switch to vascular plants
+				- Grasses+Weeds(r-species/organism with high shoot to root ratio)
+				- More biomass above ground than below
+				- Most energy frompsynth into reproduction
+				- Focus on reproducing seeds, etc(annuals/massive growth of seeds, FAST)
+			- Several years of r-species, get shrubs
+				- Woody plants with <2cm diameter of stem at chest height
+			- Trees - fast growing(10-15 year lifespan, soft wood trees)
+			- Climax community
+				- Old growth(members are very slow growing)
+				- K-species(opposite of r-species, lot of biomass underground/almost equal)
+				- Usually used to classify ecosystems(here should be american chestnut/hickory community)
+			- Degradative/secondary Succession
+				- Starting with disturbed soil base to begin
+				- Think of old cornfield(classic example)
+				- Farmer decides dosent want to farm anymore, plants/trees come in, etc
+				- IS something that you can see during ur lifetime
+				- Pioneer species - Grasses, annuals, r species
+				- Then Shrubs(1-2y)
+				- Fastgrowing softwood(2-3y)(some add pines here)
+				- Hardwood trees
+				- Climax
+		- Sequence may be different for each disturbance
+	- Aquatic succession is different(not called succession)
+		- Instead of plant life to describe stages, use nutrient levels(N+P lvls)
+		- Many bodies never change inital description while terrestrials can
+		- Most classification schemes use three catagories(Oligotrophic, Eutrophic, HyperEutrophic)
+		- Oligotrophic lake is clean, cold, deep, small nutrient supply(lake tahoe/crater lake)
+			- Find trout in these lakes bc high o2 lvls required by trout(4-5degC), hold the most o2
+			- Maximum amnt of o2 in water is 8ppm
+			- Relatively unproductive(not a lot of algae)
+			- Can make eutrophic(lake tahoe is on the verge of change bc cities input waste water)
+		- Eutrophic lake
+			- Lots of Phosp+Nitrogen
+			- Promotes algae growth
+			- Lots of algae swimming around
+			- Measure photic zone with secchi depth
+				- Secchi disk is used to measure depth, plastic with somethingsomething, lower it down until you cant see it
+				- Find exactly depth where secchi depth dissapears = photic zone
+			- Also is compensaiton depth(Where rate of photosynthesis == rate of cell respiration)
+				- Below this is where decomp happens
+		- Between these layers is mesotrophic
+			- Not used a lot
+			- Most lakes in PA
+			- Relatively deep, warm lakes(less dissolved o2)
+			- Lot of sport fish(bass, etc)
+		- HyperEutrophic
+			- Lot of algae, lot of p+n, very shallow
+			- May have a lot of emergent vegetation(comes out of the water)
+			- Farm ponds
+- Energy flow
+	- Nrg from sun to the earth(abt 2% solar radiation reaches earth)
+	- Only abt 1% makes it to the ground
+	- Not much more is used to support life
+	- Sun interacts with green plants(producers, produce all the energy for primary consumers)
+	- primary consumers eat green plants, secondary eat both primary+producers
+		- Primary productivity(plant, ability to convert sunlight to usable)
+		- Goss Primary Productivity
+			- Plant biomass+Plant does thru cell resp
+			- Hard to measure without aquatic biomes
+		- Net primary productivity
+			- Harvest, look at biomass measured
+			- Measure Kilocalories or grams(dry weight)
+			- What is left over for herbivores
+		- Secondary productivity
+			- Limited by the quality and quantity of food+what animals eat
+			- Can only ethically measure net
+			- Hightst when natality and growth rates are highest
+			- 10% rule abt 10% of energy from plants available to animals
+		- Pyramid(energy levels decrease per level)
+			- At top of pyramid, dont have many organizms(not enough nrg to support)
+			- Humans artifically increase other levels
+	- Decomposers return everything to nutrients
+		- Shallower lakes are warmer, hold less o2
+
+### Population Growth
+ - Population naturally grows, but has to keep with homeostasis of ecosystem
+ - Growth of populations are essential to ecosystem homeostasis
+ - Growth of a population usually outstrips nutrient growth(bad for homeostasis)
+	 - In a lake, if lotsa phosphorous, animals grow
+ - Then population has to find new nutrient source
+	 - Usually the second source is limited too :(
+ - Populations are dependent upon growth factors
+	 - Food availability(decent, constant)
+	 - Competition for food
+		 - Different specied organisms compete for limited amount of food
+		 - Trying to not be food for others
+	 - Space
+		 - Space needed for living and reproduction
+		 - Compete for different positions(birds nesting at different points in a tree)
+	 - Others
+		 - Competition for mates
+		 - Coming back early was adventageous for mate selection
+	 - Disease
+		 - White-nose fungal infection(bats)
+		 - Only in bats, limits only bats population
+ - Net Reproduction rate $R_0$(ratio of females that are born to females in the current generation)
+	 - Use females bc females are the only ones able to bear children
+	 - In healthy human society, $R_0 = 2.0$
+ - Break ppl into age cohorts
+	 - $N_t = R_0^tN_0$
+	 - $N_0$ is initial population, $n_t$ is population at time $t$
+	 - From life tables() the expected number of females born to the current generation is
+		 - $$R_0 =\sum_0^\infty{l_xb_x}$$
+		 - $L_x$ is average life span in that generation and $b_x$ is birth rate for that(one) generation
+		 - Many generations in a population
+		 - $dN/dT = rN$ r is intrinsic rate of growth|B_0-d_0|(includes males)
+		 - $N_t = N_0e^{rt}$, Cacluclate change in rates if the birth and death rates are about the same=stable population
+	 - Compare number of young to number of old
+		 - Speaks to health care and diet how old ppl get
+		 - US is slow growing, r is low
+		 - after ~35-44, more females then males
+ - With derivative, measure maximum r * N
+	 - Called j-shaped, indicates hypothetical unlimited growth
+	 - Human population follows somewhat
+	 - Other organisms always another(limiting) factor
+	 - Carrying capactiy(K) is end of s-shaped curve
+		 - Limits number of organisms from that population able to inhabit specific ecosystem
+		 - Population goes past carrying capacity, modulates around carrying capacity
+		 - rmaxN((K-N)/K)
+		 - Humans have moved the carrying capacity of earth for humans
+		 - Acceleration, inflection point, deceleration, steady state(R-species quicly reaches carrying capacity/bot of scurve, K-species hovers around carrying capacity, end of scurv)
+		 - Competition(NICHEs)
+			 - Joseph grinnell(1920s)(ecological niche/space where organism exists)
+			 - Schelfords law of tolerance, zone of toleratnce is ^^
+		 - G. Eveyln Hutchinson linked niche+competiio
+		 - Hutchinsonian niche(space is 3d hypervolume) Axis: food, water, shelter, one species occupies one area, Not overlapping, no competition
+		 - Large speace where orf=e
+		 - Fundamental is volume that CAN be occupied, realized Niche is space ACTUALLLY what is taken up
+		 - In schellford curves, some overlap
+		 - Fraction of nic i
+		 - Niche Width
+			 - Range of resources used by an organism
+		 - Niche shift//(change characteristics)
+		 - COmeptitive excliusion
+			 - Short term
+			 - Extinction of species
+			 -	Gauss says 2 organisms cant live in same niche1 kjsd, one species that can use resources better goes to extinction
+			 PAGE IN NOTEBOOKKKKKK

@@ -1,0 +1,76 @@
+In-Class Gilded Age
+
+# 2/17/2021 Theo Urban
+## APUSH PD5(6) Gilded Age In-Class
+***
+### Factors spawning Industrial Maturaty
+ - Growing Labor supply(including shift in work location)
+	 - Working for oneself is becoming obselete w/industrial shift to wage labor
+	 - Typically means no say in production etc
+	 - Unskilled, learn to use one machine, just one moment in production
+	 - Labor supply is unlimited
+	 - Rapid rise in immigration
+		 - Pushed by famine, environemntal catastrophe, persecution, econ downturns, etc
+		 - Pulled by jobs, american dream, freedom/democracy, heading west
+		 - Become feedback loop of exploitation
+	 - Exploitation
+		 - PPl become expendable, complaints result in employment termination
+		 - Poor/dangerous working conditions(Machines, lighting, Air particles)
+		 - Not being paid a fair wage
+		 - US has highest rate of industrial accident in the world, despite not leading in industrialization
+	 - Consequences
+		 - Class divisions becoming more visible
+		 - Rich get richer, poor get poorer(tenements)
+		 - Middle class move to suburbs w/ use of streetcars + etc
+		 - Richest 1% isolate themselves
+		 - Push to attend college(college boom)
+ - Freedom is rooted in ability to compete
+	- Workers have right to make demands
+	- Employers have right to meet, negotiate or fire the demand
+	- Liberty of contract is right to enter contract, government should not regulate that, interferes with freedom
+	- Entrepreneurs complain that regulation violates freedom
+	- Not benefiting workers bc employer-worker relationship is imbalanced
+	- Leads to begenning of labor mvmnt, saying that ^^ is cycle detrimental to worker
+		- First Labor union is KOL, organise all workers
+		- Agitate for better working conditions
+		- Usually dont hold out for better conditions, are okay with minor pay raise(triangle shirtwaste factory fire) or decreased work hours
+	- Social problem
+		- Concentration of wealth, some explain it others break it up
+		- "Reformers" are afraid of lower classes trying to advance own interests threatening property
+		- Explain w/ darwin, social darwinism popularized by sumner and spencer
+		- Frank acceptance of inequality with social darwinism
+		- Group of educated+commonly women ppl high up in society concerned abt class warfare, growing concentration of capital
+			- Start thinking abt plans for chg+solutions for poverty
+			- Begenning of ppl wanting to change/reform lower class situation, evolves into progressive mvmnt
+			- Moral branch, based in christianity, focus on improving social conditions/regulation/intervention of behavior
+				- Temperance, prostitution, gambling, birth control, ETC
+				- Regulate with federal/state governments
+				- Contradiction bc no regulation for business w/ regulation of social behavior
+			- Social Gospel
+				- Related to Moral Reform
+				- Says that freedom and spiritual dev require equalization of wealth+power, happens w/reformers moving(not moving houses) into urban areas with relief programming
+				- Not government being involved
+	- Politics
+		- Period of political Stalemate/inaction/corruption
+		- On the surface, very good, underneath it is not good
+		- Corporations dominating politics
+			- PPL opressed as compete for riches
+			- 2 political parties are similar+comfortable
+			- Universal Male suffrage(dont even have to be a citizen)
+		- Corporation power controls politics
+			- Corruption is pervasive
+			- Urban politics dominated by political machines
+				- Machines lead by charismatic person who builds relations with biz ppl+with working poor
+				- Relationships+aid+supporting corporation bills, etc, get corruption on all levels
+			- Boss tweed/tweed ring in NYC
+			- National level is credit moblier+whiskey ring(Grant, whiskey manufacturers+others defraud gov)
+		- Dems+Republicans similar, supported from different areas
+			- Republicans find support with NE+north midwest+blacks
+			- Dems support by south+texas
+			- Balanced on electoral college
+			- Republicans protect industrialists+bankers
+			- Dems favor segreation+some regulation, with loopholes
+				- Sherman antitrust supposed to ban free trade restrictions, misapplied to prevent unions
+				- State government responsibility to regulate, fail bc RR don't stick to one state
+				- ICC begins fixing that, 27 years into IR
+				- 

@@ -1,0 +1,481 @@
+Plant anatomy
+
+# 11/10/2020 Theo Urban
+## In-Class Plant Anatomy notes
+***
+### Photorespiration/O2 problem
+ - When O2 gets caught in C3, go thru Photorespiration cycle
+ - Happens more in C3 bc Only one CO2/ more seperated from RuBisCo
+ - RuBisCo hooks O2 to rubp, changes pathway entirely
+ - Makes amino acids(glycine and serine)+G3P+other useful things
+ - Plant can use this
+ - C4 and CAM plants go through this process less frequently than C3(25% in C3)/wasted nrg
+ - C3 plants are less efficent at fixing carbon
+	 - Evolution says C3 plants should be elim.
+	 - Not true(most flowering plants C3)
+	 - Must be no selective pressure for C3 plants
+ - Process evolved sans O2, now that there is, they have this other cycle
+ - C4/CAM plants hold water, only open at night, less o2 to get involved
+ - Buliform cells filled with water at start of day, stop photorespiration when empty/dry @ night
+ - C4/CAM plants manage o2 much better
+
+### Glyoxylic pathway
+ - happens in the spring
+ - Seeds germinating
+ - Seeds are mostly fatty acids(shiny)
+ - Seed has to convert fatty acids to usable nrg
+ - Glyoxylic cycle does this
+	 - Beta oxidation breaks down fatty acids
+	 - Broken into Acetyl(2C) groups
+	 - Hooked to COA, to glyoxix acid to malic acid 
+	 - Malic acid goes into calvin/krebs cycle, get glucose
+	 - Glucose goes thru glycolysis
+	 - Malic acid can go to Mitochandria, krebs cycle
+	 - Takes place in glyocisome/similar to peroxisome
+ - Nuts have so much stuff bc they have to have EVERYTHING to sprout
+
+### Cellular Energetics
+ - Relationship btw photosynth and cell resp
+ - Plants have both chloroplast and MC
+ - G3P is the one common link between the process(most important step)
+ - G3P can become many things
+
+### Anerobic Respiration
+ - Many organisims dont have access to O2(bottom of ocean, pond muck)
+ - Glycolysis, Krebs, ETC, but final e- acceptor not O
+	 - Sulfur can be used(same group as o2)
+	 - Form H2S or hydrogen sulfide(rotten eggs)
+	 - Form in hot springs/mud
+	 - Sulfate reducing bacteria(add H2 to sulfur)
+	 - Sulfur accessable in ocean bc ocean vents excrete SO2, break down into S and O2
+	 - Use O2 in other things(amino acids/etc)
+	 - use S as final e- acceptor
+	 - CO2 is reduced to methane(O used for amino acids and stuff)
+	 - 
+ - No photorespiration or anything with light in deep ocean
+	 - Bacteria use chemicals in place of sun, are producers
+	 - Tube worms eat bacteria 
+	 - Basically totally different trophic pyramid
+
+### Anabolic Production
+ - Carbs
+	 - Glucose produced from G3P/reverse glycolysis, 
+	 - Get glucose, glycogen, starch, cellulose
+	 - In bacteria, peptidoglycan made from fructose in glyc
+ - Fatty acid
+	 - Reverse Beta oxidation
+	 - Sticks acetyl groups back together(makes amino acids)
+	 - Get DHAP, used to convert to glycerol/triglycerides
+ - Amino Acid
+	 - Intermediates of krebs
+	 - Oxylacedic acid+amine group-animation->move amine froups to amino acids
+ - Neucleic acids
+	 - Pentose pathway
+ - Each organisim produces some if not all of them
+	 - Plants All
+	 - Animals Most/eat food(essential nutrients)
+	 - Algae/Lower animals can produce all
+
+## Plant science
+ - frequently shows up on AP
+ - Chap 29, 30, 35
+ - Different tissues like in humans
+ - Growth, Structure, Vascular Tissues
+ - Grouth tissues become structural and vascular tissues
+ - Plant cells divide once, then stop
+ - growth tissues continue division(most plant cells only divide once or is dead tissue)
+ - Bark is only living part of a tree(center is dead)
+### Growth Tissues
+ - Apical Meristem(roots and chutes)
+	 - Allows plant to grow up and down
+	 - Also at tips of branches
+	 - Anything @ end of line
+	 - Roots
+		 - Zone of cell division(zone of mytotic activity)
+			 - Some vasucar tissue
+			 - Cells undergo single cell division
+			 - Zone of elongation
+			 - In elongation zone, acid growth hypothesis, cell pumps electrolytes to btw cell wall+plasma membrane
+			 - Acids stretch things(becomes hypertonic, water moves in, stretches, electrolytes neutralized, cells stops growing)
+		 - Soil-side, root cap, cells fall off as root goes further(like skin)
+ - Vascular Meristem/Cambian
+	 - Produces xylem+phloem
+	 - Xylem(roots to leaves) Phloem(Leaves to roots)
+	 - Once Xylem divides, neucleus dies, is hollow
+	 - Phloem is alive
+	 - Herbacious plants don't have woody stems(annuals)
+ - Woody plants also have lateral meristem
+	 - Produce protective material+cork
+	 - All trees have cork
+	 - Cork trees have really big cork
+	 - protocambian
+ - Root caps
+	 - Root cap produces significant CO2
+	 - Helps roots grow down
+	 - Water+CO2->Carbonic Acid
+	 - This is why rain is acidic
+	 - Carbonic acid is mildly acidic, breaks down soil
+ - Shoot
+	 - Same structures
+	 - Apical meristem
+		 - Procambian(begennigs of xylem and phloem)
+		 - ground meristem produces cap-kind of
+		 - protoderm = infant cortex cells
+		 - primordia = begennings of buds + leaves
+	 - Apical meristem is always where bud produced+always in all roots
+	 - Lateral meristem
+		 - Vascular meristem
+		 - Gives rise to xylem+phloem
+		 - Everything outside of vascular cambium is phloem(living)
+		 - On inside is xylem(dead)/hollow
+			 - primary xylem(og xylem plant starting to grow)
+			 - Everything else is 2ndary xylem
+			 - peice of wood is all xylem
+			 - In woody dicots,xylems in groups formed on either half of vascular cambium
+			 - inside of vascular cambium is pith
+			 - Eventually pith becomes hart wood
+			 - pith is storage place for nutrients, enzymes, etc
+			 - Other side is phloem
+			 - Everythign between vascular cambium and epidermis is all living(phloem+cortex)
+		 - Most trees also have cork cambian
+			 - Builds cork layer
+			 - in semi-desert climates, drought tolerant trees w/cork
+			 - Most trees have small cork layers produced by cork cambina
+			 - in portugal/iberian peninsula, cork trees produce more layers
+	 - Meristem tissue does undergo mitosis(mitotically active part of plant)
+ - Other tissues
+ - Structural tissues
+	 - Parenchyma
+		 - basic generic tissue
+		 - Sometimes storage
+		 - in leaves, is mesophyll(photosynthetic)
+		 - Makes up cortex in woody dicots
+	 - Sclerenchyma tissue(stronger than col)
+		 - Support monocot vascular tissue and in dicot seeds
+		 - Produced, then loses all cellular components
+		 - strengthens other tissues
+		 - Called stone cells
+		 - Also found in seeds of stone fruits(peach/cherries/avacado)
+	 - Collenchyma
+		 - cell walls thinner than scleren
+		 - located in epidermis in mono+dicots
+		 - may or may not have cytoplasm
+	 - Chlorenchyma
+		 - photosynthetic
+		 - not recognized anymore
+		 - basically mesophyl tissue
+ - Non-Meristematic Tissue
+	 - Plant fibers
+	 - Make Grains
+	 - Make little tubes to conduct resin/sap
+	 - Support mechanisim in trees
+	 - Mostly inflexible
+	 - Conduct electricity bc lotsa water
+ - Vascular tissue
+	 - 2 types
+	 - Either vessels(pine trees)
+	 - Trachids(non pine trees)
+	 - SLIDE(a,b vessls/civ plates/constant flow moving up/prevents air bubbles with grate)(c-e trachids in angiosperms/flowering plants/no grates, many little holes/pits to break up air)
+	 - Bundles
+		 - eyes, mouth, nose are xylem
+		 - look at slides
+	 - Phloem
+		 - actual living tissue
+		 - (xylem loses cytoplasm)
+		 - Living tissue side of vascular cambium
+		 - phloem made of 2 diff cells
+			 - civ tube cell w/vessels
+			 - companion cell regulating everything in civ tube cell
+			 - Excess sugar from photosynth goes into phloem, redistributed to where needed
+			 - companion cell redirects sugar
+ - Acedemic opportunity ends w/ vascular tissues
+ - Monocots usually annual bc vascular cambian dosen't keep reproducing(Randomly distributed)
+
+### Leaves
+ - C3 leaf vs C4(cam similar) leaf
+ - note: more/better light in tropics bc the atmosphere has to deflect the light less
+ - C3
+	 - C3 most frequently falling down leaves
+	 - Top layer is cuticle, waterproofing layer, waxy, produced by leaf(G3P->DHAP->Fatty Acids), thicker in tropics(more water loss bc plants evolve to use more water, cant lose as much)
+	 - Below that is epidermis
+	 - below that is palisade mesophyll(parenchyma cells)
+		 - palisades means vertical/perp to epidermis
+		 - whole layer of cells in line with sunlight, more surface area, better photosynth
+		 - in tropics, have multiple layers of palisade mesophyl(better light)
+	 - Spongy mesophyl(parenchyma)
+		 - Has air spaces(sub-stomatal crypt)
+			 - also layer thin of water surrounding cells
+			 - co2 and o2 go between these cells, obey gas laws
+			 - Law of partial pressures, so cant survive in pure o2 bc cant move co2 around
+		 - Where gas exchange takes place
+		 - Stomata(opening) and guard cells(control opening) control this
+		 - on a dicot leaf(but not waterlilies), stomata on bottom epidermis
+	 - Lower epidermis has thin cuticle as well
+	 - Bundle sheath mostly structural
+ - C4
+	 - Photosynthetic cells are mesophyl cells where light collected, CO2 is fixed, calvin cycle occurs in bundle sheath cells
+	 - stomata on both surfaces
+	 - Also have bolate cells on epidermis, 3 parenchyma cells
+		 - Start out day filled w/ water
+		 - water moved into mesophyl 4 photosynth
+		 - Leaf starts to curl bc change water(crab grass)
+		 - leafs dont do photosynth anymore, prevent from burning up/drying out
+	 - Guard cells
+		 - Osmotic principles
+		 - Stomata is hole regulated in size by guard cell(behind stomata is crypt)
+		 - Malate transported w/ K+ to gaurd cell(active transport), causes ion imbalance
+		 - Causes water to move into cells(CELL is hypertonic)
+		 - Opens stomata bc cell swells
+		 - inner layer of cell not very flexible, so swells up to make opening
+		 - k+ leaks out, malate is used by photosynth(calvin cycle), hole closes
+		 - Environmental cues for opening+closing
+			 - Opening at dawn triggered by light
+			 - CO2 deblletion
+			 - Circadian rhythym(in plants is light dominated)
+			 - High temperatures close stomata bc lose water
+			 - Absicic acid (plant hormone) produced bc lack of water, closes stomata
+			 - Backwards for cam plants(open @ night) bc water
+### Roots
+ - Anchor plant to substrate
+ - Primary source of nutrients
+ - Soils low in nutrients have adapted roots
+ - Apical meristem
+	 - pictured is monocot
+	 - See mature xylem(in cross)+phloem(in arms of cross)
+	 - Vascular stele surrounded by endodermis(waterproofed by casparian strip)
+	 - Casparian strip lets water, nutrients in, only lets starches out into cortex
+ - Zone of maturation 
+	 - Root hairs(extenstions of epidermis)
+		 - Incredibly fragile
+		 - Usually when u pull a plant up, lose root hairs
+		 - Increases surface area for mineral+nutrient absorption
+		 - Lot of energy expended in root hair to transport nutrients
+		 - Mostly facilitated diffusion, osmosis
+		 - As soil drys out, water around roots gone, more air spaces
+			 - all plants have fundamental minimum of water needed(permenant wilting point)(point when water in soil when water is so low plants never come back)
+		 - Field capacity for water
+			 - if all air spaces filled up, cannot hold more water, then makes runoff
+	 - Water+minerals move into cortex cells thru osmosis+facillitated diffusion
+		 - Get into vascular stele, xylem+phloem(apoplastic movement)
+	 - Alternately moves around cortex cells(sim-plastic movement)
+ - Root types
+	 - Fiborous/Diffuse roots (C4) Pictured left 
+		 - Better at retaining soil
+		 - Grass good for growing near eroding places
+	 - Adventitious/brace roots, grow up(ivy)
+	 - Taproots(C3)(Right)
+		 - Branches off of them called lateral roots
+		 - Lateral roots produced by perry cycle
+		 - After long time, lateral roots resemble diffuse roots
+		 - Equal surface area to above ground, trees have taproots, grow in weird formations bc follow earth
+		 - Taproots have same width as tree trunk
+	 - Moss has root-like system(rhizomes), short, small tissues anchor plant to substrate
+		 - moss can grab a lot of substrate
+		 - Moss can build better substrate for future plants
+		 - Taproots theoretically like mirror image to above ground tree
+ - Plant growth(dg/dt)
+	 - Growth of seed
+	 - glyoxysosomes convert fatty acids to sugar
+	 - Little white spot in bean is embryo(dicots)
+		 - radical grows from there, becomes roots
+			 - sprouts, bends down bc gravity+hormones
+		 - Hypotococtyal(coleoptile)(apical meristem) grows from WHERE???, becomes stem
+			 - Bends upward bc sunlight+hormones
+			 - Breaks thru soil with seed, begins leaves
+		 - cotyledens are old and wrinkly bc glyocysomes extracted all faty acids
+		 - Below cotyleden is hypocotyl, above is epicotyl
+	 - Monocot
+		 - Still have embryo(in corn, at point of corn)
+		 - Still have radical to produce roots
+		 - bc cotlyeden stays in place, stem called coleoptile, unfolds into leaf
+	 - Seed sprout if warm enough, water is avalible
+	 - Also controlled hormonally
+		 - phytoestrogens allow for cellular growth
+		 - if in large concentrations, can have negative effect (excessive growth) in animals(frequently produced by water plants, animal consumes water etc.)
+		 - Tropism is response resulting in organs moving away from or toward a stimulus(can have + or - response)
+			 - Darwin+Son expiremetned on phototropism(plant response to light)
+			 - Saw grass seedling grow toward light if only coleophtile is present
+			 - developed words without knowing abt hormones
+			 - Positive response is taxic response
+			 - Negative response is nasty response
+			 - Phototaxic means is attracted to light
+			 - Photonasty means is avoiding light
+		 - Plants produce hormones in low concentrations(very responsive to hormone)
+		 - Responses are everything a plant does(division, elongation, etc)
+		 - Plants have many hormones
+	 - Hormone that causes photonasty/taxic is Auxin
+		 - causes cell to grow or not(acid growth hypothesis)
+		 - in radical, auxins pool on lower side bc gravity
+		 - higher concentrations inhibit elnogation down, plant grows up
+		 - if on upper side, lower concentration, cells elongate and root points down(gravity)
+	     - in hypocotyl, low concentrations inhubit cell elongation
+		 - Larger concentrations towards light, not inhibited
+		 - Works by stimulating(or not) proton pumps creating gradient
+		 - Auxin also alters geneexpression, stimulates a sustained growth
+		 - Removal or addition of too much auxin kills plant
+		 - Stimulates growth in lower branchses
+		 - controls arrangement of leaves on stem
+		 - Directs leaf vein patterns
+		 - vascular combium controlled by auxin
+		 - Auxin as herbicide
+			 - IBA stimulates adventitious roots, stimulates cuttings
+			 - Overdose of IBA can kill dicots(agent orange)
+	 - Cytokinins stimulate cell division
+		 - active in roots, shoots, fruits
+		 - works with auxins
+		 - can slow plant aging by inhibiting protein breakdown, stimulating rna and protein synth
+	 - Gibberellins
+		 - sensitive to water and soil temp
+		 - stimulates glyoxysome to start plant growth
+		 - in stems, also help stimulate cell division+elongation
+		 - after contacting water, gibberellins released, signal germination
+	 - Stems
+		 - Arise from shoots
+			 - in dicot comes from hypocotyl
+			 - In monocot comes from coleopile
+			 - Cotlyeldens(food go with stem as it grows)
+			 - Eventually leaves bud out, unfurl, then cotyledens not needed for food
+			 - Once cotyledens fall off, epi/hypo stem become integrated into stem
+			 - Leaves come from apical meristem/basically modified parencyma tissue
+		 - Plumule
+			 - Epicotyls - Stem
+			 - Leaf Primordia - Leaf
+			 - Apical meristem - Parenchyma
+		 - Stem Consists of 
+			 - Alternating system of nodes/points where leaves were attached
+			 - Plant+leaf begin building up cellulose to make cell wall, eventually leaves scar, where leaf attached, called node
+			 - Node can have 2 or three leaf scars on opposite sides of stem(opposite leaf arangement)
+			 - Little white bumps on stem are lenticiles for gas exchange all along twig(lose when get bigger bc needs less o2)
+			 - Axilary buds form on sides of twig, have potential to become branch
+			 - Apical/terminal buds are at end
+			 - Vascular bundle scars formed when leaf broken off bc tree scabs over the bundles to prevent nutrient loss
+			 - Alternate leaves are when angle of leaves shifts to be perpendicular to previous leaf set(1 scar per node)
+			 - Distance between each node is called internode
+			 - Opposite nodes are when one node has 2 scars on either side of the twig(2 scars per node)
+			 - When Nodes scar with many right next to each other, it is whorled(2+ scars per node)
+	 - Water transport
+		 - Uses osmosis
+		 - Area of low concentration to high solute concentration
+		 - Water potential is measurement combining solute concentration and pressure
+			 - Deterimens direction of movement of water
+			 - $\Psi$ is measure of pressure across membrane
+			 - Flows fromhigher water potential to lower water potential
+			 - Potential is capacity to do work
+			 - water potential is abbreviated as $\Psi$ in megapascals(MPa)
+			 - $\Psi$ = 0MPa for pure water at Std temp+sea lvl
+		 - Equation
+			 - Water potential affected by pressure and solute concentration
+			 - Expressed by $\Psi = \Psi_s+\Psi_p$
+			 - $\Psi_s$ is solute potential is proportional to molarity
+			 - Solute potential is also called osmotic potential
+			 - $\Psi_p$ is pressure potential is physical pressure on solution
+		 - Turgor Pressure is pressure by plasma membrane against cell wall+cell wall against protoplast
+			 - Seen by water exiting cell
+			 - Cell is hypertonic, water flows in, measuring pressure of water on cell wall/moving of water back out to prevent bursting thru aquaporins
+			 - cell can drown bc loses ions in pumping out water
+		 - Efficent long distance transport driven by pressure
+			 - This is how plants move water from roots to vascular steele
+			 - transport water across cortex, move using small amounts of pressure SYMPLASITC
+		 - At vascular steele
+			 - Outer layer(outside of vascular steele) is endodermis(where paras cycle and lateral roots)
+			 - diffuses into vascular steele thru endodermis, cant go out bc blocked by casparian strip
+			 - Pressure created bc water cant go out, so it must go up(root pressure)
+	 - Transpiration
+		 - Evaporation of water from stomata
+		 - In cojuunction with root pressure, pulls water up(massive concentration gradient)
+		 - Capilary pressure/adhesion+cohesion/cohesion tension hypothesis
+		 - Xylem sap is normally under negative pressure/tension
+		 - if you remove phloem, water still pumped up, strip bark
+- Stuff going down(pressure flow hypothesis)
+	- Active transport of water and photosynate into xylem
+	- works with coheson-tension hypothesis
+	- Cotransport of sugars(sucrose)
+	- h+ ion attached to sucrose(cotransport molecule) put into phloem
+	- angeosperms, seive-tube elements are conduits for translacation
+		- Phloem sap is sucrose solution from leavees
+		- Sugar source is net producer of sugar(mature leaves)
+		- Sugar sink is organ that is net consumer or storage of sugar like tuber or bulb
+	- Phloem is living; how sugars move, how pick up H+ is all regulated by companion cell
+	- Process starts in leaves, is called phloem loaded
+		- Phloem loaded with sucrose +cotransporter
+		- then pushed down phloem into roots(phloem is hypotonic), water moves in, pushes sucrose+H+ down bc h+ prevents from leaving
+	- once gets to roots, h+ detached, sucrose goes into cells, water recycled
+### Boesman info
+ - Water potential allows us to figure out if water will flow 
+ - $\Psi$ is symbol
+ - Osmosis
+	 - adding solute to solution decreases water potential by making more space bc water attracted to solute
+	 - Water flows from high to low potential
+	 - Flows up tree (roots -2 bars, stems -6 bars, leaves -15, atmosphere -1000)
+	 - Water evaporated as move up in leaves
+	 - $\Psi_s$ water flowing by osmosis, drops with added solutes
+	 - $\Psi_p$ is physical pressure, pressure of wall on membrane+vice versa, pressure potential, is positive/water pushed out
+	 - $\Psi_T = \Psi_s+\Psi_p$
+	 - $\Psi_s = -iCRT$
+		 - $i$ is ionization consant(NaCl=2, Sucrose=1)(breaks apart so we multiply)
+		 - $C$ is concentration(moles/liter)(molarity)
+		 - $R$ Pressure constant(.0831 liter bars/mole K)
+		 - $T$ is temperature, molecules bounce around more(kelvin)
+		 - Overall water potential is $(\Psi_s = iCRT)+(\Psi_p= 0 \ bc\  open beaker)$
+ - KISH AGAIN
+ - Reproduction in plants
+	 - Cover entire spectrum of both sexual and asexual methods(diff plants do diff things)
+	 - Process of reproduction in plants is similar to in animals
+		 - Female gamete production is different
+		 - Different cells to produce each
+	 - Special cells produce gametes at different times of year
+		 - Like some rodents
+	 - Most plants obey alternation-of-generation
+		 - Alter between haploid(single chromosome set) and diploid(double chromosome set stages
+		 - Haploid are mostly gametes
+			 - Gametophyte generation
+		 - Diploid is mostly adult plants
+			 - Sporophyte generation
+	 - in ferns, spores produced(little brown dots)
+	 - Some plants are just haploid(algae)(no land plants)(plants and cyanobacteria and some singlecelled protists)
+	 - If dominant spore generation, life cycle is diplohaplonitc(most common generation/dominant generation is diploid)(oak, maple, most plants)
+	 - if  opposite, haplodiplonitc(only mosses)
+	 - We will consider only reporduction in more common plants like flowers
+	 - 2 types of gamete producing cells
+		 - Microspore mother cells
+		 - Megaspore mother cells
+		 - microspore mother cells produce pollen(male sperm/smaller)
+		 - Megaspore mother cells produce egg(larger)
+		 - Microsporogenesis
+			 - Where microspore mother cell meisois devodes forms 4 pollen
+			 - Each plant species produces different shape
+			 - To produce male gametes is similar to all other male gamete production
+		 - Megasporogenesis
+			 - Plant ovaries produce many different ovuleles
+			 - in each ovulele multiple potential eggs
+			 - White part of inside of pepper is placenta, all little seeds found in ovule
+			 - Entire pepper is ovary
+			 - A lot of ovules produced
+			 - Each ovule has megaspore mother cell
+			 - Megaspore mother cell devides by meiosis(produces for haploid cells)
+			 - 3 haploid cells reabsorbed(akin to polar bodies)
+			 - 1 cell divides 3x, forming 8 haploid cells
+			 -	3 at bottom, 2 in middle of seed, 3 at top
+			  - 1 of 3 at bottom is egg, others are supporting synergids
+			  - Polar neuclei are in middle, will be fertilized(once fertilized middle becomes triploid and becomes cotyleden)
+			  - Synergids and antipodals get reabsorped by plant, dont do anything
+			  - Illustrates randomness of DNA transfer bc lots of mixing up before fertilized
+		 - pollen
+		 - Flowers
+			 - Gametophyte generation(gamete producing)
+			 - Male part is stamen
+			 - Stamen contains anther(contains microspore mother cells)(supported by filament)
+			 - Female part is pistil, made up of stigma at top, then style, then ovary
+			 - If flower has both male and female parts, perfect flowers
+			 - If have petals and sepals and stamens and pistil then complete flower
+		 - Reproduction in angiosperms
+			 - pollen lands on stigma somehow, grows pollen tube 
+			 - Stigma is specie specific, pollen from other plant cant fertilize one plant
+			 - Plants will dissolve and kill any nonfriendly pollen grain
+			 - Pollen grain sprouts, tube neucleus starts producing pollen tube
+			 - In angeosperms, pollen tube production is fast
+			 - Grows thru style into ovule, sperm neuclei released, then fertilization happens
+			 - in pine tree, takes 2 years(gets neucleus after 1 year, 2 for pine seed to develop)
+			 - 
+			 
+		 - 

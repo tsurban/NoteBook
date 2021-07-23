@@ -1,0 +1,46 @@
+APUSH IN CLASS NOTES DEBATES MARKET REVOLUTION
+
+### Debate isms
+ - 3 debates
+ - Nationalism(loyalty to nation as whole) vs Sectionalism(loyalty to your section)
+ - Expansion of slavery(should louisiana territory states get slavery)
+	 - Northwest ordinance only applies to northwest region, not Louisiana territory
+	 - Need new policies to determine
+	 - Migration along longitudinal lines(esat to west)
+	 - Missouri is in line with slave states
+	 - This debate is about political power
+	 - More southern representation in house bc 3/5 compromise
+	 - 4 of first 5 prez are southerners
+	 - Debate is about future states, not just missouri
+	 - Compromise of 1820/missouri compromise
+		 - Maine comes in as free, missouri comes in as slaves
+		 - Equal in senate(not in house or electoral)
+		 - Everything in the LP above southern line of missouri is not slavery(except missouri)
+		 - Preserves politics for 30 years
+		 - Deepens sectionalism
+		 - Impact on migration(driven by continentalism)/dosent acount for future migration
+ - Role of government in economy
+	 - Brtish blockade prevent importing of british goods and exporting of american goods
+		 - forces self sufficency
+		 - Encourages industry
+		 - Once trade resumes, ppl woried that new, small industry in america will die
+		 - What is the role of the gov of making ^^ happen
+			 - Emulate england in colonial period
+			 - Protective tarrifs included in comprehensive plan by madison, enacted by quincy adams
+			 - 3 Parts
+			 - renew national bank 
+			 - Protective tarrifs
+			 - Federal financing for infrastructure
+			 - Madison+Munroe both opposed to infrastructure(not explicitly in constitution)
+			 - John Quincy adams backs all 3(using nessecary+proper clause)
+			 - JQA also proposes more nationalist programs
+		 - Creates 2 parties(democratic republican --> democrats)(JQA/Federalists --> Whigs)
+		 - Infrastructure not adopted(left up to states)
+ -  Debate on who gets to participate in politics
+	 - 12th amendment
+	 - 1860, univeral white men suffrage(no property qualification)
+	 - Further expansion of public sphere(information revolution)(steam powered printing press, lower postal rates, more newspapers can be produced and travel farther)(newspapers catered to political groups)
+	 - Expansion of political parties 
+		 - transcent grographical boundaries
+		 - Sense of togetherness bc meet in bars, etc
+Notes on how 3 debates continue in jackson presidency, tension btw isms

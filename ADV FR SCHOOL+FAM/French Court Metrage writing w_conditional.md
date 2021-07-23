@@ -1,0 +1,3 @@
+French Court Metrage writing w/conditional
+
+Cette film represente l'ecole avec étudiants qui sont tres mechante.  Le eleves sont mecahnts à une fils pour rien de raison. Ils prendrent la livre de la fils et ils jetent bals de papier à elle.  Je n'ai vu jamais harceélement comme ca, mais j'ai vu peitie haraceeément entre amis.  Je pense qu il est un petite ligne entre bon haraceelement et mauvais haraceement, mais en cette film, le haraceement est plus mauvais.  Je ne sais pas qu je ferais si je serais elle, parce que les profs n'est pas utile.  Je pense que c'est plus vrai, car en ecole, les profs est plus *disconnected* de le etudiants.

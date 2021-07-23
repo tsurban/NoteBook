@@ -1,0 +1,485 @@
+Molecular Genetics
+
+# DNA 
+## DNA Replication
+### DNA Structure
+ - Process by which strands copy themselves
+ - Used in neuclear division/mitosos/meiosis
+	 - S Phase, DNA Replicates to make enough dna for offspring cells
+	 - 1930s, expirement with fungus that looks like mushroom, but neucleus is in cap
+		 - different color varieties
+		 - How did organisim get different colors
+		 - Removed cap from one fungus, put on other
+		 - other turned color of the first one
+	 - Early 1950s, watson joined DNA lab as postDoc
+		 - Struggled to figure out how shaped
+		 - In associated lab, Roselyn franklin used xray crystalography(freeze molecule, then see structure in xray)
+		 - upon seeing franklins picture(watson broke into her office)
+		 - watson and crick published double helix, won nobel prize
+		 - roselyn franklin died before nobel descision
+	 - Friedrick griffiths(Started in 30s)
+		 - looked at infectious properie of strep pnemomuia
+		 - Took mice-killing strep
+		 - Coke's postulates for analysing pathogens
+			 - Isolate pathogen organisim from host
+			 - Infect another host with the isolated pathogen
+			 - Recover pathogen
+			 - Isolate
+		 - Griffiths using same idea
+		 - Strep pnemonia is a pair of bacteria
+		 - Depends if has capsule if makes you sick(no capsule no sick)
+		 - Mouse dies with capsule, Dosent die without
+		 - Heated strain with capsule, kills organism, injected into mouse, mouse lives
+		 - Took bacteria without capsule, mixed with heat treated bacteria with capsule, then mouse dies
+		 - Bacteria good at taking in dna from many sources - use for food or use for own genetics
+		 - Dead DNA from capsule bacteria into noncapsule, makes noncapsule create capsule
+	 - Meselson and Stahl
+		 - Worked with microorganisims
+		 - Tried to figure out comp. of DNA
+		 - What happened to strands of DNA in replication(Conservitive/dispersive/semiconservative replication)
+		 - Put e.coli into dish
+		 - e.coli undergoes binary fission in 20 mins in correct circumstances
+		 - Grew in Nitrogen 15(heavy nitrogen) vs Nitrogen 14(normal)
+		 - Tracked concentrations of N15 in each generation
+		 - Semi-conservative is the only one that fits the concentrations of N15(always one old string with new string)
+		 - This is why there is still some N15 left over from older strands
+ - Neucleic Acid Structure
+	 - Purine(2 rings(G+A))(short name big structure)
+	 - Pyrimidaines(1 ring(C+T+U)
+	 - chergoff determined you could figure out all amounts of A/C/G/T given one
+	 - Uracil replaces Adenine(very similar)
+	 - Form spiral structure
+	 - Major grooves and minor grooves alternate, replication enzymes sit in the grooves
+	 - Stain in DNA adheres to grooves(Methyline blue)
+
+![Screenshot from 2021-01-04 10-11-24.png](../../../_resources/de712d13aa3f4ff3a9c54da3334d05d9.png)
+
+
+	 - about 3.5 base pairs per twist
+	 - Histone proteins only found in eukaryotic organisms
+	 - Evolutionary advance in eukaryotic organisims allowing to have more DNA 
+	 - names at different phases
+		 - X-shaped Structure formed after all the wrapping is 2x chromatid
+		 - Until starts wrapping around histone, is chromatin
+		 - after done wrapping around histones is chromatids
+		 - in anaphase, become chromosomes
+	 - Sizes of DNA
+	 - Dna helix diameter is 2nm, 6 ft dna per human cell
+	 - Dna Beads on string is around histone, diameter 11nm
+	 - Folded condensin 2 30nm
+	 - chromatin nm to 700nm
+	 - Mitotic chromosome is 1400nm tall(visible to light microscope)
+	 - DNA only forms mitotic chromosome in end phase cell cycle
+	 - Scaffolding of DNA(H1 Histones/sometimes topoisomerase(enzyme preventing DNA from clumping))
+		 - sits in center and holds DNA in place
+		 - Also attached to histones
+		 - Present in Prokaryotes despite lack of histones
+	 - Each bead on the string is nucleosoome, linked to center by H1 histone
+		 - 8 histones
+		 - DNA wraps 2.5x around the 8 histones
+		 - DNA holding nucleosome together is CORE DNA
+		 - Part between nucleosomes is LINKER DNA
+
+![Nucleosome_organization.png](../../../_resources/71470933e2b54e9c8e060dea3483525a.png)
+
+	 - Helix structure
+		 - G and T have 3 hydrogen bonds
+		 - A and T have 2 hydrogen bonds
+		 - Sugars on each side are opposite/antiparallel
+			 - 5' to 3', ribose points UP
+			 - 3' to 5', ribose points DOWN
+		 - 3' to 5' goes in opposite direction of the enzyme
+		 - Enzymes very specific in general, POL no exception
+		 - DNA MUST be copied in 5' to 3' direction
+		 - Bond that is formed is formed between 5 carbon and 3 carbon on neucleotides
+			 - Called Phosphodiester
+	 - Chargoffs rule
+		 - If we know we have 28% A, 28% T, (100-28)/2% G+C
+ - Replication happens in the S Phase
+	 - During the processes of the cell cycle, there are 4 phases: Gap 1, Synthesis Gap 2, Mitotic phase
+	 - In G1 phase, cyclin(s variety or m variety) protein to regulate when it goes onto S Phase
+	 - Cyclin increases in concentration in G1 phase, when it hits a specific level, DNA synth happens
+	 - Drops away during synth, reubilds up in G2
+	 - Cell cycle takes 24hrs in human skin cell, DNA replication is 9 hrs, replaced each 5 years
+	 - Nervous system cells replicate once then go into stasis phase
+	 - E.coli cell cycle takes 20mins
+	 - Details
+		 - Cyclin starts helping all the proteins get together and assembled correctly to replicate
+		 - 4 major enzymes
+			 - Helicase - breaks hydrogen bonds between neucleotides, so strands go in different directions
+			 -	Strand in correct direction is continious strand
+			 -	Strand in opposite strand is lagging strand
+			 - DNA Polymerase - takes 5' to 3' side and pairs bases
+			 - DNA gets tangled/knotted when spun by helicase, an enzyme(Gyrase/to) to spin the dna in an oppoiste direction to prevnt tangling(in front of helicase)
+			 - ligase - forms phosphodiester bonds thru dehydration synthesis
+			 - primase - does rna primers
+			 - Multiple DNA pols(pol 1 + pol 3 in eukaryotes)
+			 - Dna pol 1 replaces rna primers
+			 - pol 3 does main matching
+			 - Single Strand Binding Proteins - prevent dna from coming back together after gone thru helicase
+			 - stop only once dna is done/over/gone
+			 -	
+ - Almost a dozen different structures of DNA
+	 - three prominent
+	 - A Form, B Form, Z Form(form naturally depending on cell conditions)
+	 - C, D, E, and F forms are synthetic
+	 - Watson and Crick wrote about the B form of DNA
+	 - A form
+		 - A Form is similar to B, but Lithium+Magnesium are present, slightly change spiral
+		 - A form appears if cell dehydrated
+		 - A form and B form are right handed twists(dextral)
+	 - Z form
+		 - Z form is left handed twist(synisteral)(more frequent than A form) because methyl(CH3) group added
+		 - Additional triple bonding btw Adenine and Thymine in Z form
+	 - C form is NOT Complementary DNA/cDNA
+
+### Prokaryotes
+ - Same kinds of enzymes
+ - 2 Big differences
+	 - Prokaryotes only have 1 DNA pol
+		 - DNA pol 1 does everything DNA pols do in eukaryotes
+	 - Replication in prokaryotes takes less time
+ - Little difference between Prokaryote+Eukaryote in many processes
+ - Replication has been evolving for a long time and hasnt varied much recently
+
+
+
+### Molecular visisons of DNA video
+ - DNA wrapped around histones to form nucleosome
+ - Nucleosomes put into thread(chromatin)
+ - chromatin looped and coiled further into chromosomes
+ - chromosomes form when cells divide and 2 copies of dna need to be separated
+ - Dna enters helicase, which spins fast to unravel dna
+	 - Lagging strand put into loop, then polymerase copies the loop, then new loop, etc
+	 - Okazaki fragments on the lagging strand where DNA is matched in short segments
+ - Replication starts in different place on each part of the chromosome
+ - Multiple "points of origin/replication"
+
+### DNA FingerPrinting
+ - Alec jeffries in 1984 figure out ppls dna was related
+ - Everyone has same genes, but different alleles that makes the people
+ - Short Tandem Repeats, between genes you have sequences that repeat with different numbers of repeats between pp1
+ - we can cut these out with restriction enzymes, use pcr to multiply them, and use gel electrophoresis to see them
+ - DNA is repelled from the negative charge at one end of the gel, so different masses pushed to different extensions
+ - Replaced by full sequencing, now can look at the actual genes not the middle sequences
+ - All cells in your body have the same dna
+ - PCR used to duplicate DNA for GEP
+	 - 1. Heat applied for dentauration(acts as helicase)
+	 - 2. Primer attaches to 3' end of each strand, servs as marker for TAQ pol which is just like pol1 1+3 but heat resistant
+ - GEP
+	 - Splitting via electricity
+	 - phosphate groups have slight negative charge
+	 - Restriction enzyme looks for exact sequence of nitrogen bases, cuts them out
+	 - multiple restriction enzyzme cutting sites used to cross-reference
+	 - Radioactive tag tags specific bit of DNA
+	 - Radioactive tag determines if 2 
+	 - in GEP, large molecules get stuck in agar and small go farther
+	 - under UV light, we can see different radioactive tags
+*** 
+### Chapter 17(transcription+translation)
+***
+ - Definition of gene
+	 - Codes for functional protein
+	 - Start of gene is initiator
+		 - Series of nulceotides (TATA Box)
+		 - Where Rna Polymerase assembles
+	 - Second part is promoter
+		 - Tells RNA POL that its in the right place
+	 - Third part is operator
+		 - Where regulatory protein sits to regulate transcription of gene
+		 - Together these three spell IPO
+	 - Then is gene
+		 - Contains much nonsense crap
+		 - divided into peices of coding and noncoding parts
+		 - Intron
+			 - Can be nonsense
+			 - Can be Deactivated gene
+			 - Some genes that only work at some points of your lif(hemoglobin has three gene copies, HE1 is fetal(0-3 months), HE 2 is toddler hemoglobin(3 months to mid puberty), HE 3 is adult/permenant hemoglobin)
+			 - As an adult HE1+2 become introns
+		 - Sigma Factor on RNA POL
+			 - One Transcription Factor
+		 - Terminator
+			 - Tells RNA POL to stop
+ - Transcription
+	 - Dosent need lotsa enzymes
+	 - Just RNA POL
+	 - RNA POL unwinds, copies, seals phosphodiester bond
+	 - Uses Uracil instead of thyamine(this is how you can tell DNA vs RNA)
+	 - Uses 5' to 3' strand
+	 - Nucleotides come in, form bonds, etc
+	 - Terminator
+		 - Cytosine/Guaine Loop(has a ton of C and G)
+		 - RNA POL hits the loop, stops(protein dissassembles)
+		 - Once hit terminator, RNA is RNA transcript
+		 - Terminator is a loop of DNA with lotsa C+G
+	 - If need lots of a protein, lots of RNA POL going over same DNA material to make many trnanscripts
+	 - In trnascripts, still have xons and introns, spliceosome used
+		 - Splisosome is SmallNuclearRiboprotein(SNRuP)
+		 - SNRuP cuts out introns+puts exons back together to make mRNA
+		 - Prokaryotes dont have splisosome
+	 - before mRNA leaves Nucleus, Adenine(3') placed on back end+ Guinine(5') on front end by RNA POL
+	 - Otherwise mRNA seems foreign to cell, endoneucleases degrade neuclear material
+	 - Many different transcription factors(2/3 in eukaryote)
+		 - Sigma factor is one
+		 - Factors used to start transcription process
+	 - When reaches termination code with man
+ - Translation
+	 - Take RNA, building functional protein from it
+	 - 20 different amino acids, only four neucleotide
+		 - if use 2 neucleotide per aa, 16 codes, not enough
+		 - using 3 neucleotides is enough(64 choices)
+		 - Multiple codes per amino acids, kinetic dictionary used to ID
+	 - Each triplet is a codon, a codon might code for multiple amino acids
+	 - Start off with one code per amino acids, as evolves, multiple codons code for amino acids
+		 - Methaine(AUG) only has one codon, is start codon
+		 - triptophan only has one codon, ugg, is used in skeleton
+	 - mRNA has many codes, each for an amino acid
+	 - 3 Stop Codes, one with selenocysteine(bacteria)
+	 - Stop codes don't have tRNA associated with them
+	 - tRNA needs to fit together with ribosome
+	 - tRNA
+		 - at the top, on 3' end is where amino acid attaches
+		 - at the bottom, anticodon, is complement of mRNA
+		 - if methanine(aug), methanine attaches at top, UAC anticodon
+		 - The wobble effect
+			 - Third member of Codon(G/C pairing) dosen't have to be exact, first 2 members more important
+			 - This is sometimes how variation in the DNA of organisms occurs without affecting traits
+			 - Many amino acids where last amino acid dosent matter at all
+	 - Process
+		 - All living things have ribosomes(not viruses)
+		 - Difference btw in bacteria and eukaryotes
+			 - Many different peices of rrna protein
+			 - 2 subunits(large+ small)
+				- prokaryotes (large/50s(density)+small/30s), form 70s ribosome
+			 -	Eukaryotes 60s+40s = 80s
+		 - mRna comes in, recognises the appropriate places, and sits there
+			 - First codon(AUG settles/binds to P site) P stands for peptidyl
+			 - Second Codon sits in the A(aminoccyl) site
+			 - once Trna sits in peptadyl site, large subunit bonds to small
+			 - Then second trna comes into A site with amino acids
+			 - Amino acids connected with peptide bond
+			 - Polypeptide bonds driven by peptidyl transferase
+			 - E site is exit site, then og trna sits in e site, exits to find new amino acid, A site one moves into P site, etc
+			 - Continues until stop codon, then no tRNA, protein detached and sent to golgi
+		 - Nonsense mutation is a change in a codons neucleotide into stop codon
+	 - Point mutation
+		 - Change in Base pair+only one base pair
+		 - Silent mutation(CUU-CUG)
+			 - Still have same product
+		 - Missense
+			 - Silent but changes amino acid
+			 - Albinism is change in one amino acid, cant produce melanin
+		 - Nonsense Mutation
+			 - stop code generated
+			 - incomplete protein
+			 - happens commonly(creates enzyme defficencies)
+	 - Frame shift mutation
+		 - Also can have multiple neucleotides used
+		 - Addition
+			 - AUG UUU GUG -> AUG AUU UGU G
+			 - changes whole protein after shift
+		 - Deletion
+			 - AUG UUU GUG->AUG UUG UG
+			 - Hard to detect in eukaryotes bc introns
+		 - Block mutation
+			 - Sginificant portion added or subtracted
+ - polypeptides in subunits are mostly enzymes
+	 - In large subunit, peptidyl transferase
+		 - Creates peptide bond btw amino acids at top
+		 - 3/4 different antibiotics that interrupt peptidyl transerase in prokaryote
+ - In eukaryote, proteins produced goes to golgi to get folded and stuff
+
+### DNA Regulation/operons
+ - Described by frenchmen jacob and monade working with ecoli
+ - 2 different models from simpler bacterial system and eukaryotic model
+ - Both
+	 - Operon systems
+	 - Operon is Structure where DNA is transcribed+translated into funcitonal protein
+	 - Every DNA has operon working for it
+	 - Repressor protein = Transcription factor that binds to DNA to inhiit transcroption by negative control
+	 - Activator protein = Increases rate of transcription by positive control
+	 - Effector molecule(not in all prokaryotes) = Binds to trnascription factor to change its properties(bridge between transcription factor and gene sequence)
+	 - Repressor and Activator are found upstream from gene(distance away from genes to be transcribed)
+	 - At far end, you have regulatory gene, then big gap, then IPO
+	 - Entire operon is promoter, operator, structural genes
+	 - at 5' end is terminator
+	 - Inducable model = Light switch off, u have to turn it on
+		 - Lac/lactose Operon
+		 - Has to be turned on to function
+		 - In bacteria, lactose metabolism is critical
+		 - LAC operon has three structural genes(polycistronic mRNA)
+			 - 1st lac z = $\Beta$ galactosidase(breaks lactose into two parts(breaks 1-4-beta oxygen bridge)(humans can break down 1-4-alpha, but not beta)
+			 - 3rd lac a = galactoside transacetylase = allows lactose into cell
+			 - 2nd Lac y = allolactose = reconfiguration of molec
+		 - Regulatory protein is the allolactose molecule
+		 - Regulates how much Lac z and y is produced
+		 - Allolactose binds to repressor protein(produced in regulatory gene), allows transcription
+		 - When there is no lactose, repressor protein binds to DNA so transcription dosent occur
+			 - lactose initally bonds to repressor, allolactose takes its place
+		 - Everything shut down except for certian stay alive funcitons
+		 - Betagalactosidase breaks lactose into glucose and galactose(stereoisomers, go to glycolysis)
+		 - Lac operon also controlled by cyclic AMP(cAMP)
+		 - cAMP is a messenger molecule,binds to DNA, increases transcription
+	 - Repressable model = light switch on, u have to turn off
+		 - Tryptophan/TRP Operon(essential amino acid that needs to be assembled)
+		 - Needs to be always turned on until there is an excess
+		 - Tryptophan is a regulatory protein
+		 - Similar to LAC, except always turned on, needs to turn off
+		 - repressor protein bonds with tryptophan, stops polymerase
+ - Eukaryotic model
+	 - Not as simple as prokaryotes bc has lots of introns
+	 - Parts of functional genes can be on different parts of chromosomes or even different chromosomes
+	 - Combination control(various factors controlling process)
+	 - Different activator or repressor proteins, alone or together, can control different operon parts
+	 - Activator protins loosen chromosome for easy RNA POL access
+	 - Proteins
+	 - Added level of packing(histones) makes it very difficult
+	 - Methylation inhibits transcription by binding
+	 - Controlled by Effector molecules, protein-protein interactions, covalent modifications
+	 - Heterochromatin has high A/T ratio, densly packed, mostly non-coding regions
+	 - Euchromatin has high G/C ratio, loosely packed, has majority of coding regions
+	 - Transcription process is the same
+	 - All genes have initiatiors(where starts), promotor, operator(), structural genes
+ 	 - Promoter region
+		 - Transcription start sice
+		 - TATA box(where looked to bind to(a and t)
+		 - Response element(transcription factors)
+	 - 2 versions of RNA POL (II) is one used here
+	 - Whole tata box, GTFs, RNA POL II is pre initation complex
+		 - Looks for more transcription factors, then combines, transcription happens
+		 - Transcription element and tata box = core promoter
+	 - Response elements
+		 - Regulatory genes(enhancers and silencers)
+		 - DNA segments that regulate eukaryotic genes
+		 - control RNA POL by enhancing RNA POL or preventing RNA POL
+	 - Mediatiors hook up with transcription factors, allow transcription to begin
+		 - Hook up to the preinitation complex
+		 - Looks for activatior in a bend in the DNA, then releases RNA POL
+		 - RNA POL never acts between the activator and TATA box
+	 - If protein is very important, Activator protein then attaches to enhancer coding sequence, which continues process of transcription by enhancig the ability of a GTF to bind to the TATA box, promoting preinitation complex assembly without mediator
+	 - Gene accessibility
+		 - Genes have to be accessible for transcription
+		 - COnfiguration is important
+			 - Tightly packed or loosely packed
+		 - Loosely packed is able to be transcribed easily
+		 - DNA with methyl group cant be transcribed(CH3 gets stuch between Adenine and thymine, slightly increases width, RNA pol cant get in, shuts down process)
+	 - The leucine zipper facilitates binding of activator to enhancer
+		 - Leucine zipper recognizes continious strand of DNA, allows bond forming btw activator and enhancer, causing transcription
+		 - Only binds to continious strand
+ - MR. Anderson Video
+	 - Gene regulation = How we express a gene or not
+		 - E. Coli eats whatever we eat, has to break down everything
+		 - E. Coli easily makes enzymes to break down things
+	 - REgulatory gene is the gene that regulates another gene, found just above the gene(found before gene )
+	 - Promoter is regulatory sequence
+	 - Bacteria
+		 - any step between DNA and RNA can be regulated, mostly btw DNA to mRNA
+		 - Gene, downstream
+		 - Positive control(LAC operon)
+			 - Bacteria have multiple genes in a row, lac Z, Y, A
+			 - Upstream is promoter, then operator, then gene
+			 - Operator is on/off switch
+			 - Repressor plugs into operator, RNA pol cant join(positive control)(when lactose shows up, fits into repressor, changes repressor, repressor leaves)
+			 - RNA POL makes mRNAs for each lac gene, proteins, breaks own lactose, repressor goes back
+		 - Negative Control(trp operon)
+			 - five genes in a row
+			 - Operon is off when tryptophan is present
+			 - Gene dosent want to make trp when trp is present already, when no trp, make proteins to make trp, when have trp, not making trp, etc
+			 - 
+	 - Eukayotes
+		 - REgulatory sequence(TATA Box) allows tata binding protein to allow RNA POL to get on
+		 - RNA POL needs lotsa transcription factors to allow Attachment, holding of RNA POL
+		 - Transcription factors fold DNA in certian places to touch tata box
+ -------------notes u missed for amc
+  - Cancer
+	  - Faliure of apoptosis in cells
+		  - Cells do apoptosis as programmed cell death
+		  - Cell undergoes specific number of nuclear divisions(~50 for skin, dosent happen in nervous system which divides once)
+		  - Lysosomes kill cell(suicide sac) with digestive enzymes, etc
+		  - Programmed in DNA
+		  - Cancerous cells lose the ability to stop nuclear division bc DNA mutations
+	  - Faliure of contact inhibition cells
+		  - Normally cells stop growing when they touch other cells(extracellular summer info)
+		  - Cancerous cells start growing on top of eachother(makes tumor)
+		  - Cancerous growth can be caused by any growth on any chromosome in any cell type
+		  - Tangent:Protooncogene arrangements or differences between people may determine cancer likelihood, is very sensitive to cancer-causing chemicals
+	  - Caused by mutation
+	  - How do cancers progress(skin eg)
+		  - Cell in dermal skin layer is mutated
+		  - Cell undergoes rapid growth, start to see/feel skin alignment differences
+		  - skin starts to bump, is still contained/benign tumor
+		  - Can biopsy, put under microscope and recognise characteristics and then pull out entire tumor
+		  - Metastizized/agressive/escaped tumor cells, can be difficult to tell if its gone, metastize to places with lotsa blood flow
+		  - Some cancers spread very slowly(bone cancer bc bone is dense)
+	  - Progression of Colon cancer
+		  - Normal colon cell has a change in chromosome 5 gene
+		  - Increaed cel growth, DNA loses methyl groups, causing RAS gene to mutate
+		  - Material loss from chromosome 18 and 17
+		  - Carcinoma stage, other chromosome losses to metastisis
+		  - Lotsa stages
+	  - Oncogenes
+		  - lotsa contact inhbition receptors+adhesion molecules
+		  - Growth factors attach to hormone receptor(integral protein)
+		  - Also attached to protein bit, moves to messenger protein(frequently cyclic AMP)
+		  - Cyclic AMP binds to another protein, is signaling structure
+		  - cyclic amp binds to signaling binding protein, then binds to dna itself, acts as repressor or inducer
+		  - Estrogen stops prostate cancer growth, but increases general nuclear division
+		  - If binding protein attaches to position where oncogene is, then you get transcription of that piece of DNA
+		  - If dosent bind to promoter site of oncogene, nothing happens
+	  - Events that can create oncogenes
+		  - Alltered gene+Altered product/incorperation of retroviral oncogene/Mutation of normal proto-oncogene creating oncogene
+		  - Altered gene expression where gnee is trascribed at wrong time or too fast/insertion next to a proto oncogene of retroviral cDNA containing an active control region/trnaslcation of a PHOTO
+  - Gene Transfer
+	  - Movement of genes from one bacterium to another
+	  - Mechanical Methods(transduction)
+		  - Shown in viruses that infect bacteria(bacteriophage)
+		  - Bacteriaphage is a complex virus bc has head and midpiece and feet, injects DNA into bacterium
+		  - Virus has to cause host cell to do reproduction for the virus, producing new viruses and cutting up host dna
+		  - Occasionally virus picks up host dna, is transferred to next bacterium, gives next bacterium new properties
+		  - Transformation transforms bacterium from one state to another state(classic expirement looks for source of protein synthesis by griffiths, wondered why some staph organisms gave pneumonia and others didnt do anything to anybody)
+		  - Griffiths took sickening pneumonia into mouse, mouse died
+		  - Took pneumonia that didnt make ppl sick into mouse, mouse lived
+		  - Boiled sick virus into mouse, mouse lived
+		  - Mixed both boiled sick and not sick virus together, mouse died
+		  - Last mouse's lung tissue had bacteria transformed into disease causing organisms
+		  - Whooping cough is heat treated for vaccine
+	  - Non-Mechanical Methods(Transformation, Conjugation)
+		  - Conjugation/exchange of plasmids between bacteria
+		  - Plasmid is extra-nuclear DNA(not part of the thing)
+		  - Cells with plasmids are F+ cells, without is F- cells
+		  - F+ cell offers F- cell plasmid, form tube between 2 baceria(pilus), during replication, copy of plasmid goes from F+ cell to F- cell, then F- is now F+, etc.
+		  - Plasmids carry many different ideas(fertility(ability to conjugate faster/high-frequency recombinant plasmid(Hfr plasmid, splices itself into host genome, is replicated, etc), lets different genus/species excg plasmids, ppl used to think that diff genus/species couldnt excg plasmids), resistance factors(ability to withstand antibiotics, over time like with penicillin are useless), bacteriocin factors(bacteria has toxin being produced), virulence factors(how severe disease), cryptic(disguise of organism)
+		  - Middle three make people sick
+		  - Transposon moves from chromosome to chromosome, discovered by NY researcher McLintic
+		  - 'Jumping genes', worked with corn 
+		  - Transposon is peice of DNA, sometimes acting as transcription factors, sometimes not, inhibits or enhances product on chromosome, then keeps jumping around
+		  - DNA from mitochandria likely jumped to nucleus with transposon
+		  - DNA in nucleus has some mitochandria DNA(metabolic enzymes, etc)
+  - Read+review chapters 11, 12, 13(Materials in cell signaling+chromosome structure+mitosis and meiosis)Friday test has some basic mitosis+meiosis questions
+  - Mutations
+	  - Changes to any DNA of a organism
+	  - Rates of muations
+		  - Evoluationary tool to look at relationships btw organisms is in mutations
+		  - Lotsa DNA mutates regularly, some places where stays same(around chromatids)
+	  - Spontaneous muations
+		  - Occur randomly, in eukaryotes, dont do much bc introns
+		  - rate equal to 1*10^-21 base pairs
+		  - Rate can increase if walk past nuclear power plant or in sun, 
+	  - Three basic causes(chemicals/mutagens(exposed to), physical(xrays, etc), Biological(viruses, wart-causing things))
+	  - Carcinogen is mutagen chemical that forms cancer, not all mutagens are carcinogens
+	  - RNA tumor viruses vs DNA tumor viruses, lead to diff kinds of virus
+	  - Most prevalent mutation is point mutation, occurs at single bp, potential for changing proteins, create stop codon
+	  - DEletions/insertions cause frame shifts
+	  - Block mutation is where entire segment is removed or duplicated, sometimes is actually translocation mutation
+	  - Temperature sensitive(in prokaryotes)
+		  - Don't occur in eukaryotes bc we have too much DNA
+		  - Temp senitive mutation in one prokaryote changes color from white to red if heated to body temperature
+		  - Used to demonstrate germ theory
+	  - Supressor mutation supresses product, even in eukaryotes
+  - Affects of UV radiation on DNA
+	  - Thymine dimer created when 2 adjacent Thymines bond to eachother over complementary adenine, forms bubbble
+	  - In prokaryote, this is fatal
+	  - Eukaryotes deal with this with DNA repair checkers, cuts dimer out w/endonuclease looking for specific nucleotide sequence, cuts DNA out, then polymerase fills DNA in, everything is okay
+	  - Insertions of chemicals btw dna strands
+		  - Forms bubble, can cause deletion of adjacent nucleotides or insertion
+  - different repairs for different mutations, on mismatch point mutation, is corrected on leading strand

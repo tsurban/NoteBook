@@ -1,0 +1,27 @@
+NEW TECH NOTES
+
+ - Turnpikes
+	 - dirt roads
+	 - state funded
+	 - move people with horses
+	 - innefficent
+ - Steam engine(fulton)
+	 - Canals(connect bodies of water)(Eerie canal connects hudson to lake ontario)(atlantic to old northwest)
+		 - steamboat(moves up river, allows mississippi increase)
+	 - Railroads
+		 - state funded
+ - Telegraphs
+	 - Initally used for newspapers+businesses, later on for consumers
+ - Effects
+	 - erie canal
+		 - makes NYC the main hub of commerce
+	 - Interior settlement
+		 - Allows for greater movement of goods
+		 - PPL move west, move home culture with them
+		 - PPL move regardless of national boundaries
+			 - creates conflicts
+	 - Growth of subindustry
+		 - RR allows for mining industry in west w/ more recourses
+	 - Regionalism
+		 - Explosion of ppl in west
+		 - Makes NE, West, South distinct

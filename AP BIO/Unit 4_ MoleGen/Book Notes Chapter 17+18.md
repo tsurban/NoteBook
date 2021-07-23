@@ -1,0 +1,430 @@
+Book Notes Chapter 17+18
+
+
+
+# DNA 
+## Gene Expression
+***
+### Intro
+ - 17.1 Describe evidence that helped us understand the process of gene expression, and describe the process.
+
+ - 17.2 Explain transcription, including a description of important molecules involved in the process.
+
+ - 17.3 Trace the steps involved in eukaryotic RNA processing.
+
+ - 17.4 List the cellular components and molecules involved in translation, and describe the process, then describe how multiple polypeptides are made in bacteria and eukaryotes.
+
+ - 17.5 Identify different types of mutations and how they can affect protein structure and function, then discuss the concept of a gene.
+
+### 17.1 - DNA -> RNA -> Proteins
+ - How Discovered
+	 - Archibald Garrod studited metabolic defects, thought that genes determined which enzymes are produced, enzymes create metabolic defects, thats how passed down
+	 - This *One Gene One Enzyme* process was supported by evidence that catabolism+anabolism happens in metabolic pathways by specific enzymes(supports role of enzymes)
+	 - Haploid bread mold used bc could disable specific genes
+	 - Caused mutations in mold with xrays, then looked at changes in nutritional needs
+		 - Cells with a certain mutation needed a complete medium w/ all needed nutrients
+		 - Able to link disabled gene with nutrients needed, demonstrating that the function of a gene is to dictate the production of an enzyme
+	 - Discovery that not all proteins are enzymes(keratin), now is one protein-one gene
+	 - Discovery that a gene codes for a polypeptide, not a full protein, one polypeptide-one gene
+ - Basic Transcription and Translation
+	 - RNA is bridge btw DNA and Protein synth
+	 - DNA and RNA have somewhat different letters and structure, RNA and Proteins are two different languages
+	 - Transcription, Translation
+	 - Transcription
+		 - Synthesis of RNA from DNA info
+		 - DNA serves as template in replication and in RNA Synth
+	 - Translation is Polypeptide from mRNA
+		 - Translated from nucleotide sequence to amino acid sequence
+	 - Similar in bacteria and eukaryotes
+		 - In bacteria, lack of nucleus means transcription and translation can occur simultaneously
+		 - In eukaryotes, transcription makes pre-mRNA(primary transcript, with some steps before leave nucleus
+	 - This flow from DNA->RNA->Protein is the Central Dogma, coined by crick
+ - The genetic code
+	 - With four bases, need three bases to code each of 20 amino acids
+	 - Flow of information is based on triplet code
+	 - RNA is coded from the template strand, looks like the coding strand
+	 - DNA sequences to determine which direction an RNA POL lands when it bonds
+	 - RNA is complimentary to template strand
+	 - Codon is the term for the triplets on mRNA or coding strand, written in 5'->3'
+	 - How to tell what codons code for what amino acids
+		 - Synthesized all UUUUUUs, porduced only phenyalanine, same for AAA, GGG, CCC
+		 - Eventually developed more sophisticted exprirements
+		 - For humans to read the code, we must have a correct frame/sets of three
+
+### 17.2 - Transcription is the DNA-directed rna synth
+
+ - Molecular Compoents of Transcription
+ - mRNA carries Dna info to protein-synth stuff
+	 - RNA Pol doesn't need a starting primer to start transcription, binds to promoter(**initiation**)
+	 - Created by RNA Polymerase seperating DNA strands, adding complementary base to RNA strand(**Elongation**)
+	 - RNA Pol adds in 5' to 3' direction(travels 3' to 5' on dna)(**Termination**)
+	 - Sequence that RNA binds to is **Promoter**
+		 - Neucleotide within promoter that is first to be transcribed is **start point**
+		 - Usually several dozen nucleotides in promoter before start point
+		 - Transcription factors determine where pol bonds(Eukaryotes recognise tata box)
+		 - 
+	 - In bacteria, end sequence is **terminator**
+	 - DNA downstream from the promoter, before **terminator** is **transcription unit**
+ - Bacteria RNA pol synth other RNA types too
+ - Eukaryotes have 3 specialized RNA pol
+ - Transcription in Eukaryotes vs Bacteria
+	| Bacteria | Same | Eukaryotes |
+	|----------|------|------------|
+	|RNA POL recognises directly the promoter| RNA Pol untwists double helix, adds nucleotdes to end, spits out RNA, Dbl Helix reforms | Promoter with TATA box(~25 nucleotides upstream) |
+	|Terminator sequence, when transcribed causes RNA pol to detach|Single DNA can be transcribed by multiple RNA POL at once in convoy|Multiple RNA POLS(II for transcription)|
+	|.|||**Transcription initiation complex** is system allowing RNA POL to atch|
+	|.|||Termination thru **polyadenylation signal(AAUAAA)**, is transcribed and immediately bonded to by nuclear proteins, cut strand 10-35 nTides later, RNA Pol II keeps transcribing until caught up to by enzymes dissolving irrelevant RNA created|
+
+### 17.3 - Alteration of mRNA Ends(Eukaryotes)
+ - Before alteration, called *pre-mRNA*
+	 - 5' end(transcribed first) gets **5' cap** w/Guanine after first 20-40 nTides
+	 - 3' pre-mRNA gets50-250 more Adenines(**Poly-A Tail**) before leave nucleus
+	 - Facilitate mRNA leaving Nucleus
+	 - Protect from hydrolytic enzymes
+	 - Help ribosomes atch to 5' end of mRNA
+	 - UTR(Untranslated regions) added to assist w/ribosome activity+others
+ - Split Genes and **RNA Splicing**
+	 - Large RNA portions removed + reconnected(edited)
+	 - Most eukaryotic genes+RNA transcripts have long non-coding regions(intervening sequences/**Introns**), interspersed between coding segments(Expressed sequences/**Exons**)
+	 - RNA pol II transcribes both introns + exons
+		 - Introns removed by splicesosome, binds to short nucleotide intron sequences, releases+degrades it
+		 - Spliceosome rebinds exons
+		 - Spliceosome has bits of RNA to bind+catalyze reaction
+	 - Riobzymes(RNAs that are enzymes)
+		 - RNA splicing can occur without proteins/independently
+		 - Some organisms w/intron RNA acting as ribozyme, catalyzing own removal
+		 - RNA is single stranded, can base pair w/itself, create secondary, tertiary structures
+		 - Some RNA bases contain catalyzing functional gps
+		 - RNA hydrogen bonding w/other nucleic acids increases specificity(like in splicesome)
+	 - Intron importance
+		 - One gene can encode >1 polypeptide depending on exons
+		 - Proteins have modular domain structure
+		 - Increase genetic variance with different splicing possibilities
+
+### 17.4 - Translation is the RNA-directed synthesis of a polypeptide: *A CLOSER LOOK*
+ - mRNA is the script, tRNA is the translator
+ - Structure and Function of tRNA
+	 - Each tRNA has specific AA at one end, other end is nucleotide triplet(**Anticodon**)
+	 - tRNA is RNA strand ~80nTides long, complementary segments fold onto eachother
+	 - Looks like a cloverleaf, top cloverleaf is anticodon, stem holds AA
+![Screenshot from 2021-02-16 21-51-53.png](../../../_resources/444c69659fb04cc9b7a79f9ed6db8580.png)
+	 - Anticodons are antiparalles(5' $\to$ 3' )
+	 - tRNA accepts input of codon, outputs AA
+	 - tRNA must bind to correct AA
+		 - Matching performed by **Aminoacyl-tRNA Synthetases**
+		 - Enzyme, each active site only fits specific tRNA+AA
+		 - 20 diff enzymes(1 for each AA)
+	 - tRNA anticodon must bind to correct mRNA codon
+		 - If 1 tRNA for each mRNA codon, 61 tRNAs(actually 45)
+		 - Some tRNAs able to bind to more than 1 codon bc 3rd nucleotide base are relaxed
+		 - Flexible base pairing called wobble
+ - Structure and Function of Ribosomes
+	 - Similar in bacteria and eukaryotes
+	 - Eukeryotes are slightly larger, somewhat molecularly different
+	 - Medically significant to neutralizing bacteria without neutralizing humans
+	 - Facilitate copuling of tRNA anticodons and mRNA codons
+	 - Consists of large subunit+small subunit
+		 - Subunits are mix of proteins and rRNAs
+		 - Eukaryotic subunits made in nucleolus
+		 - Ribosomes are assembled in cytoplasm
+		 - rRNA is most abundant type of RNA
+	 - Ribosome has three binding sites for trna
+		 - P site(peptide) holds trna carrying polypeptide(middle)
+		 - A site(amino) holds tRNA carrying next AA(right)
+		 - E site(exit) discharges tRNAs
+	 - Mostly made from rRNA, so basically big ribosyme
+ - Building a polypeptide
+	 - Translation has three stages:Initiation, elongation, termination
+	 - Initiation
+		 - Brings together first mRNA, first tRNA, the subunits
+		 - Small subunit binds to mRNA+initiator tRNA w/ methionine
+		 - Bacteria, binds mRNA at specific RNA sequence upstream of AUG
+		 - Eukaryotes, binds to 5' cap and moves/scans sownstream along mRNA until reaches AUG(START), est frame
+		 - Then large subunit follows, completes trnaslation initiation complex, aided by initiation factor proteins
+		 - GTP hydrolysis provides nrg for formation
+	 - Elongation
+		 - AA added to each other at C-terminus(bit attached to tRNA in middle)
+		 - Elongation factor proteins aid provess
+		 - mRNA moved in 5' first direction only(5' $\to$ 3')
+		 - ribosome and mRNA move for each codon
+	 - Termination
+		 - When stop codom reaches the A site
+		 - Release factor(protein shaped like aminoacyl tRNA) binds to stop codon
+		 - Odds water molecule instead of AA to PP chain, breaks bond w/tRNA
+		 - GTP breaks apart subunits
+ - Protein folding and post-translational Modifications
+	 - PP chain begins to coil+fold spontaneously(primary->tertiary structure)
+	 - post-translational modifications may be required
+		 - Enzymes to remove a few AA from leading end
+		 - Quaternary structure
+ - Targeting polypeptides to specific locations
+	 - Free and bound ribosomes
+		 - Free found in cytosol, synth proteins to stay in cytosol
+		 - Bound ribosomes attached to rough ER or nuclear envelope, make endomembrane system proteins or secreted proteins
+		 - Ribosomes can ater btw free+bound
+	 - Translation always begins in ER
+	 - mRNA says if to become bound(signal peptide)
+		 - signal peptide is ~20 AA near leading end of polypeptide(N-terminus)
+		 - Recognised by signal-recognition particle, escorts ribosome to receptor protein in ER membrane, then into ER lumen with protein por
+		 - Other singal peptides target mitochandria, chloroplasts, nucleus interior, etc, similar to above, but translation completed before shipping
+ - Strings of ribosomes on one mRNA are polyribosomes(both in eukaryotes and prokaryotes)
+ - Bacteria can futher streamline by having many rna pol transcribing and polyribosomes translating simultaneously
+
+### 17.5 - Mtations of one or a few nucleotides can affect protein structure and function
+ - Changes of genetic info to a cell = mutations
+ - Point mutuation in gamete cell or cell that becomes gamete, is transmitted to future generations
+	 - Sickle cell anemia is caused by point mutation
+	 - Familial cardiomyopathy, respnsible for sudden death in some young athletes
+	 - If change is negative, its considered a genetic disease or disorder
+ - Types of mutations
+	 - Many mutations occur outside of protein-coding genes, unimportant
+	 - Either substitutions or insertions/deletions
+	 - Substitutions
+		 - Nucleotide-pair substitution is replacemnet of one nTide+partner with another pair
+		 - Some swaps have no affect on amino acids(silent mutations)
+		 - Subs with change one amino acid to another are missense, affect varies
+		 - AA -> stop codon is nonsense mutation(nonfunctional)
+	 - Insertions and deletions
+		 - Additions or losses of nTide pirs in a gene
+		 - If in transcriptional unit, affect frame(frameshift mutation) if num nTides inserted !%= 3
+		 - Protein almost certainly nonfunctional unless close to end of gene
+	 - Mutations outside of coding bits can affect gene expression
+ - How arise
+	 - Errors during repliation or recombination
+		 - many cases is corrected by DNA proofreading
+		 - Called spontaneous mutations
+	 - Mutagens(physical and chemical agents)
+		 - Interact w/ DNA in a mutation causing way
+		 - X-rays+other high-energy radiations can affect genetic material of ppl(discovered by ppl doing genetic expirements on nsects)
+		 - Mutagenic radiation considered a physical mutagen
+		 - Chemical mutagens 
+			 - Nucleotide analogs are fake nTides that pair during replication
+			 - Others insert selves into dna, distorting dbl helix
+			 - Developed ways to test chemicals for mutagenic capacity
+ - Using CRISPR to edit Genes and correct Disease-Causing mutations
+	 - Scientests have sought to edit genes in specific, predictable way
+	 - CRISPR-Cas9
+		 - Cas9 helps defend bacteria against bacteriophages
+		 - Cas9 works with CRISPR region of bacteria genome as guide RNA
+		 - Cas9 is a nuclease, cuts double-stranded DNA molecules at any sequence it is told to
+		 - Cuts at specific site, DNA repair subs in new DNA
+		 - Generally just disables gene entirely
+	 - Using crispr against disease
+		 - Introduce segment from functional gene along with CRISPR system, after Cas9 cuts, functional segment is reintroduced
+		 - Promising use for sickle cell and other diseases
+
+# Chapter 18: Regulation of Gene Expression
+ - Transcription factors to determine gene expression
+
+### 18.1 Bacteria often respond to environmental change by regulating transcription
+ - Bacteria cells able to conserve resources have selective advantage
+ - Individual E. Coli in gut detects presence of needed resources, if needs, makes if dosent, stops making
+	 - Cells can adjust activity of already present enzymes rapidly, relies on sensivity of enzymes to chemical cues such as presence of end product inhibiting
+ - Cells can adjust production lvl via genetic mechanism(regulate transcription)
+ - Basic mechanism is operon molecule
+	 - Operon is part of DNA coding for stuff
+	 - Comes after promoter+regulatory gene
+	 - Regulatory gene codes for repressor protein, binds to operator on operon promoter+prevents synth if activated by thing
+ - Advantage of grouping related genes into one transcription unit with single on-off switch(coordinated control)
+	 - On-Off switch is called operator
+	 - Positioned within promoter or between promoter and genes controlled
+	 - Entire stretch of DNA+Operator+Promoter needed for enzyme production is operon(not regulator)
+ - Trp Repressor = Trp regulator
+ - Trp operon is on by default, is switched off by trp binding to regulator protein in operator slot
+	 - Trp is allosteric w/inactive + active shapes
+	 - Synthesized in inactive shape
+	 - Controls access of RNA Pol to genes
+ - Trp is considered corepressor, as it cooperates with repressor protein to switch operon off
+ - Trp is Repressible operon(turned off, default on)
+ - Inducible operon is default off, can be turned on(Lac)
+	 - Lactose is avalible to E. Coli when in contat with dairy
+	 - Lactose metabolisim begins with hydrolysis catalyzed by $\beta$-galactosidase, is able to rapidly ramp up production
+	 - Gene for $\beta$-galactosidase is lacZ on lac operon w/ two other enzymes helping glucose dissolution
+	 - Regulatory lacI gene codes for allosteric repressor
+	 - lac repressor is active by default, inducer makes it inactive(not transcribed by default)
+		 - Induced by allolactose(isomer, formed infrequently in lactose enterinc cell)
+ - Positive Gene Regulation
+	 - if both Glucose & lacotse are present, E.Coli prefers glucose
+	 - Interaction of allosteric regulator with cyclic AMP, which accumulates when glucose is in short supply
+	 - Regulatory protein is CRP, is activator, attaches upstream of lac promoter, increases affinity of rna pol to that section from the relatively low default
+	 - Basically and gate
+	 - If glucose amnt increases, cAMP concentration falls, CRP detaches+RNA pol dosent find stuff
+	 - Negative control by lac repressor+positive conrol by CRP
+	 - CRP also regulates catabolic enzymes, when CRP inactive/glucose plentiful, catabolizm slows down for nonglucose molecules
+
+### 18.2 Eukaryotic gene expression is regulated at many stages
+ - All organisms turn off+on genes in response to signals
+ - Typical human cell expresses 1/2 -> 1/3 of all genes at once
+ - Almost all cells in multicellular organism contain identical genome
+	 - Differences between cells is due to expression
+ - Regulation of Chromatin Structure
+	 - Basic unit is nucleosome
+	 - Genes in tightly packed heterochromatin not expressed
+	 - Euchromatin genes are looser+Easier
+ - Histone Modifications and DNA Methylation
+	 - All eukaryotes have chemical modifications to histones
+	 - N-terminus of each histone protein allow access to different enzymes
+	 - Hisstone acetylation - addition of acetyl group to amino acid in histone tail, opens up chromatin structure
+	 - Different enzymes can methylate the DNA on certain bases(usually cytosine)
+		 - Long inactive DNA stretches generally more methylated than active regions
+		 - Removal of methyl groups can activate regions
+		 - Methylated genes stay methylated thru replication, permenantly regulates expression of either maternal or paternal allele at start of development
+ - Epigenetic inheritance
+	 - Chromatin modifications dont change DNA sequence, still passed along hru epigenitics
+	 - Modifications can be reversed, largely erased in gamete formation+reestablished in embryonic dev
+	 - Lack of epigenetic nutrients in embryo dev leads to significant changes
+ - Regulation of Transcription initiation
+	 - Once chromatin is optimal for expression, transcription is regulated
+	 - Involves proteins binding to DNA either facilitating or inhibiting RNA Pol binding in bacteria
+	 - Eukaryotic gene organization
+		 - Transcription initiation complex assembles on promoter upstream of gene
+		 - RNA pol II transcribes gene, other molecules add cap and taiil and jprocess introns
+		 - Multiple control elements(noncoding regions to facilitate binding of transcription factors)
+	 - Specific transcription factors
+		 - General transcription factors at promoter of all genes
+			 - RNA Pol II requires transcription factors to initate transcription
+			 - Needed for trnascription of ALL protein-coding genes(general)
+			 - Some bind to sequence directly(TATA box)
+			 - Many bind to other proteins/other transcription factors
+		 - Enhancers and Specific Transcription Factors
+			 - Transcription activators have a DNA-binding domain & 1 or more activation domains to bind together other proteins or things resulting in enhanced transcription
+		 - Specific ranscription factors away from promoter
+			 - Activator proteins bind to distal control element far away from promoter
+			 - DNA-bending protein brings activators closer to promoter, link with general transcription factors and mediator proteins
+	 - Inherited Predisposition and ENvironmental factors contributing to cancer
+		 - Certian mutations passed down to start accumulation of issues
+		 - Inherited BRCA1+2 genes found to largely increase likelihood of getting rest cancer
+		 - BRCA is considered tumor-supressor
+			 - Mediators and transcription factors form active transcription initiation complex on promoter
+			 - Can inhibit gene expression by binding directly to DNA(blocking), interfere with activator itself
+		 - Indirectly affecting chromatin structure
+			 - Some activators recruit proteins to acetylate histones near promoters
+	 - Combinatorial Control of Gene Activation
+		 - Number of different nucleotide sequences in control elements is small(~a dozen)
+		 - Each enhancer is about 10 control elements, each binds to 1 or 2 transcription factors
+		 - Many combination sare possible even with only 12 sequences
+		 - Each combination activates under specific set of activators
+	 - Coordinately controlled genes in eukaryotes
+		 - Group of genes can be turned off or on at same time(like in bacteria operons)
+		 - Opeons like this have NOT been found in eukaryotes
+		 - Eukaryote coordinated control uses genes with same combinations of conrol elements
+		 - Allows for simultaneous control regardless of location
+		 - Often is response to chem signals from outside cell(Stereroid hormones, bond to transcription activators)
+		 - Many signaling molecules mind to receptors on cell surface without entering cel, can control gene expression indirectly by triggering signal transduction pathways for particular transcription factors
+	 - Nuclear arcjitecture and gene expression
+		 - Each chromosome in interphase occupied distinct territory
+		 - ![Screenshot from 2021-02-17 20-51-12.png](../../../_resources/d909ce6e07ff4a10a5a7cb741031e757.png)
+		 - Nucleus has defined architecture w/regulated chromatin mcmnts
+		 - unexpressed genes found around edge of nucleus, expressed genes are in interior bit
+ - Post-transcriptional Regulation
+	 - Expression of protein-coding gene not just determined by transcription
+	 - RNA processing
+		 - RNA processing in nucleus and export of RNA to cytoplasm allow gene expression not avalible in prokaryotes
+		 - Alternative RNA Splicing, diff mRNAs produced from same primary transcript(depends on introns vs exons)
+			 - Significantly expands protein possibilities
+		 - Initiation of Translation and mRNA Degradation
+			 - Translation is mostly regulated at initiation stage, blocked by regulatory proteins binded to Untranslated regions at 5' or 3' end(cap+tail imprortant for binding)
+			 - All mRNAs can be regulated simultaneously with "global" control
+			 - Useful in eggs, translation triggered after fertilzation by activation of initiation factors
+		 - Life span of mRNAs is improtant to determine pattern of protein synth
+			 - mRNAs typically degraded within a few minutes in bacteria
+			 - in some eukaryotes, can survive for hours->days->weeks
+			 - Lifetime controlling nTide sequences foind in UTR at 3' end
+		 - Protein Processing and Degredation
+			 - Eukeryotic pptds must be processed to yield functional molecules
+			 - Cleavage of inital insulin forms active hormone
+			 - Regulatory protein activated by addition of phosphate groups
+			 - Lifetime controlled by selective degredations with ubiquitin molecules attached to protein to mark for destruction
+
+### 18.3 Noncoding RNAs play multiple roles in controlling gene expression
+ - Protein-coding DNA only accounts for 1.5% of the human genome
+ - Until recently, other DNA other than small percent that are rRNA+tRNA are junk DNA
+ - New research says that ~75% of Genome is transcribed at some pojnt
+ - Effects on mRNAs by microRNAs and small interfering RNAs
+	 - ncRNA = noncoding RNA
+	 - ncRNA affects translation and chromatin modification
+	 - Studies uncovered microRNAs(small, single-stranded RNAs able to bind to compelmentary sequences in mRNAs)
+		 - Created by mRNA processing into miRNA by enzymes
+		 - miRNA joins with protein, allows it to bind to any mRNA molecule with at least 7-8 nT
+		 - miRNA degrades mRNA or just blocks translation
+		 - ~1500 genes for miRNAs in human genome
+		 - ~1/2 all human genes regulated by miRNAs
+	 - Small interfering RNAs(siRNAs), similar to miRNAs
+		 - miRNA and siRNA can associate with same proteins w/ similar results
+		 - Difference only subtly in precursors
+		 - Blocking by siRNA is called RNA interference or RNAi
+ - Chromatin remodeling + effects on transcription of ncRNAs
+	 - small noncoding RNAs can cause chromatin remodeling
+	 - S phase centromeric DNA regions must be loosened, then recndensed
+	 - Some yeasts need siRNA to reform heterochromain
+	 - Most mamallian siRNAs have not been found, DNA condensation method not understood
+	 - newly discovered ncRNA class *piwi interacting RNAs*
+
+### 18.4 A program of differential gene expression leads to the different cell types in a multicellular organism
+ - Fertilized egg gives rise to many different cell types
+ - Any prgraom must produce cells of different typs 
+ - A genetic Program for Embryonic Developnment
+	 - Cell division, cell differentiation, morphogenesis
+	 - Mitotic cell divisions make zygote give rise to large number of cells
+	 - Cell differentiation undergonePhysical processes giving organism shape are morphogenesis
+ - Cytoplasmic Determinatnts and inductive signals
+	 - Genes expressed during development determine organism path
+	 - Cytoplansm is important egg source, not homogeneous, location of different bits(mRNAs, Proteins, others plays big role in future dev)
+	 - ^^ characteristics are called cytoplasmic determinants
+	 - Early mitotic divisions distribute cytoplasm into different cells
+	 - Other major source of developmental info is environment egg is in
+		 - Most influential are signals conveyed to embryonic cell from others in vicinity
+		 - ^^ signals called induction, signals transmitted by cell-suface receptors+other pathway proteins
+ - Sequential REgulation of Gene Expression during Cellular Differentaiation
+	 - Earliest changes to cell are at molecular lvl
+	 - Determination = point where embryonic cell has irreversabley committed to cell type
+	 - Expression of tissue-specific protein genes(First sign is specific mRNA appearences)
+	 - Multiple steps regulated(usually transcription)
+	 - Cause specialization +getting really good at producing one protein bc regulated to produce more mRNA
+	 - Muscle cells have Master regulatory genes, proteins commit to cell to being muscle, determination caused by said muscle cells
+		 - myoD gene is a master regulatory gene, capable of truning different types into muscles
+		 - muscle-specific activation also depends on some other combination of regulatory proteins, not present in cells cant convert
+		 - Embryonic prcursor introduced to myoD, myoD activates the correct genes
+ - Pattern Formation: Setting up the body plan
+	 - different programs of gene expression in egg can result in differentiated cells and tissues
+	 - 3D body plan different from just tissues
+	 - Cytoplasmic Determinants+ cell chem signals nearby(induction) result in pattern formation
+		 - In Embryo, major axis of animal are establihed(location of head, tail, right, left, back, front are determined by positional info of diff chems in diff places)
+		 - Fruit fly has major axis+sections established in egg+diff types of cells develop in different locations in response to different chemicals
+		 - Studied mutations with extra wings or legs in wrong place, tied to fly's genetic map
+		 - Homeotic genes are regulatory genes controlling growth pattern(first evidence of such genes)
+### 18.5 Cancer results from genetic changes that affect cell cycle control​​
+ - Cancer Results from genetic changes to cell cycle control
+ - Types of genes associated with cancer
+	 - Genes for growth factors, their receptors, signaling pathways
+	 - Mutations in any of ^^ in somatic cells can lead to cancer
+	 - Cancer-causing genes called oncogenes in certian viruses, later found in humans+other animals
+	 - Normal versions called proto-oncogenes code for normal growth+division
+	 - How does protooncogene become oncogene
+		 - Epigenetic chagnes
+			 - if mutation in chromatin-modifying enzyme leads to new chromatin being loose+expressed protooncogene at superhigh levels
+		 - Translocations
+			 - Broken chromosomes that rejoined incorrectly
+			 - Proto-oncogene ends up near active promoter
+		 - Gene Amplification
+			 - Increases # copies of protooncogene thru gene duplication
+		 - Point mutations
+			 - Point mutation in promoter or enhancer controlling protooncogene can increase expression
+	 - Mutations that inhibit tumor-supressor genes
+	 - Interference with normal cell-signaling
+		 - ras protooncogene+p53 tumorsupressor gene often interfered with in human cancer
+		 - Ras gene relays signal to protein kinase cascade, end of pathway synthesizes protein stimulating cell cycle
+			 - ras mutations lead to hyperactive ras protein, triggers kinase cascade even w/o growth factor
+		 - p53 gene is tumor supressor, inhibits cell cycle, breaking p53 results in uninhibited cell cycle
+			 - if activated by protein seeing DNA irregularity, activates other genes like p21+miRNAs, binds to cyclin-dependent kinases
+			 - If beyond repaair, suicide genes do programmed cell death
+	 - Multistep model of cancer development
+		 - >1 mutation needed to produce changes for cancer cell
+		 - Explains why cancer increases with age(Accumulation)
+			 - Colorectal cancer is wel understood, is model for multistep model
+			 - First stage is unnoticable polyp
+			 - To become cancerous, need ~6 changes, appearence of oncogene+loss of tumor-supressors
+	 - Role of Viruses in cancer
+		 - Tumor Viruses can cause cancer
+		 - Epstein-Barr virus, causes infectious mononucleosis linked to cancer(lymphoma)
+		 - Integration of viral dna can introduce oncogene, distupt tumor-supressor gene, convert protooncogen to oncogene

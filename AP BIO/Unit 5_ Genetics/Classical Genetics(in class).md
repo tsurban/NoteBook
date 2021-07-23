@@ -1,0 +1,131 @@
+Classical Genetics(in class)
+
+# Genetics
+### Mendel
+ - Classical Genetics demonstrates what genetics is
+ - Mendel is father of modern genetics, from hungary
+ - Travelled to vienna to fail med school exam
+ - Contintued working on farm, went to vienna to be priest, failed test
+ - While in vienna, bishop offered mendel post as monk/gardener
+	 - Noticed differences in plant colorations+sizes, wondered why
+	 - Focused on pea plant
+		 - Seven different identifiers
+		 - Seed Shape, Seed Color, Flower color, Pod shape, Pod color, Flower position, Stem height
+		 - Have only 6 chromosome, lucky that none of the identifiers were close to each other on chromosomes
+		 - Hand-pollinated plants(Remove stamen, take polen w/paintbrush, put on stigma, get peas, plant them)(whole process takes two years)(now we have faster plants)
+ - Terms
+	 - Generations
+	 - $P$-Generation(Parental)(purebreeding/truebreeding)
+	 - $F_1$ generation(first filial)(offspring of parental)
+	 - $F_2$ generation(2nd filial)($F_1$ offspring(most interesting))
+	 ***
+	 - Allelic terms
+	 - All genes have 2 alleles
+	 - Dominant Allele(Protein expressed)
+	 - Recessive Allele(Protein muted by dom)
+	 - Heterozygous(different)
+	 - Homozygous(2x same)
+		 - Recessive
+		 - Dominant
+	 - Traditionally use first letter of recessive allele
+		 - Avoid certial letters at all costs(CcOoWwKkVv)
+		 - Otherwise use a random letter but make sure you define its meaning
+	 ***
+	 - Genotype(Heterozygous or Homozygous dom/rec)
+	 - Phenotype(physical outcome of genotypes/expressed protein)(Dominant or recessive)
+		 - Homozyg dom or hetzyg, express same phenotype
+ - Simple monohybrid cross/Law of Segregating Traits/Alleles
+	 - One characteristic, dominant/recessive
+	 - Assume P generation is purebreeding
+		 - Red flower(RR) White Flower(rr)
+		 - $F_1$ is all Rr(heterozygous)
+		 - $F_2$ is RR, Rr, Rr, rr
+	 - Have to segregate alleles
+		 - Segregating RR to become haploid R and R
+		 - Have to keep same number of Rs, RR+rr!->Rrr+R
+	 - Mendel discovered each gamete had two traits, each seperated into seperate gametes
+	 - Each gamete gets one chromosome/trait for a gene
+	 - ![Screen Shot 2021-02-23 at 10.29.25 AM.png](../../../_resources/76ce325c19ae4d9c8bda927ed40730b3.png)
+	 - For punnet squares, in boxes is F2 Generation, outside is F1
+	 - Report as ex: Phenotype, 3:1//Genotype 1:2:1
+	 - Mendel would have dominant phenotype, dont know genotype
+		 - Test/Back cross
+		 - Cross with homozygous recessive
+		 - If each F has dom phenotype, dominant phenotype was homozygous dom
+		 - 1/2 offspring are dom, 1/2 rec, dom phen P was htzg
+ - Dihybrid crosses
+	 - End up w/ 4 diff gametes(4x4 box)
+	 - Law of Independent Assortment(Alleles anre not linked to one another, so diff aleles have equal chance to end up in either gametes equally)
+ - Sex-linked disorders
+	 - In a problem, you have to account for individual's sex(usually carried on X, expressed in males more than females)
+	 - Males do not have a backup copy of a wrong gene
+	 - 5 diff genotypes
+		 - Males: afflicted or normal(xy or x'y)(x' is mutated allele)
+		 - Females: XX, X'X(carrier), X'X'(afflicted)
+	 - Color-Blindness
+		 - Complete colorblindness(dont see red or green, see grey)
+		 - Other tests to determine things
+	 - X'Y x XX
+		 - Genotype: 2x X'X , 2x XY
+		 - Males MUST have X chromosome from female
+	 - Cross again X'Y x X'X: 
+		 - Genotype: X'X', YX', X'X, XY
+	 - **NOT IN POWERPOINT**
+		 - X chromosomes: Muscular dystrophy, etc etc can only happen severly in females
+	 - Men Cannot be carriers
+	 - pedigrees
+		 - Square rep Men
+			 - Can never have half square
+		 - Circ rep women
+			 - Women die from hemophelia pefore puberty
+			 - If female, have to be homozygous recessive for both alleles
+	 - In mammalian females, one of the two X chromosomes in each cell is randomly inactivated during early embryonic development, becoming highly condensed into a Barr body.
+ - Gene linkage
+	 - Genes all anong a chromosome
+	 - If a gene is close to anothere gene, can be hooked together, majority of offsring will take those alleles as a package
+	 - In order to do a gene map, look at a three point cross
+	 - Recombinants(have a lower phenotypic expression bc of crossover)
+		 - In first miotic division w/ tetrad, Inside chromosomes tangle, cross over, crossing over increases diversity
+		 - Chromosomes that cross over are recombinants
+	 - Linkage studies used to determine Chromsoms makeup(gene map)
+		 - Different combinations to the offspring
+		 - Called a three point cross
+		 - Look at differences btw parental gametes(haploids)
+		 - Look at double crossover(single crossover does the crossing over swap thing)
+	 - Percent of recombination is equal to map distance
+		 - Look at double recombinance, can determine order of genes/etc
+		 - Genes are close to eachother to see a double recombinant
+		 - TPC are also good to determine distance btw genes
+ - Chi Square test - Hypothesis-testing method
+	 - Used a lot in genetics
+	 - Look at phenotypic ratios
+	 - AbBbxAaBb expected 9:3:3:1
+	 - If actual is 1:1:1:1, prove is wrong using chi-square
+		 - $\chi ^2 = \sum{(o-e)^2}/e$
+		 - sum(observed-expected)^2/expected
+	 - Degrees of freedom - number of independent factors/variables
+		 - N(num of vars) - 1
+	 - Responses on a sort of a bell curve
+		 - Not significant
+		 - Significant
+		 - Determined by probability that value calculated lands on curve
+	 - Null hypothesis is that it fits 9:3:3:1
+	 - Alternative hypothesis is usually !Null
+	 - If in significant difference, need to come up with another null hypothesis to determine fit
+	 - Chi squared table, look under the correct DOF and .05, if number is less than number listed, accept hypothesis
+ - Mitochandrial Inheritance
+	 - Lot of info on mitochandria DNA
+	 - Mitochandria DNA is circular(TRANSPOSONS)
+	 - Much of mitochandria info has jumped to normal chromosomes
+		 - Metabolic functions remain
+		 - Mitochandrial diseases
+	 - Mitochandrial diseases
+		 - Mostly metabolic/processing issues
+ - Somatic cells do mitosis(majority of cells)
+	 - Outcome is 2 identical cells(diploid)
+	 - Go thru M phase once(one of each phase)
+ - Gamete-producing cells do meiosis(follicular(ovary) cells and intersitcial(teste) cells)
+	 - Outcome is 4 nonidentical(haploid) cells
+	 - Go thru M phase twice(two of all phases)
+	 - First metaphase has tetrad of chromatids
+		 - Instead of individual chromatids pulled apart, pairs pulled apart(crossing over/exchange)

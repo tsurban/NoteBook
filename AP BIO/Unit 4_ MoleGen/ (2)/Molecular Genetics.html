@@ -1,0 +1,1116 @@
+
+				<!DOCTYPE html>
+				<html>
+					<head>
+						<meta charset="UTF-8">
+						<link rel="stylesheet" href="pluginAssets/katex/katex.css">
+						<title>Molecular Genetics</title>
+					</head>
+					<body>
+						<div class="exported-note"><div class="exported-note-title">Molecular Genetics</div>
+
+<style>
+		/* https://necolas.github.io/normalize.css/ */
+		html{line-height:1.15;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
+		article,aside,footer,header,nav,section{display:block}h1{font-size:2em;margin:.67em 0}hr{box-sizing:content-box;height:0;overflow:visible}
+		pre{font-family:monospace,monospace;font-size:1em}a{background-color:transparent;-webkit-text-decoration-skip:objects}
+		b,strong{font-weight:bolder}small{font-size:80%}img{border-style:none}
+
+		body {
+			font-size: 15;
+			color: #555555;
+			word-wrap: break-word;
+			line-height: 1.6em;
+			background-color: #ffffff;
+			font-family: 'Avenir', 'Arial', sans-serif;
+			padding-bottom: 0px;
+			padding-top: 0px;
+		}
+		strong {
+			color: #000000;
+		}
+		kbd {
+			border: 1px solid rgb(220, 220, 220);
+			box-shadow: inset 0 -1px 0 rgb(220, 220, 220);
+			padding: 2px 4px;
+			border-radius: 3px;
+			background-color: rgb(243, 243, 243);
+		}
+		::-webkit-scrollbar {
+			width: 7px;
+			height: 7px;
+		}
+		::-webkit-scrollbar-corner {
+			background: none;
+		}
+		::-webkit-scrollbar-track {
+			border: none;
+		}
+		::-webkit-scrollbar-thumb {
+			background: rgba(100, 100, 100, 0.3); 
+			border-radius: 5px;
+		}
+		::-webkit-scrollbar-track:hover {
+			background: rgba(0, 0, 0, 0.1); 
+		}
+		::-webkit-scrollbar-thumb:hover {
+			background: rgba(100, 100, 100, 0.7); 
+		}
+
+		/* Remove top padding and margin from first child so that top of rendered text is aligned to top of text editor text */
+
+		#rendered-md > h1:first-child,
+		#rendered-md > h2:first-child,
+		#rendered-md > h3:first-child,
+		#rendered-md > h4:first-child,
+		#rendered-md > ul:first-child,
+		#rendered-md > ol:first-child,
+		#rendered-md > table:first-child,
+		#rendered-md > blockquote:first-child,
+		#rendered-md > img:first-child,
+		#rendered-md > p:first-child {
+			margin-top: 0;
+			padding-top: 0;
+		}
+		
+		p, h1, h2, h3, h4, h5, h6, ul, table {
+			margin-top: .6em;
+			margin-bottom: .65em;
+		}
+		h1, h2, h3, h4, h5, h6 {
+			line-height: 1.5em;
+		}
+		h1 {
+			font-size: 1.5em;
+			font-weight: bold;
+			border-bottom: 1px solid #dddddd;
+			padding-bottom: .3em;
+		}
+		h2 {
+			font-size: 1.3em;
+			font-weight: bold;
+			padding-bottom: .1em; */
+		}
+		h3 {
+			font-size: 1.1em;
+		}
+		h4, h5, h6 {
+			font-size: 1em;
+			font-weight: bold;
+		}
+
+		.exported-note-title {
+			font-size: 2em;
+			font-weight: bold;
+			margin-bottom: 0.8em;
+			line-height: 1.5em;
+			padding-bottom: .35em;
+			border-bottom: 1px solid #dddddd;
+		}
+
+		a {
+			color: #155BDA;
+		}
+		ul, ol {
+			padding-left: 0;
+			margin-left: 1.7em;
+		}
+		li {
+			margin-bottom: .4em;
+		}
+		li p {
+			margin-top: 0.2em;
+			margin-bottom: 0;
+		}
+		.resource-icon {
+			display: inline-block;
+			position: relative;
+			top: .5em;
+			text-decoration: none;
+			width: 1.2em;
+			height: 1.4em;
+			margin-right: 0.4em;
+			background-color:  #155BDA;
+		}
+    /* These icons are obtained from the wonderful ForkAwesome project by copying the src svgs 
+     * into the css classes below.
+     * svgs are obtained from https://github.com/ForkAwesome/Fork-Awesome/tree/master/src/icons/svg
+     * instead of the svg width, height property you must use a viewbox here, 0 0 1536 1792 is typically the actual size of the icon
+     * each line begins with the pre-amble -webkit-mask: url("data:image/svg+xml;utf8,
+     * and of course finishes with ");
+     * to precvent artifacts it is also necessary to include -webkit-mask-repeat: no-repeat;
+     * on the following line
+     * */
+		.fa-joplin {
+			/* Awesome Font file */
+			-webkit-mask: url("data:image/svg+xml;utf8,<svg viewBox='0 0 1536 1792' xmlns='http://www.w3.org/2000/svg'><path d='M373.834 128C168.227 128 0 296.223 0 501.834v788.336C0 1495.778 168.227 1664 373.834 1664h788.336c205.608 0 373.83-168.222 373.83-373.83V501.834C1536 296.224 1367.778 128 1162.17 128zm397.222 205.431h417.424a7.132 7.132 0 0 1 7.132 7.133v132.552c0 4.461-3.619 8.073-8.077 8.073h-57.23c-24.168 0-43.768 19.338-44.284 43.374v2.377h-.017v136.191h-.053l-.466 509.375c-5.02 77.667-39.222 149.056-96.324 201.046-60.28 54.834-141.948 85.017-229.962 85.017-12.45 0-25.208-.61-37.907-1.785-92.157-8.682-181.494-48.601-251.662-112.438-71.99-65.517-117.147-150.03-127.164-238-11.226-98.763 23.42-192.783 95.045-257.937 81.99-74.637 198.185-101.768 316.613-75.704 5.574 1.227 9.55 6.282 9.55 11.997v199.52c-.199 2.625-1.481 6.599-8.183 2.896-.663-.365-1.194-.511-1.653-.531-21.987-10.587-45.159-17.57-68.559-19.916-.38-.04-.757-.124-1.138-.163-.537-.048-1.034-.033-1.556-.075-4.13-.354-8.183-.517-12.203-.58-.87-.011-1.771-.127-2.641-.127-.486 0-.951.05-1.437.057-1.464.011-2.886.115-4.33.163-2.76.102-5.497.211-8.182.448-.273.024-.547.07-.835.097-25.509 2.4-47.864 11.104-65.012 25.47-.954.802-1.974 1.53-2.9 2.36a1.34 1.34 0 0 1-.168.146c-23.96 21.8-34.881 53.872-30.726 90.316 4.62 40.737 26.94 81.156 62.841 113.823 35.908 32.67 80.335 52.977 125.113 57.186 35.118 3.36 66.547-3.919 89.899-20.461a97.255 97.255 0 0 0 9.365-7.501c2.925-2.661 5.569-5.5 8.086-8.416.3-.348.672-.673.975-1.024 8.253-9.864 14.222-21.067 17.996-33.148.639-2.034 1.051-4.148 1.564-6.227.381-1.563.81-3.106 1.112-4.693.555-2.784.923-5.632 1.253-8.49.086-.709.183-1.414.237-2.128.492-4.893.693-9.858.55-14.91h.013V521.623c-2.01-22.626-20.78-40.434-43.928-40.434h-57.23a8.071 8.071 0 0 1-8.077-8.073V340.564a7.132 7.132 0 0 1 7.136-7.133z'/></svg>");
+		}
+		.fa-file-image {
+			-webkit-mask: url("data:image/svg+xml;utf8,<svg viewBox='0 0 1536 1792' xmlns='http://www.w3.org/2000/svg'><path d='M1468 380c37 37 68 111 68 164v1152c0 53-43 96-96 96H96c-53 0-96-43-96-96V96C0 43 43 0 96 0h896c53 0 127 31 164 68zm-444-244v376h376c-6-17-15-34-22-41l-313-313c-7-7-24-16-41-22zm384 1528V640H992c-53 0-96-43-96-96V128H128v1536h1280zm-128-448v320H256v-192l192-192 128 128 384-384zm-832-192c-106 0-192-86-192-192s86-192 192-192 192 86 192 192-86 192-192 192z'/></svg>");
+      -webkit-mask-repeat: no-repeat;
+		}
+		.fa-file-pdf {
+			-webkit-mask: url("data:image/svg+xml;utf8,<svg viewBox='0 0 1536 1792' xmlns='http://www.w3.org/2000/svg'><path d='M1468 380c37 37 68 111 68 164v1152c0 53-43 96-96 96H96c-53 0-96-43-96-96V96C0 43 43 0 96 0h896c53 0 127 31 164 68zm-444-244v376h376c-6-17-15-34-22-41l-313-313c-7-7-24-16-41-22zm384 1528V640H992c-53 0-96-43-96-96V128H128v1536h1280zm-514-593c25 20 53 38 84 56 42-5 81-7 117-7 67 0 152 8 177 49 7 10 13 28 2 52-1 1-2 3-3 4v1c-3 18-18 38-71 38-64 0-161-29-245-73-139 15-285 46-392 83-103 176-182 262-242 262-10 0-19-2-28-7l-24-12c-3-1-4-3-6-5-5-5-9-16-6-36 10-46 64-123 188-188 8-5 18-2 23 6 1 1 2 3 2 4 31-51 67-116 107-197 45-90 80-178 104-262-32-109-42-221-24-287 7-25 22-40 42-40h22c15 0 27 5 35 15 12 14 15 36 9 68-1 3-2 6-4 8 1 3 1 5 1 8v30c-1 63-2 123-14 192 35 105 87 190 146 238zm-576 411c30-14 73-57 137-158-75 58-122 124-137 158zm398-920c-10 28-10 76-2 132 3-16 5-31 7-44 2-17 5-31 7-43 1-3 2-5 4-8-1-1-1-3-2-5-1-18-7-29-13-36 0 2-1 3-1 4zm-124 661c88-35 186-63 284-81-10-8-20-15-29-23-49-43-93-103-127-176-19 61-47 126-83 197-15 28-30 56-45 83zm646-16c-5-5-31-24-140-24 49 18 94 28 124 28 9 0 14 0 18-1 0-1-1-2-2-3z'/></svg>");
+      -webkit-mask-repeat: no-repeat;
+		}
+		.fa-file-word {
+			-webkit-mask: url("data:image/svg+xml;utf8,<svg viewBox='0 0 1536 1792' xmlns='http://www.w3.org/2000/svg'><path d='M1468 380c37 37 68 111 68 164v1152c0 53-43 96-96 96H96c-53 0-96-43-96-96V96C0 43 43 0 96 0h896c53 0 127 31 164 68zm-444-244v376h376c-6-17-15-34-22-41l-313-313c-7-7-24-16-41-22zm384 1528V640H992c-53 0-96-43-96-96V128H128v1536h1280zM233 768v107h70l164 661h159l128-485c5-15 8-30 10-46 1-8 2-16 2-24h4l3 24c3 14 4 30 9 46l128 485h159l164-661h70V768h-300v107h90l-99 438c-4 16-6 33-7 46l-2 21h-4c0-6-2-14-3-21-3-13-5-30-9-46L825 768H711l-144 545c-4 16-5 33-8 46l-4 21h-4l-2-21c-1-13-3-30-7-46l-99-438h90V768H233z'/></svg>");
+      -webkit-mask-repeat: no-repeat;
+		}
+		.fa-file-powerpoint {
+			-webkit-mask: url("data:image/svg+xml;utf8,<svg viewBox='0 0 1536 1792' xmlns='http://www.w3.org/2000/svg'><path d='M1468 380c37 37 68 111 68 164v1152c0 53-43 96-96 96H96c-53 0-96-43-96-96V96C0 43 43 0 96 0h896c53 0 127 31 164 68zm-444-244v376h376c-6-17-15-34-22-41l-313-313c-7-7-24-16-41-22zm384 1528V640H992c-53 0-96-43-96-96V128H128v1536h1280zm-992-234v106h327v-106h-93v-167h137c43 0 82-2 118-15 90-31 146-124 146-233s-54-193-137-228c-38-15-84-19-130-19H416v107h92v555h-92zm353-280H650V882h120c35 0 62 6 83 18 36 21 56 62 56 115 0 56-20 99-62 120-21 10-47 15-78 15z'/></svg>");
+      -webkit-mask-repeat: no-repeat;
+		}
+		.fa-file-excel {
+			-webkit-mask: url("data:image/svg+xml;utf8,<svg viewBox='0 0 1536 1792' xmlns='http://www.w3.org/2000/svg'><path d='M1468 380c37 37 68 111 68 164v1152c0 53-43 96-96 96H96c-53 0-96-43-96-96V96C0 43 43 0 96 0h896c53 0 127 31 164 68zm-444-244v376h376c-6-17-15-34-22-41l-313-313c-7-7-24-16-41-22zm384 1528V640H992c-53 0-96-43-96-96V128H128v1536h1280zm-979-234v106h281v-106h-75l103-161c12-19 18-34 21-34h2c1 4 3 7 5 10 4 8 10 14 17 24l107 161h-76v106h291v-106h-68l-192-273 195-282h67V768H828v107h74l-103 159c-12 19-21 34-21 33h-2c-1-4-3-7-5-10-4-7-9-14-17-23L648 875h76V768H434v107h68l189 272-194 283h-68z'/></svg>");
+      -webkit-mask-repeat: no-repeat;
+		}
+		.fa-file-audio {
+			-webkit-mask: url("data:image/svg+xml;utf8,<svg viewBox='0 0 1536 1792' xmlns='http://www.w3.org/2000/svg'><path d='M1468 380c37 37 68 111 68 164v1152c0 53-43 96-96 96H96c-53 0-96-43-96-96V96C0 43 43 0 96 0h896c53 0 127 31 164 68zm-444-244v376h376c-6-17-15-34-22-41l-313-313c-7-7-24-16-41-22zm384 1528V640H992c-53 0-96-43-96-96V128H128v1536h1280zM620 850c12 5 20 17 20 30v544c0 13-8 25-20 30-4 1-8 2-12 2-8 0-16-3-23-9l-166-167H288c-18 0-32-14-32-32v-192c0-18 14-32 32-32h131l166-167c10-9 23-12 35-7zm417 689c19 0 37-8 50-24 83-102 129-231 129-363s-46-261-129-363c-22-28-63-32-90-10-28 23-32 63-9 91 65 80 100 178 100 282s-35 202-100 282c-23 28-19 68 9 90 12 10 26 15 40 15zm-211-148c17 0 34-7 47-20 56-60 87-137 87-219s-31-159-87-219c-24-26-65-27-91-3-25 24-27 65-2 91 33 36 52 82 52 131s-19 95-52 131c-25 26-23 67 2 91 13 11 29 17 44 17z'/></svg>");
+      -webkit-mask-repeat: no-repeat;
+		}
+		.fa-file-video {
+			-webkit-mask: url("data:image/svg+xml;utf8,<svg viewBox='0 0 1536 1792' xmlns='http://www.w3.org/2000/svg'><path d='M1468 380c37 37 68 111 68 164v1152c0 53-43 96-96 96H96c-53 0-96-43-96-96V96C0 43 43 0 96 0h896c53 0 127 31 164 68zm-444-244v376h376c-6-17-15-34-22-41l-313-313c-7-7-24-16-41-22zm384 1528V640H992c-53 0-96-43-96-96V128H128v1536h1280zM768 768c70 0 128 58 128 128v384c0 70-58 128-128 128H384c-70 0-128-58-128-128V896c0-70 58-128 128-128h384zm492 2c12 5 20 17 20 30v576c0 13-8 25-20 30-4 1-8 2-12 2-8 0-17-3-23-9l-265-266v-90l265-266c6-6 15-9 23-9 4 0 8 1 12 2z'/></svg>");
+      -webkit-mask-repeat: no-repeat;
+		}
+		.fa-file-archive {
+			-webkit-mask: url("data:image/svg+xml;utf8,<svg viewBox='0 0 1536 1792' xmlns='http://www.w3.org/2000/svg'><path d='M640 384V256H512v128h128zm128 128V384H640v128h128zM640 640V512H512v128h128zm128 128V640H640v128h128zm700-388c37 37 68 111 68 164v1152c0 53-43 96-96 96H96c-53 0-96-43-96-96V96C0 43 43 0 96 0h896c53 0 127 31 164 68zm-444-244v376h376c-6-17-15-34-22-41l-313-313c-7-7-24-16-41-22zm384 1528V640H992c-53 0-96-43-96-96V128H768v128H640V128H128v1536h1280zM781 943c85 287 107 349 107 349 5 17 8 34 8 52 0 111-108 192-256 192s-256-81-256-192c0-18 3-35 8-52 0 0 21-62 120-396V768h128v128h79c29 0 54 19 62 47zm-141 465c71 0 128-29 128-64s-57-64-128-64-128 29-128 64 57 64 128 64z'/></svg>");
+      -webkit-mask-repeat: no-repeat;
+		}
+		.fa-file-code {
+			-webkit-mask: url("data:image/svg+xml;utf8,<svg viewBox='0 0 1536 1792' xmlns='http://www.w3.org/2000/svg'><path d='M1468 380c37 37 68 111 68 164v1152c0 53-43 96-96 96H96c-53 0-96-43-96-96V96C0 43 43 0 96 0h896c53 0 127 31 164 68zm-444-244v376h376c-6-17-15-34-22-41l-313-313c-7-7-24-16-41-22zm384 1528V640H992c-53 0-96-43-96-96V128H128v1536h1280zM480 768c11-14 31-17 45-6l51 38c14 11 17 31 6 45l-182 243 182 243c11 14 8 34-6 45l-51 38c-14 11-34 8-45-6l-226-301c-8-11-8-27 0-38zm802 301c8 11 8 27 0 38l-226 301c-11 14-31 17-45 6l-51-38c-14-11-17-31-6-45l182-243-182-243c-11-14-8-34 6-45l51-38c14-11 34-8 45 6zm-620 461c-18-3-29-20-26-37l138-831c3-18 20-29 37-26l63 10c18 3 29 20 26 37l-138 831c-3 18-20 29-37 26z'/></svg>");
+      -webkit-mask-repeat: no-repeat;
+		}
+		.fa-file-alt, .fa-file-csv {
+      /* fork-awesome doesn't have csv so we use the text icon */
+			-webkit-mask: url("data:image/svg+xml;utf8,<svg viewBox='0 0 1536 1792' xmlns='http://www.w3.org/2000/svg'><path d='M1468 380c37 37 68 111 68 164v1152c0 53-43 96-96 96H96c-53 0-96-43-96-96V96C0 43 43 0 96 0h896c53 0 127 31 164 68zm-444-244v376h376c-6-17-15-34-22-41l-313-313c-7-7-24-16-41-22zm384 1528V640H992c-53 0-96-43-96-96V128H128v1536h1280zM384 800c0-18 14-32 32-32h704c18 0 32 14 32 32v64c0 18-14 32-32 32H416c-18 0-32-14-32-32v-64zm736 224c18 0 32 14 32 32v64c0 18-14 32-32 32H416c-18 0-32-14-32-32v-64c0-18 14-32 32-32h704zm0 256c18 0 32 14 32 32v64c0 18-14 32-32 32H416c-18 0-32-14-32-32v-64c0-18 14-32 32-32h704z'/></svg>");
+      -webkit-mask-repeat: no-repeat;
+		}
+		.fa-file {
+			-webkit-mask: url("data:image/svg+xml;utf8,<svg viewBox='0 0 1536 1792' xmlns='http://www.w3.org/2000/svg'><path d='M1468 380c37 37 68 111 68 164v1152c0 53-43 96-96 96H96c-53 0-96-43-96-96V96C0 43 43 0 96 0h896c53 0 127 31 164 68zm-444-244v376h376c-6-17-15-34-22-41l-313-313c-7-7-24-16-41-22zm384 1528V640H992c-53 0-96-43-96-96V128H128v1536h1280z'/></svg>");
+      -webkit-mask-repeat: no-repeat;
+		}
+		blockquote {
+			border-left: 4px solid rgb(220, 220, 220);
+			padding-left: 1.2em;
+			margin-left: 0;
+			opacity: .7;
+		}
+
+		.jop-tinymce table,
+		table {
+			text-align: left;
+			border-collapse: collapse;
+			border: 1px solid rgb(220, 220, 220);
+			background-color: #ffffff;
+		}
+
+		.jop-tinymce table td, .jop-tinymce table th,
+		table td, th {
+			text-align: left;
+			padding: .5em 1em .5em 1em;
+			font-size: 15;
+			color: #555555;
+			font-family: 'Avenir', 'Arial', sans-serif;
+		}
+
+		.jop-tinymce table td,
+		table td {
+			border: 1px solid rgb(220, 220, 220);
+		}
+
+		.jop-tinymce table th,
+		table th {
+			border: 1px solid rgb(220, 220, 220);
+			border-bottom: 2px solid rgb(220, 220, 220);
+			background-color: rgb(247, 247, 247);
+		}
+
+		.jop-tinymce table tr:nth-child(even),
+		table tr:nth-child(even) {
+			background-color: rgb(247, 247, 247);
+		}
+
+		.jop-tinymce table tr:hover,
+		table tr:hover {
+			background-color: #e5e5e5;
+		}
+
+		hr {
+			border: none;
+			border-bottom: 2px solid #dddddd;
+		}
+		img {
+			max-width: 100%;
+			height: auto;
+		}
+		
+		.inline-code,
+		.mce-content-body code {
+			border: 1px solid rgb(220, 220, 220);
+			background-color: rgb(243, 243, 243);
+			padding-right: .2em;
+			padding-left: .2em;
+			border-radius: .25em;
+			color: rgb(0,0,0);
+			font-size: .9em;
+		}
+
+		.highlighted-keyword {
+			background-color: #F3B717;
+			color: black;
+		}
+
+		.not-loaded-resource img {
+			width: 1.15em;
+			height: 1.15em;
+			background: white;
+			padding: 2px !important;
+			border-radius: 2px;
+			box-shadow: 0 1px 3px #000000aa;
+		}
+
+		a.not-loaded-resource img {
+			margin-right: .2em;
+		}
+
+		a.not-loaded-resource {
+			display: flex;
+			flex-direction: row;
+			align-items: center;
+		}
+
+		.md-checkbox input[type=checkbox]:checked {
+			opacity: 0.7;
+		}
+
+		.md-checkbox .checkbox-label-checked {
+			opacity: 0.5;
+		}
+
+		.exported-note {
+			padding: 1em;
+		}
+
+		.joplin-editable .joplin-source {
+			display: none;
+		}
+
+		/* =============================================== */
+		/* For TinyMCE */
+		/* =============================================== */
+
+		.mce-content-body {
+			/* Note: we give a bit more padding at the bottom, to allow scrolling past the end of the document */
+			padding: 5px 10px 10em 10px;
+		}
+
+		/*
+		.mce-content-body code {
+			background-color: transparent;
+		}
+		*/
+
+		.mce-content-body [data-mce-selected=inline-boundary] {
+			background-color: transparent;
+		}
+
+		.mce-content-body .joplin-editable {
+			cursor: pointer !important;
+		}
+
+		.mce-content-body.mce-content-readonly {
+			opacity: 0.5;
+		}
+
+		/* We need that to make sure click events have the A has a target */
+		.katex a span {
+			pointer-events: none;
+		}
+
+		/* Clear the CODE style if the element is within a joplin-editable block */
+		.mce-content-body .joplin-editable code {
+			border: none;
+			background: none;
+			padding: 0;
+			color: inherit;
+			font-size: inherit;
+		}
+
+		/* =============================================== */
+		/* For TinyMCE */
+		/* =============================================== */
+
+		@media print {
+			body {
+				height: auto !important;
+			}
+
+			pre {
+				white-space: pre-wrap;
+			}
+
+			.code, .inline-code {
+				border: 1px solid #CBCBCB;
+			}
+
+			#joplin-container-content {
+				/* The height of the content is set dynamically by JavaScript (in updateBodyHeight) to go
+				   around various issues related to scrolling. However when printing we don't want this
+				   fixed size as that would crop the content. So we set it to auto here. "important" is
+				   needed to override the style set by JavaScript at the element-level. */
+				height: auto !important;
+			}
+		}
+	</style><div id="rendered-md"><h1 id="dna">DNA</h1>
+<h2 id="dna-replication">DNA Replication</h2>
+<h3 id="dna-structure">DNA Structure</h3>
+<ul>
+<li>Process by which strands copy themselves</li>
+<li>Used in neuclear division/mitosos/meiosis
+<ul>
+<li>S Phase, DNA Replicates to make enough dna for offspring cells</li>
+<li>1930s, expirement with fungus that looks like mushroom, but neucleus is in cap
+<ul>
+<li>different color varieties</li>
+<li>How did organisim get different colors</li>
+<li>Removed cap from one fungus, put on other</li>
+<li>other turned color of the first one</li>
+</ul>
+</li>
+<li>Early 1950s, watson joined DNA lab as postDoc
+<ul>
+<li>Struggled to figure out how shaped</li>
+<li>In associated lab, Roselyn franklin used xray crystalography(freeze molecule, then see structure in xray)</li>
+<li>upon seeing franklins picture(watson broke into her office)</li>
+<li>watson and crick published double helix, won nobel prize</li>
+<li>roselyn franklin died before nobel descision</li>
+</ul>
+</li>
+<li>Friedrick griffiths(Started in 30s)
+<ul>
+<li>looked at infectious properie of strep pnemomuia</li>
+<li>Took mice-killing strep</li>
+<li>Coke's postulates for analysing pathogens
+<ul>
+<li>Isolate pathogen organisim from host</li>
+<li>Infect another host with the isolated pathogen</li>
+<li>Recover pathogen</li>
+<li>Isolate</li>
+</ul>
+</li>
+<li>Griffiths using same idea</li>
+<li>Strep pnemonia is a pair of bacteria</li>
+<li>Depends if has capsule if makes you sick(no capsule no sick)</li>
+<li>Mouse dies with capsule, Dosent die without</li>
+<li>Heated strain with capsule, kills organism, injected into mouse, mouse lives</li>
+<li>Took bacteria without capsule, mixed with heat treated bacteria with capsule, then mouse dies</li>
+<li>Bacteria good at taking in dna from many sources - use for food or use for own genetics</li>
+<li>Dead DNA from capsule bacteria into noncapsule, makes noncapsule create capsule</li>
+</ul>
+</li>
+<li>Meselson and Stahl
+<ul>
+<li>Worked with microorganisims</li>
+<li>Tried to figure out comp. of DNA</li>
+<li>What happened to strands of DNA in replication(Conservitive/dispersive/semiconservative replication)</li>
+<li>Put e.coli into dish</li>
+<li>e.coli undergoes binary fission in 20 mins in correct circumstances</li>
+<li>Grew in Nitrogen 15(heavy nitrogen) vs Nitrogen 14(normal)</li>
+<li>Tracked concentrations of N15 in each generation</li>
+<li>Semi-conservative is the only one that fits the concentrations of N15(always one old string with new string)</li>
+<li>This is why there is still some N15 left over from older strands</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Neucleic Acid Structure
+<ul>
+<li>Purine(2 rings(G+A))(short name big structure)</li>
+<li>Pyrimidaines(1 ring(C+T+U)</li>
+<li>chergoff determined you could figure out all amounts of A/C/G/T given one</li>
+<li>Uracil replaces Adenine(very similar)</li>
+<li>Form spiral structure</li>
+<li>Major grooves and minor grooves alternate, replication enzymes sit in the grooves</li>
+<li>Stain in DNA adheres to grooves(Methyline blue)</li>
+</ul>
+</li>
+</ul>
+<p><img src="../../../_resources/de712d13aa3f4ff3a9c54da3334d05d9.png" alt="Screenshot from 2021-01-04 10-11-24.png"></p>
+<pre><code> - about 3.5 base pairs per twist
+ - Histone proteins only found in eukaryotic organisms
+ - Evolutionary advance in eukaryotic organisims allowing to have more DNA 
+ - names at different phases
+	 - X-shaped Structure formed after all the wrapping is 2x chromatid
+	 - Until starts wrapping around histone, is chromatin
+	 - after done wrapping around histones is chromatids
+	 - in anaphase, become chromosomes
+ - Sizes of DNA
+ - Dna helix diameter is 2nm, 6 ft dna per human cell
+ - Dna Beads on string is around histone, diameter 11nm
+ - Folded condensin 2 30nm
+ - chromatin nm to 700nm
+ - Mitotic chromosome is 1400nm tall(visible to light microscope)
+ - DNA only forms mitotic chromosome in end phase cell cycle
+ - Scaffolding of DNA(H1 Histones/sometimes topoisomerase(enzyme preventing DNA from clumping))
+	 - sits in center and holds DNA in place
+	 - Also attached to histones
+	 - Present in Prokaryotes despite lack of histones
+ - Each bead on the string is nucleosoome, linked to center by H1 histone
+	 - 8 histones
+	 - DNA wraps 2.5x around the 8 histones
+	 - DNA holding nucleosome together is CORE DNA
+	 - Part between nucleosomes is LINKER DNA
+</code></pre>
+<p><img src="../../../_resources/71470933e2b54e9c8e060dea3483525a.png" alt="Nucleosome_organization.png"></p>
+<pre><code> - Helix structure
+	 - G and T have 3 hydrogen bonds
+	 - A and T have 2 hydrogen bonds
+	 - Sugars on each side are opposite/antiparallel
+		 - 5' to 3', ribose points UP
+		 - 3' to 5', ribose points DOWN
+	 - 3' to 5' goes in opposite direction of the enzyme
+	 - Enzymes very specific in general, POL no exception
+	 - DNA MUST be copied in 5' to 3' direction
+	 - Bond that is formed is formed between 5 carbon and 3 carbon on neucleotides
+		 - Called Phosphodiester
+ - Chargoffs rule
+	 - If we know we have 28% A, 28% T, (100-28)/2% G+C
+</code></pre>
+<ul>
+<li>Replication happens in the S Phase
+<ul>
+<li>During the processes of the cell cycle, there are 4 phases: Gap 1, Synthesis Gap 2, Mitotic phase</li>
+<li>In G1 phase, cyclin(s variety or m variety) protein to regulate when it goes onto S Phase</li>
+<li>Cyclin increases in concentration in G1 phase, when it hits a specific level, DNA synth happens</li>
+<li>Drops away during synth, reubilds up in G2</li>
+<li>Cell cycle takes 24hrs in human skin cell, DNA replication is 9 hrs, replaced each 5 years</li>
+<li>Nervous system cells replicate once then go into stasis phase</li>
+<li>E.coli cell cycle takes 20mins</li>
+<li>Details
+<ul>
+<li>Cyclin starts helping all the proteins get together and assembled correctly to replicate</li>
+<li>4 major enzymes
+<ul>
+<li>Helicase - breaks hydrogen bonds between neucleotides, so strands go in different directions</li>
+<li>Strand in correct direction is continious strand</li>
+<li>Strand in opposite strand is lagging strand</li>
+<li>DNA Polymerase - takes 5' to 3' side and pairs bases</li>
+<li>DNA gets tangled/knotted when spun by helicase, an enzyme(Gyrase/to) to spin the dna in an oppoiste direction to prevnt tangling(in front of helicase)</li>
+<li>ligase - forms phosphodiester bonds thru dehydration synthesis</li>
+<li>primase - does rna primers</li>
+<li>Multiple DNA pols(pol 1 + pol 3 in eukaryotes)</li>
+<li>Dna pol 1 replaces rna primers</li>
+<li>pol 3 does main matching</li>
+<li>Single Strand Binding Proteins - prevent dna from coming back together after gone thru helicase</li>
+<li>stop only once dna is done/over/gone</li>
+<li></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Almost a dozen different structures of DNA
+<ul>
+<li>three prominent</li>
+<li>A Form, B Form, Z Form(form naturally depending on cell conditions)</li>
+<li>C, D, E, and F forms are synthetic</li>
+<li>Watson and Crick wrote about the B form of DNA</li>
+<li>A form
+<ul>
+<li>A Form is similar to B, but Lithium+Magnesium are present, slightly change spiral</li>
+<li>A form appears if cell dehydrated</li>
+<li>A form and B form are right handed twists(dextral)</li>
+</ul>
+</li>
+<li>Z form
+<ul>
+<li>Z form is left handed twist(synisteral)(more frequent than A form) because methyl(CH3) group added</li>
+<li>Additional triple bonding btw Adenine and Thymine in Z form</li>
+</ul>
+</li>
+<li>C form is NOT Complementary DNA/cDNA</li>
+</ul>
+</li>
+</ul>
+<h3 id="prokaryotes">Prokaryotes</h3>
+<ul>
+<li>Same kinds of enzymes</li>
+<li>2 Big differences
+<ul>
+<li>Prokaryotes only have 1 DNA pol
+<ul>
+<li>DNA pol 1 does everything DNA pols do in eukaryotes</li>
+</ul>
+</li>
+<li>Replication in prokaryotes takes less time</li>
+</ul>
+</li>
+<li>Little difference between Prokaryote+Eukaryote in many processes</li>
+<li>Replication has been evolving for a long time and hasnt varied much recently</li>
+</ul>
+<h3 id="molecular-visisons-of-dna-video">Molecular visisons of DNA video</h3>
+<ul>
+<li>DNA wrapped around histones to form nucleosome</li>
+<li>Nucleosomes put into thread(chromatin)</li>
+<li>chromatin looped and coiled further into chromosomes</li>
+<li>chromosomes form when cells divide and 2 copies of dna need to be separated</li>
+<li>Dna enters helicase, which spins fast to unravel dna
+<ul>
+<li>Lagging strand put into loop, then polymerase copies the loop, then new loop, etc</li>
+<li>Okazaki fragments on the lagging strand where DNA is matched in short segments</li>
+</ul>
+</li>
+<li>Replication starts in different place on each part of the chromosome</li>
+<li>Multiple &quot;points of origin/replication&quot;</li>
+</ul>
+<h3 id="dna-fingerprinting">DNA FingerPrinting</h3>
+<ul>
+<li>Alec jeffries in 1984 figure out ppls dna was related</li>
+<li>Everyone has same genes, but different alleles that makes the people</li>
+<li>Short Tandem Repeats, between genes you have sequences that repeat with different numbers of repeats between pp1</li>
+<li>we can cut these out with restriction enzymes, use pcr to multiply them, and use gel electrophoresis to see them</li>
+<li>DNA is repelled from the negative charge at one end of the gel, so different masses pushed to different extensions</li>
+<li>Replaced by full sequencing, now can look at the actual genes not the middle sequences</li>
+<li>All cells in your body have the same dna</li>
+<li>PCR used to duplicate DNA for GEP
+<ul>
+<li>
+<ol>
+<li>Heat applied for dentauration(acts as helicase)</li>
+</ol>
+</li>
+<li>
+<ol start="2">
+<li>Primer attaches to 3' end of each strand, servs as marker for TAQ pol which is just like pol1 1+3 but heat resistant</li>
+</ol>
+</li>
+</ul>
+</li>
+<li>GEP
+<ul>
+<li>Splitting via electricity</li>
+<li>phosphate groups have slight negative charge</li>
+<li>Restriction enzyme looks for exact sequence of nitrogen bases, cuts them out</li>
+<li>multiple restriction enzyzme cutting sites used to cross-reference</li>
+<li>Radioactive tag tags specific bit of DNA</li>
+<li>Radioactive tag determines if 2</li>
+<li>in GEP, large molecules get stuck in agar and small go farther</li>
+<li>under UV light, we can see different radioactive tags</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h3 id="chapter-17transcriptiontranslation">Chapter 17(transcription+translation)</h3>
+<hr>
+<ul>
+<li>Definition of gene
+<ul>
+<li>Codes for functional protein</li>
+<li>Start of gene is initiator
+<ul>
+<li>Series of nulceotides (TATA Box)</li>
+<li>Where Rna Polymerase assembles</li>
+</ul>
+</li>
+<li>Second part is promoter
+<ul>
+<li>Tells RNA POL that its in the right place</li>
+</ul>
+</li>
+<li>Third part is operator
+<ul>
+<li>Where regulatory protein sits to regulate transcription of gene</li>
+<li>Together these three spell IPO</li>
+</ul>
+</li>
+<li>Then is gene
+<ul>
+<li>Contains much nonsense crap</li>
+<li>divided into peices of coding and noncoding parts</li>
+<li>Intron
+<ul>
+<li>Can be nonsense</li>
+<li>Can be Deactivated gene</li>
+<li>Some genes that only work at some points of your lif(hemoglobin has three gene copies, HE1 is fetal(0-3 months), HE 2 is toddler hemoglobin(3 months to mid puberty), HE 3 is adult/permenant hemoglobin)</li>
+<li>As an adult HE1+2 become introns</li>
+</ul>
+</li>
+<li>Sigma Factor on RNA POL
+<ul>
+<li>One Transcription Factor</li>
+</ul>
+</li>
+<li>Terminator
+<ul>
+<li>Tells RNA POL to stop</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Transcription
+<ul>
+<li>Dosent need lotsa enzymes</li>
+<li>Just RNA POL</li>
+<li>RNA POL unwinds, copies, seals phosphodiester bond</li>
+<li>Uses Uracil instead of thyamine(this is how you can tell DNA vs RNA)</li>
+<li>Uses 5' to 3' strand</li>
+<li>Nucleotides come in, form bonds, etc</li>
+<li>Terminator
+<ul>
+<li>Cytosine/Guaine Loop(has a ton of C and G)</li>
+<li>RNA POL hits the loop, stops(protein dissassembles)</li>
+<li>Once hit terminator, RNA is RNA transcript</li>
+<li>Terminator is a loop of DNA with lotsa C+G</li>
+</ul>
+</li>
+<li>If need lots of a protein, lots of RNA POL going over same DNA material to make many trnanscripts</li>
+<li>In trnascripts, still have xons and introns, spliceosome used
+<ul>
+<li>Splisosome is SmallNuclearRiboprotein(SNRuP)</li>
+<li>SNRuP cuts out introns+puts exons back together to make mRNA</li>
+<li>Prokaryotes dont have splisosome</li>
+</ul>
+</li>
+<li>before mRNA leaves Nucleus, Adenine(3') placed on back end+ Guinine(5') on front end by RNA POL</li>
+<li>Otherwise mRNA seems foreign to cell, endoneucleases degrade neuclear material</li>
+<li>Many different transcription factors(2/3 in eukaryote)
+<ul>
+<li>Sigma factor is one</li>
+<li>Factors used to start transcription process</li>
+</ul>
+</li>
+<li>When reaches termination code with man</li>
+</ul>
+</li>
+<li>Translation
+<ul>
+<li>Take RNA, building functional protein from it</li>
+<li>20 different amino acids, only four neucleotide
+<ul>
+<li>if use 2 neucleotide per aa, 16 codes, not enough</li>
+<li>using 3 neucleotides is enough(64 choices)</li>
+<li>Multiple codes per amino acids, kinetic dictionary used to ID</li>
+</ul>
+</li>
+<li>Each triplet is a codon, a codon might code for multiple amino acids</li>
+<li>Start off with one code per amino acids, as evolves, multiple codons code for amino acids
+<ul>
+<li>Methaine(AUG) only has one codon, is start codon</li>
+<li>triptophan only has one codon, ugg, is used in skeleton</li>
+</ul>
+</li>
+<li>mRNA has many codes, each for an amino acid</li>
+<li>3 Stop Codes, one with selenocysteine(bacteria)</li>
+<li>Stop codes don't have tRNA associated with them</li>
+<li>tRNA needs to fit together with ribosome</li>
+<li>tRNA
+<ul>
+<li>at the top, on 3' end is where amino acid attaches</li>
+<li>at the bottom, anticodon, is complement of mRNA</li>
+<li>if methanine(aug), methanine attaches at top, UAC anticodon</li>
+<li>The wobble effect
+<ul>
+<li>Third member of Codon(G/C pairing) dosen't have to be exact, first 2 members more important</li>
+<li>This is sometimes how variation in the DNA of organisms occurs without affecting traits</li>
+<li>Many amino acids where last amino acid dosent matter at all</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Process
+<ul>
+<li>All living things have ribosomes(not viruses)</li>
+<li>Difference btw in bacteria and eukaryotes
+<ul>
+<li>Many different peices of rrna protein</li>
+<li>2 subunits(large+ small)
+<ul>
+<li>prokaryotes (large/50s(density)+small/30s), form 70s ribosome</li>
+</ul>
+</li>
+<li>Eukaryotes 60s+40s = 80s</li>
+</ul>
+</li>
+<li>mRna comes in, recognises the appropriate places, and sits there
+<ul>
+<li>First codon(AUG settles/binds to P site) P stands for peptidyl</li>
+<li>Second Codon sits in the A(aminoccyl) site</li>
+<li>once Trna sits in peptadyl site, large subunit bonds to small</li>
+<li>Then second trna comes into A site with amino acids</li>
+<li>Amino acids connected with peptide bond</li>
+<li>Polypeptide bonds driven by peptidyl transferase</li>
+<li>E site is exit site, then og trna sits in e site, exits to find new amino acid, A site one moves into P site, etc</li>
+<li>Continues until stop codon, then no tRNA, protein detached and sent to golgi</li>
+</ul>
+</li>
+<li>Nonsense mutation is a change in a codons neucleotide into stop codon</li>
+</ul>
+</li>
+<li>Point mutation
+<ul>
+<li>Change in Base pair+only one base pair</li>
+<li>Silent mutation(CUU-CUG)
+<ul>
+<li>Still have same product</li>
+</ul>
+</li>
+<li>Missense
+<ul>
+<li>Silent but changes amino acid</li>
+<li>Albinism is change in one amino acid, cant produce melanin</li>
+</ul>
+</li>
+<li>Nonsense Mutation
+<ul>
+<li>stop code generated</li>
+<li>incomplete protein</li>
+<li>happens commonly(creates enzyme defficencies)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Frame shift mutation
+<ul>
+<li>Also can have multiple neucleotides used</li>
+<li>Addition
+<ul>
+<li>AUG UUU GUG -&gt; AUG AUU UGU G</li>
+<li>changes whole protein after shift</li>
+</ul>
+</li>
+<li>Deletion
+<ul>
+<li>AUG UUU GUG-&gt;AUG UUG UG</li>
+<li>Hard to detect in eukaryotes bc introns</li>
+</ul>
+</li>
+<li>Block mutation
+<ul>
+<li>Sginificant portion added or subtracted</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>polypeptides in subunits are mostly enzymes
+<ul>
+<li>In large subunit, peptidyl transferase
+<ul>
+<li>Creates peptide bond btw amino acids at top</li>
+<li>3/4 different antibiotics that interrupt peptidyl transerase in prokaryote</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>In eukaryote, proteins produced goes to golgi to get folded and stuff</li>
+</ul>
+<h3 id="dna-regulationoperons">DNA Regulation/operons</h3>
+<ul>
+<li>Described by frenchmen jacob and monade working with ecoli</li>
+<li>2 different models from simpler bacterial system and eukaryotic model</li>
+<li>Both
+<ul>
+<li>Operon systems</li>
+<li>Operon is Structure where DNA is transcribed+translated into funcitonal protein</li>
+<li>Every DNA has operon working for it</li>
+<li>Repressor protein = Transcription factor that binds to DNA to inhiit transcroption by negative control</li>
+<li>Activator protein = Increases rate of transcription by positive control</li>
+<li>Effector molecule(not in all prokaryotes) = Binds to trnascription factor to change its properties(bridge between transcription factor and gene sequence)</li>
+<li>Repressor and Activator are found upstream from gene(distance away from genes to be transcribed)</li>
+<li>At far end, you have regulatory gene, then big gap, then IPO</li>
+<li>Entire operon is promoter, operator, structural genes</li>
+<li>at 5' end is terminator</li>
+<li>Inducable model = Light switch off, u have to turn it on
+<ul>
+<li>Lac/lactose Operon</li>
+<li>Has to be turned on to function</li>
+<li>In bacteria, lactose metabolism is critical</li>
+<li>LAC operon has three structural genes(polycistronic mRNA)
+<ul>
+<li>1st lac z = <span class="joplin-editable"><span class="joplin-source" data-joplin-language="katex" data-joplin-source-open="$" data-joplin-source-close="$">\Beta</span><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">B</mi></mrow><annotation encoding="application/x-tex">\Beta</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord"><span class="mord mathrm">B</span></span></span></span></span></span> galactosidase(breaks lactose into two parts(breaks 1-4-beta oxygen bridge)(humans can break down 1-4-alpha, but not beta)</li>
+<li>3rd lac a = galactoside transacetylase = allows lactose into cell</li>
+<li>2nd Lac y = allolactose = reconfiguration of molec</li>
+</ul>
+</li>
+<li>Regulatory protein is the allolactose molecule</li>
+<li>Regulates how much Lac z and y is produced</li>
+<li>Allolactose binds to repressor protein(produced in regulatory gene), allows transcription</li>
+<li>When there is no lactose, repressor protein binds to DNA so transcription dosent occur
+<ul>
+<li>lactose initally bonds to repressor, allolactose takes its place</li>
+</ul>
+</li>
+<li>Everything shut down except for certian stay alive funcitons</li>
+<li>Betagalactosidase breaks lactose into glucose and galactose(stereoisomers, go to glycolysis)</li>
+<li>Lac operon also controlled by cyclic AMP(cAMP)</li>
+<li>cAMP is a messenger molecule,binds to DNA, increases transcription</li>
+</ul>
+</li>
+<li>Repressable model = light switch on, u have to turn off
+<ul>
+<li>Tryptophan/TRP Operon(essential amino acid that needs to be assembled)</li>
+<li>Needs to be always turned on until there is an excess</li>
+<li>Tryptophan is a regulatory protein</li>
+<li>Similar to LAC, except always turned on, needs to turn off</li>
+<li>repressor protein bonds with tryptophan, stops polymerase</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Eukaryotic model
+<ul>
+<li>Not as simple as prokaryotes bc has lots of introns</li>
+<li>Parts of functional genes can be on different parts of chromosomes or even different chromosomes</li>
+<li>Combination control(various factors controlling process)</li>
+<li>Different activator or repressor proteins, alone or together, can control different operon parts</li>
+<li>Activator protins loosen chromosome for easy RNA POL access</li>
+<li>Proteins</li>
+<li>Added level of packing(histones) makes it very difficult</li>
+<li>Methylation inhibits transcription by binding</li>
+<li>Controlled by Effector molecules, protein-protein interactions, covalent modifications</li>
+<li>Heterochromatin has high A/T ratio, densly packed, mostly non-coding regions</li>
+<li>Euchromatin has high G/C ratio, loosely packed, has majority of coding regions</li>
+<li>Transcription process is the same</li>
+<li>All genes have initiatiors(where starts), promotor, operator(), structural genes</li>
+<li>Promoter region
+<ul>
+<li>Transcription start sice</li>
+<li>TATA box(where looked to bind to(a and t)</li>
+<li>Response element(transcription factors)</li>
+</ul>
+</li>
+<li>2 versions of RNA POL (II) is one used here</li>
+<li>Whole tata box, GTFs, RNA POL II is pre initation complex
+<ul>
+<li>Looks for more transcription factors, then combines, transcription happens</li>
+<li>Transcription element and tata box = core promoter</li>
+</ul>
+</li>
+<li>Response elements
+<ul>
+<li>Regulatory genes(enhancers and silencers)</li>
+<li>DNA segments that regulate eukaryotic genes</li>
+<li>control RNA POL by enhancing RNA POL or preventing RNA POL</li>
+</ul>
+</li>
+<li>Mediatiors hook up with transcription factors, allow transcription to begin
+<ul>
+<li>Hook up to the preinitation complex</li>
+<li>Looks for activatior in a bend in the DNA, then releases RNA POL</li>
+<li>RNA POL never acts between the activator and TATA box</li>
+</ul>
+</li>
+<li>If protein is very important, Activator protein then attaches to enhancer coding sequence, which continues process of transcription by enhancig the ability of a GTF to bind to the TATA box, promoting preinitation complex assembly without mediator</li>
+<li>Gene accessibility
+<ul>
+<li>Genes have to be accessible for transcription</li>
+<li>COnfiguration is important
+<ul>
+<li>Tightly packed or loosely packed</li>
+</ul>
+</li>
+<li>Loosely packed is able to be transcribed easily</li>
+<li>DNA with methyl group cant be transcribed(CH3 gets stuch between Adenine and thymine, slightly increases width, RNA pol cant get in, shuts down process)</li>
+</ul>
+</li>
+<li>The leucine zipper facilitates binding of activator to enhancer
+<ul>
+<li>Leucine zipper recognizes continious strand of DNA, allows bond forming btw activator and enhancer, causing transcription</li>
+<li>Only binds to continious strand</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>MR. Anderson Video
+<ul>
+<li>Gene regulation = How we express a gene or not
+<ul>
+<li>E. Coli eats whatever we eat, has to break down everything</li>
+<li>E. Coli easily makes enzymes to break down things</li>
+</ul>
+</li>
+<li>REgulatory gene is the gene that regulates another gene, found just above the gene(found before gene )</li>
+<li>Promoter is regulatory sequence</li>
+<li>Bacteria
+<ul>
+<li>any step between DNA and RNA can be regulated, mostly btw DNA to mRNA</li>
+<li>Gene, downstream</li>
+<li>Positive control(LAC operon)
+<ul>
+<li>Bacteria have multiple genes in a row, lac Z, Y, A</li>
+<li>Upstream is promoter, then operator, then gene</li>
+<li>Operator is on/off switch</li>
+<li>Repressor plugs into operator, RNA pol cant join(positive control)(when lactose shows up, fits into repressor, changes repressor, repressor leaves)</li>
+<li>RNA POL makes mRNAs for each lac gene, proteins, breaks own lactose, repressor goes back</li>
+</ul>
+</li>
+<li>Negative Control(trp operon)
+<ul>
+<li>five genes in a row</li>
+<li>Operon is off when tryptophan is present</li>
+<li>Gene dosent want to make trp when trp is present already, when no trp, make proteins to make trp, when have trp, not making trp, etc</li>
+<li></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Eukayotes
+<ul>
+<li>REgulatory sequence(TATA Box) allows tata binding protein to allow RNA POL to get on</li>
+<li>RNA POL needs lotsa transcription factors to allow Attachment, holding of RNA POL</li>
+<li>Transcription factors fold DNA in certian places to touch tata box<br>
+-------------notes u missed for amc</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Cancer
+<ul>
+<li>Faliure of apoptosis in cells
+<ul>
+<li>Cells do apoptosis as programmed cell death</li>
+<li>Cell undergoes specific number of nuclear divisions(~50 for skin, dosent happen in nervous system which divides once)</li>
+<li>Lysosomes kill cell(suicide sac) with digestive enzymes, etc</li>
+<li>Programmed in DNA</li>
+<li>Cancerous cells lose the ability to stop nuclear division bc DNA mutations</li>
+</ul>
+</li>
+<li>Faliure of contact inhibition cells
+<ul>
+<li>Normally cells stop growing when they touch other cells(extracellular summer info)</li>
+<li>Cancerous cells start growing on top of eachother(makes tumor)</li>
+<li>Cancerous growth can be caused by any growth on any chromosome in any cell type</li>
+<li>Tangent:Protooncogene arrangements or differences between people may determine cancer likelihood, is very sensitive to cancer-causing chemicals</li>
+</ul>
+</li>
+<li>Caused by mutation</li>
+<li>How do cancers progress(skin eg)
+<ul>
+<li>Cell in dermal skin layer is mutated</li>
+<li>Cell undergoes rapid growth, start to see/feel skin alignment differences</li>
+<li>skin starts to bump, is still contained/benign tumor</li>
+<li>Can biopsy, put under microscope and recognise characteristics and then pull out entire tumor</li>
+<li>Metastizized/agressive/escaped tumor cells, can be difficult to tell if its gone, metastize to places with lotsa blood flow</li>
+<li>Some cancers spread very slowly(bone cancer bc bone is dense)</li>
+</ul>
+</li>
+<li>Progression of Colon cancer
+<ul>
+<li>Normal colon cell has a change in chromosome 5 gene</li>
+<li>Increaed cel growth, DNA loses methyl groups, causing RAS gene to mutate</li>
+<li>Material loss from chromosome 18 and 17</li>
+<li>Carcinoma stage, other chromosome losses to metastisis</li>
+<li>Lotsa stages</li>
+</ul>
+</li>
+<li>Oncogenes
+<ul>
+<li>lotsa contact inhbition receptors+adhesion molecules</li>
+<li>Growth factors attach to hormone receptor(integral protein)</li>
+<li>Also attached to protein bit, moves to messenger protein(frequently cyclic AMP)</li>
+<li>Cyclic AMP binds to another protein, is signaling structure</li>
+<li>cyclic amp binds to signaling binding protein, then binds to dna itself, acts as repressor or inducer</li>
+<li>Estrogen stops prostate cancer growth, but increases general nuclear division</li>
+<li>If binding protein attaches to position where oncogene is, then you get transcription of that piece of DNA</li>
+<li>If dosent bind to promoter site of oncogene, nothing happens</li>
+</ul>
+</li>
+<li>Events that can create oncogenes
+<ul>
+<li>Alltered gene+Altered product/incorperation of retroviral oncogene/Mutation of normal proto-oncogene creating oncogene</li>
+<li>Altered gene expression where gnee is trascribed at wrong time or too fast/insertion next to a proto oncogene of retroviral cDNA containing an active control region/trnaslcation of a PHOTO</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Gene Transfer
+<ul>
+<li>Movement of genes from one bacterium to another</li>
+<li>Mechanical Methods(transduction)
+<ul>
+<li>Shown in viruses that infect bacteria(bacteriophage)</li>
+<li>Bacteriaphage is a complex virus bc has head and midpiece and feet, injects DNA into bacterium</li>
+<li>Virus has to cause host cell to do reproduction for the virus, producing new viruses and cutting up host dna</li>
+<li>Occasionally virus picks up host dna, is transferred to next bacterium, gives next bacterium new properties</li>
+<li>Transformation transforms bacterium from one state to another state(classic expirement looks for source of protein synthesis by griffiths, wondered why some staph organisms gave pneumonia and others didnt do anything to anybody)</li>
+<li>Griffiths took sickening pneumonia into mouse, mouse died</li>
+<li>Took pneumonia that didnt make ppl sick into mouse, mouse lived</li>
+<li>Boiled sick virus into mouse, mouse lived</li>
+<li>Mixed both boiled sick and not sick virus together, mouse died</li>
+<li>Last mouse's lung tissue had bacteria transformed into disease causing organisms</li>
+<li>Whooping cough is heat treated for vaccine</li>
+</ul>
+</li>
+<li>Non-Mechanical Methods(Transformation, Conjugation)
+<ul>
+<li>Conjugation/exchange of plasmids between bacteria</li>
+<li>Plasmid is extra-nuclear DNA(not part of the thing)</li>
+<li>Cells with plasmids are F+ cells, without is F- cells</li>
+<li>F+ cell offers F- cell plasmid, form tube between 2 baceria(pilus), during replication, copy of plasmid goes from F+ cell to F- cell, then F- is now F+, etc.</li>
+<li>Plasmids carry many different ideas(fertility(ability to conjugate faster/high-frequency recombinant plasmid(Hfr plasmid, splices itself into host genome, is replicated, etc), lets different genus/species excg plasmids, ppl used to think that diff genus/species couldnt excg plasmids), resistance factors(ability to withstand antibiotics, over time like with penicillin are useless), bacteriocin factors(bacteria has toxin being produced), virulence factors(how severe disease), cryptic(disguise of organism)</li>
+<li>Middle three make people sick</li>
+<li>Transposon moves from chromosome to chromosome, discovered by NY researcher McLintic</li>
+<li>'Jumping genes', worked with corn</li>
+<li>Transposon is peice of DNA, sometimes acting as transcription factors, sometimes not, inhibits or enhances product on chromosome, then keeps jumping around</li>
+<li>DNA from mitochandria likely jumped to nucleus with transposon</li>
+<li>DNA in nucleus has some mitochandria DNA(metabolic enzymes, etc)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Read+review chapters 11, 12, 13(Materials in cell signaling+chromosome structure+mitosis and meiosis)Friday test has some basic mitosis+meiosis questions</li>
+<li>Mutations
+<ul>
+<li>Changes to any DNA of a organism</li>
+<li>Rates of muations
+<ul>
+<li>Evoluationary tool to look at relationships btw organisms is in mutations</li>
+<li>Lotsa DNA mutates regularly, some places where stays same(around chromatids)</li>
+</ul>
+</li>
+<li>Spontaneous muations
+<ul>
+<li>Occur randomly, in eukaryotes, dont do much bc introns</li>
+<li>rate equal to 1*10^-21 base pairs</li>
+<li>Rate can increase if walk past nuclear power plant or in sun,</li>
+</ul>
+</li>
+<li>Three basic causes(chemicals/mutagens(exposed to), physical(xrays, etc), Biological(viruses, wart-causing things))</li>
+<li>Carcinogen is mutagen chemical that forms cancer, not all mutagens are carcinogens</li>
+<li>RNA tumor viruses vs DNA tumor viruses, lead to diff kinds of virus</li>
+<li>Most prevalent mutation is point mutation, occurs at single bp, potential for changing proteins, create stop codon</li>
+<li>DEletions/insertions cause frame shifts</li>
+<li>Block mutation is where entire segment is removed or duplicated, sometimes is actually translocation mutation</li>
+<li>Temperature sensitive(in prokaryotes)
+<ul>
+<li>Don't occur in eukaryotes bc we have too much DNA</li>
+<li>Temp senitive mutation in one prokaryote changes color from white to red if heated to body temperature</li>
+<li>Used to demonstrate germ theory</li>
+</ul>
+</li>
+<li>Supressor mutation supresses product, even in eukaryotes</li>
+</ul>
+</li>
+<li>Affects of UV radiation on DNA
+<ul>
+<li>Thymine dimer created when 2 adjacent Thymines bond to eachother over complementary adenine, forms bubbble</li>
+<li>In prokaryote, this is fatal</li>
+<li>Eukaryotes deal with this with DNA repair checkers, cuts dimer out w/endonuclease looking for specific nucleotide sequence, cuts DNA out, then polymerase fills DNA in, everything is okay</li>
+<li>Insertions of chemicals btw dna strands
+<ul>
+<li>Forms bubble, can cause deletion of adjacent nucleotides or insertion</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>different repairs for different mutations, on mismatch point mutation, is corrected on leading strand</li>
+</ul>
+</div></div>
+					</body>
+				</html>
+			

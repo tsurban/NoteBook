@@ -1,0 +1,184 @@
+PHOTOSYNTHESISISISIISSIS/PLANT ENERGETICS
+
+# 10/23/2020 Theo Urban
+## In-Class Photosynth Notes
+***
+### Photosynth
+ - Anabolic reactions
+ - Makes light nrg into chem nrg(glucose)
+ - Use Chlorophyll to convert
+ - Done in chloroplast
+ - Similar to Hemoglobin(quatrenary protein)
+ - Light independent reactions and light dependent
+
+### Chlorophyll
+ - Magneseum center(iron is i hemoglobin)
+ - Botanists can seperate parts of chlorphyl, distinguish btw 5 diff ABCDE
+ - BCDE are accessory pigments
+ - All plants + some cyanobacteria have Chlorophyl A
+ - Can ID phylum of plants based on type of chlorphyls present
+ - Chlorophytes(3:1)
+	 - Chlorophyl A primary pigment(3)
+	 - Chlorophyl B acessory pigment(1)
+ - Chlorpholyl 
+	 - B has ketone gp in place where A has methyl gp
+	 - C found in chysophytes(golden algae)(A:C, 3:1)
+	 - D+E Accessory pigments found in small concentrations only
+	 - Absorps Light
+		 - Light has many diff wavelengths
+		 - Chlorphyls accept visible lights only(except 500-600green)
+		 - Chlorophyl A+B+C good at getting blue light bc its HIGH ENERGY LIGHT
+		 - Chlorophyl A+B good at getting red light too just to get as much as possible/use all sun
+		 - C has negligible red absorpance
+	 - Chlorophyl system structure
+		 - Accessory pigments picks up the segments of light that Chlorophyl A cant take
+		 - By the time light reaches the center(Chlorophyl A), all the same wavelengths
+		 - Leaves turn colors bc they have other pigments that when the green stuff denature, there are diff colors behind them
+		 - As long as light is good quality(brightness), chlorophyl works 
+	 - Chloroplast structure
+		 - One of 2 organelles that have >1 plasma membrane(also mitochandria)
+		 - Techincally have 3 membranes(outer, inner surround third set) third set are thylakoids
+		 - Thyklakoids stacked like pennies into a grana(penny roll)
+		 - Stromal thylakoids connect grana
+		 - Liquid surrounding grana is stroma(acidic/high H+ ion concentration)
+		 - Plant cells each have multiple chloroplasts(massive)
+		 - In ceritan organisims(mostly without cuticle), different shape chloroplasts, alters shape to absorb absorp light -- all plants have some method of doing this intensities(rotate to prevent burning)
+
+### Youtube videos on photosynth
+ - Photosynth gives o2 and food
+ - found in laces other than plant
+ - Happens in eukarotyic cells in chlooplast
+	 - Thylakoid membrane(pancake)
+	 - Stack of thylakouids is grana
+	 - liquid suspending grana is stroma, 
+ - Leaf has many different molecules to absorb diff wavelengths
+	 - Chloroplyll A,B dont absorp green
+	 - Black would make them too hot
+ - Water+CO2+light -> C6H12O6+6O2
+ - 2 steps Photo(light), and Synthesis(to make)
+ - Light reactions and Calvin cycle
+ - Calvin cycle takes place in stroma
+ - Light dependent
+	 - Produces O2, NADPH, ATP
+	 - O2 waste
+	 - NADPH, ATP go to calvin cycle, make CO2 into glucose
+	 - Closer look
+		 - Proteins with chlorophyl in thykaloid membrane(photosystem)
+		 - light used to power ETC, ETC powered by light
+		 - Protons pumped to inside of limen
+		 - Electrons provided by H20
+		 - Opposite of cell resp
+		 - Go through ATP Synthase, make ATP
+	 - Calvin cycle
+		 - RUBP joins with CO2 by RuBisCo(1C), splits into 2 3 carbons
+		 - Made into G3P, Much released, much becomes RUBP
+		 - Photorespiration(if not enough CO2)
+			 - O2 jumps into calvin cycle, gatehrs with rubisco, makes useless molecule
+			 - In 3C plants, o2 respiration bad, shuts down system
+			 - Might not have CO2 if too hot, stomata closes to prevent water loss
+		 - in CAM Plants(pineapple)
+			 - only open stomata at night, store CO2 in vacoules as malic acid at cold night
+			 - C4 Plants make CO2 molecule into C4 to store, use
+
+### Light dependent/independent reactions
+ - Both in chloroplast
+ - Products exported into cytoplasm
+ - Light depentent
+	 - Light powers this
+	 - This powers everything else
+	 - Need photosystems for light to work
+		 - Light nrg concentrated in photosystems
+		 - Light excites electrons(similar to ETC)
+		 - Excited e- form with NADP+
+		 - 2 sub-reactions(simultaneous)
+		 - Cyclic Photophosphorylation
+			 - electrons are cycled
+			 - proteins all in thylakoid membranes
+			 - To PHOTOSYSTEM 1(P700), discovered first, happens second
+			 - Chlorophyls is at center(CHA at center, accessories around)
+			 - Light enters as nrg photons(all wavelengths)
+			 - Strikes reaction center, greens reflected, everything else filtered toward Chlorophyl A, gets closer to 700nm
+			 - Excites 2 e-
+			 - Form NADPH from NADP
+			 - e- cycled through cytochrome proteins(similar to ion pumps in mitochandria ETC)
+			 - Increase proton gradient on thylakoid membrane
+			 - Protons used in ATP Synthase(same as in MC)
+			 - Q protein also pumps
+			 - Takes place all the time(but mostly when CO2 lvls low)
+			 - Photosystem 1 recycles e- from cytochrome system through itself
+		 - Non-Cyclic Photophosphorylaton
+			 - Water split into 2e-, 2h+, 1O(Oxygen joins with other make O2)
+			 - Photosystem 2(P680) moves e-, excited by light, into cttochrome system
+			 - Photosystem 1(p700) moves e-, excited by light, into cytochrome system
+			 - makes ATP, NADPH, H+
+			 - Where to next???
+ - Light independent
+	 - Calvin Cycle(C3 Photosynth)(used by most land plants/dichots)
+		 - uses 6 ATP, 6NADPH
+		 - Takes 3 RuBP, puts into RuBISCO(Ribulose Bisphophate Carboxylase Oxidase)
+		 - RyBISCO adds CO2 onto RuBP, forms 3x6C compound(highly unstable)
+		 - Breaks into 6 PGA(3C), phosphorlyated, reduced into G3P
+		 - G3P does reverse glycolysis, makes sugar
+		 - G3P becomes DHAP, used in Fatty Acid creation
+		 - G3P can be used to make any macromolecule
+		 - Intermediates used for many other things
+		 - Each turn creates 1 G3P, exported into cytoplasm, then to floem
+		 - in flowem, Reverse glycolysis makes G3P into Glucose
+		 - Glucose moved with H+ into flowm and into root for storage
+	 - Alternatives to Calvin cycle
+		 - Plants that have to conserve water
+			 - succulents/CAM(cactus, aloe, etc)
+			 - C4 plants(Grasses/monocots)
+		 - Light dependent is same
+		 - Difference in how CO2 is incorperated
+		 - C3, CO2, immediately used
+		 - In C4, CO2 stored
+			 - Light depentent takes place in mesophyll
+			 - PEP(phospho-enyl-pyruvate)(3C) produced in mesophyl
+			 - Uses one CO2, forms Malate, stores
+			 - Bundle sheet cells take malate, decarboxylate Malate
+			 - CO2 goes into calvin cycle, PEP goes back to get more
+			 - Conserves water
+		 - CAM plant
+			 - Only diff is that CO2->Malate happens @ night
+			 - CO2 taken in @ night thru stomata, stored
+ - Plant Anatomy
+	 - Flowering plants are Dicots or Monocots
+	 - cot = cotyleden = baby plant's leaf
+		 - dicot - 2 baby leafs(dandilion)(branching veins)(multiples of 4-5 petals)(taproots)
+		 - monocot - 1 baby leaf(grass)(parallel veins)(multiples of 3 petals)(branching roots)
+	 - Shoots(above ground)
+		 - Shoot nodes are places where branch out
+		 - internodes are spaces btw branches
+	 - Roods(below ground)
+	 - Tissues
+		 - Dermal(epidermis/outer lining cells, periderm cells/bark)(protection, prevent water loss)
+			 - Epiddermis(leaf cross section)
+			 - makes up leaf structure, gaurd cells, waxy cuticle
+		 - Ground(Parenchyma, Chllenchyma, Schlerenchyma)(metabolisim, storage, growth)
+			 - majority parenchyma cells(photosynth)
+			 - Collenchyma(durable support cells)
+			 - Schlerenchyma(sueor durable(big fibers/protect seesds, stem)
+		 - Vascular(xylem+phloem)(transport)
+			 - Xylem(water)
+			 - Phloem(sugar)
+	 - Primary growth(up and down)
+		 - apical meristem(just replicate cells)
+		 - root meristems grow with ends capped
+	 - Secondary growth(bark/widening)
+		 - produce more xylems and phloems
+		 - Vascular camblum makes xylems and phloems
+		 - Cork cambium makes corx/bark on outside
+	 - Why rings?
+		 - summer, grow quickly, diffent concentrations diff colors
+	 - Flower
+		 - Stamen head = anther, makes sperm/pollen(male)
+		 - Ovule surrounded by ovary
+		 - double fertilizations
+			 - pollen moves into ovule
+			 - 3female polar neucleui attach to sperm(triploid)
+			 - acttual egg+sperm join(diploid)
+			 - triploid becomes endosperm/food for diploid
+			 - 
+
+	 - 

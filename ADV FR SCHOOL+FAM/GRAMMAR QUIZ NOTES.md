@@ -1,0 +1,66 @@
+GRAMMAR QUIZ NOTES
+
+ - Présent      
+	 - ya know
+ - Imparfait      
+	 - Describing something in the past+something that used to happen recurringly
+	 - Nous form, drop the ONS, add imperfect endings(ais) 
+ - Passé Composé (avoir/être)      
+	 - Describe most events in the past
+	 - conjugate avoir, then use past participle(infinitive + er->é re->u ir-i)
+ - Futur proche       
+	 - Soon in the future
+	 - conguigate aller + *infinitive*
+ - Futur simple     
+	 - Use for most future cases
+	 - Future stem(mostly infinitives, re->r, some exceptions)
+ - Réflexive/Pronominal Verbs      
+	 - used any time verb is talking about the subject
+	 - used with me te se
+ - Conditionnel     
+	 - use to say would/could
+	 - Future stem and imparfait ending 
+ - Passé du conditionnel     
+	 - used to say "I would have done x"
+	 - Compound tense(conditional of avoir/etre + past participle)
+	 - Negate conditional of avoir/etre
+ - Plus-que-parfait      
+	 - Action that took place before another action(past)
+	 - Imperfect form of avoir/etre(avais/étais) + particple
+ - Présent du subjonctif        
+	 - Subjectivity, uncertainty, unreality, feelings like dobut and desire
+	 - Present ils form, remove ent, add (e es e ions iez ent)
+ - Futur Anterieur
+	 - future tense of avoir/etre + past partiiple
+ - Articles      
+	 - le la les un une des du de la
+	 - de used to mean some as an article
+ - Agreement with nouns & adjectives     
+	 - ez
+ - Making agreement in P.C. with être     
+	 - use etre with vandertramp and reflexive
+ - Les pronoms relatifs 
+	 - Que(that, followed by noun)
+	 - Qui(that, followed by verb)
+	 - Dont(of/from which/whom, including, replaces de + person or thing)
+	 - Où(where/ when(moment in time))
+ - Les pronoms objects direct et endirect
+	 - Me+Te
+		 - Me and You
+		 - Singular
+	 - Nous+Vous
+		 - Us and Yall
+		 - Plural
+	 - Le+La+Les
+		 - It+It+They(inanimate)
+	 - Lui+Leur
+		 - They/Them
+	 - Y
+		 - There
+	 - En
+		 - How many
+ - Demonstrative Adjectives
+	 - Ce/Cette/Ces/Ces
+	 - this/that/these/those
+ - Que refers to noun.  Ce que refers to entire part of sentence
+ - Say "Just" with venir de + infinitive

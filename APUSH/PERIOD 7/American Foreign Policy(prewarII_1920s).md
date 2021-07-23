@@ -1,0 +1,115 @@
+American Foreign Policy(prewarII/1920s)
+
+# 3/21/2021 Theo Urban
+## APUSH notes American prewar foreign policy
+***
+### Governmental involvement
+ - Mostly thru private econ relationships
+ - WWI made USA center of manufacturing+financial pwr
+	 - Bankers alone+ coodinating w/harding+coolidge solidified international position w/foreign loans
+	 - Advanced billions to germany to pay for WWI reparations
+	 - American industrial(auto, agri machinery) est overseas plants to supply foreign market and use inexpensive labor
+	 - Got control of raw materials(copper in chile+oil in venezuela)
+ - In 'red line agreement', british, Fr, american oil companies divided oil-producing regions among themselves
+ - Gov dispatched soldiers when a change in gov in carribean threatened amer. econ
+	 - Marines withdrew from nicaragua 1925, returned soon after
+	 - Same thing in 1933
+ - Americans had ~40% of the world's wealth
+	 - biz booming, esp overseas exports+investments
+
+ - Four Freedoms: Speech, worship, from want, from fear
+	 - Outlined reason for was
+	 - Compared to Ten commandments, Magna Carta, Emancipation Proclamation
+	 - Ideas of freedom into all aspects of daily life
+		 - Cartoons/graphics depicting ^^ reprinted by the gov, sold, posted for war bond propaganda
+ - War expanded the economy
+	 - GDP more than doubled, unemployment disappeared
+	 - War Production conquered Depression
+	 - Millions of women into workforce, urbanization
+ - Strengthened Idea that American security was global in scope, only protected by worldwide triumph of core values
+ - Gov military spending enhanced south and west(sunbelt foundation)
+	 - Increased link btw big biz and militarized fedgov
+ - Redrew boundaries of american nationality
+	 - Recognized new immigrants of WWI as citizens
+
+ - Good neighbor policy
+	 - FDR pulls out of South America
+	 - Respects rights of others
+	 - Respects obligations, sanctity of agreements
+	 - Still really in latin america
+	 - Somewhat effort toimprove domestic econ
+		 - Exchanged ambassadors with soviet union(previously not recognized)
+		 - Withdrew from haiti + nicaragua
+		 - Accepted cuba's repeal of the platt amendment
+		 - Supported anti-democratic regimes if in american biz interest
+	 - Countered german influence in latin america by reasserting own infunce
+		 - American Ballet + NBC Orchestra on latin american tours
+		 - Far diff approach to military interventions
+ - Road to War
+	 - 1931 Japan invaded manchuria(north of china)
+	 - 1937 moved troops further in
+		 - Japanese took nanjing, killed 300k prisoners of war+civilians
+	 - Hitler quickly consolidated germany, then tried to take whole continent
+		 - Violated versailles treaty w/ rearmerment
+		 - 1936 troops to occupy Rhineland(dmz btw Fr+germany)
+		 - Britan, Fr, US didnt oppose, emboldened hitler
+	 - Mussolini in japan, founder of facisim
+		 - Led mvmnt similar to naziism
+		 - invaded+conquered ethiopia
+	 - Hitler aided spainish uprising, uprising won(facist gov in place)
+		 - Hitler 1938 annexed Austria and Sudetenland(ethnically german czechoslovakia)
+		 - Then all of czechoslovakia
+	 - FDR worried abt hitler uprising+jews
+		 - Called for international action to quarantine agressors(no steps taken)
+		 - Agreed to policy of appeasement(agreeing to hitler demands to prevent war), following br+fr
+ - Isolationism
+	 - Most americans felt that jap+germ threat was very distant
+	 - Hitler had many US admirers
+		 - Expansion of german power counter commie USSR
+		 - Ford did biz, used slaves in german ford plants
+		 - Trade w/japan also continued(Amer trucks, aircraft, oil)
+	 - Many considered WWI involvement a mistake
+		 - International bankers+arms exporters influenced wilson entrance
+		 - Pacifism strikes on college campuses
+		 - Ethnic alligencies reinforced reluctance
+			 - German+Italian-decendants celebrated expansion of homeland while rejecting gov types
+		 - Isolationism dominated congress
+			 - 1935-37 neutrality acts, banned travel on belligerents ships, arms sale to 
+			 - Congress hoped these policies would allow US to avoid conflicts over freedom of the seas that sparked WWI
+			 - Spainish civil war, facist, no trade w/ either
+			 - Germany(Franco) won war bc no support from america
+ - War in europe
+	 - Munich agreement 1838, Br+Fr caved to hitler's agression
+	 - Stalin proposed agreement to oppose german expansion
+	 - Br+Fr distrusted stalin, saw germany as barrier from spread of communism in europe, refused
+	 - Stalin signed nonagression pact w/ hitler
+	 - Germany invaded poland, br+fr declared war
+	 - Germany appeared unstoppable, blitskreig overrun poland, much of scandanavia, belguim, netherlands
+	 - occupied paris june 14 1940
+	 - One year, britan was alone in fighting germany, barely keeping them at bay
+		 - Called for new-world intervention after devestating battle of britan
+ - Toward Intervention
+	 - FDR viewed hitler as mad gangster
+	 - Most americans viewed hitler as very didstnt, this concerns FDR
+	 - 1940, congress allowed sale of arms to britan on cash and cary basis
+		 - Pay in cash, britan must transport
+		 - Also approved military rearmermant
+	 - Roosevelt reluctant to go further bc upcoming election
+	 - Opponents
+		 - America First Committee - prominent leaders like ford, lindbergh, coughlin
+	 - 1940 FDR announced third term candidacy
+		 - Argued that international situation too dangerous, domestic is to fragule
+		 - Republicans chose ameture bizman wendell willkie
+		 - Differences are far less than in 1936
+			 - Wilike endorsed new deal social legslation
+			 - Got more votes than 36 or 32 republicans did, but still FDR won
+	 - Firesad chat 1940, Roosevelt announced that the US would become the great arsenal of democracy, supplying other countries
+	 - 1941, US became more closely alied with nongerm/jap powers
+		 - Roosevelt urged congress to pass lend lease act
+			 - Authorized military aid with promise of return
+			 - Gave billions in arms to Britan, China, USSR(hitler broke pact and invaded in 1941)
+		 - Froze Japanese assets in the US, including oil sales
+		 - German and other occupied nations formed free world association w/ US against hitler
+		 - Freedom house formed(Prestigious membership including University prezs, ministers, bizmen, labor leaders)
+			 - Describet war as struggle btw dictatorship and free world
+			 - FIght for freedom rally and madison square garden, ended w/ demand for dec of war

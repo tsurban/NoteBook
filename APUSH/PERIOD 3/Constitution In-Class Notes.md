@@ -1,0 +1,95 @@
+Constitution In-Class Notes
+
+# 11/12/2020 Theo Urban
+## APUSH PD3 Constitution
+***
+### Basis for constitution
+ - Articles of confederation deemed doomed
+	 - Shay's rebellion doomed ^
+	 - Articles couldnt raise army
+	 - Fear that Shay's rebellion spread
+ - British influence
+	 - Fear
+	 - Worried abt king/executive power
+	 - How can the delegates create a single delegate with enough power that isnt a monarchy
+	 - Balnce republicanism+anarchy
+ - Constutional Convention
+	 - Protect American rights
+	 - Abuses of Power
+	 - Populisim
+	 - Selfish Satates
+	 - Infringement of liberty
+	 - Economic
+ - Principles to est. goals
+	 - Federalism
+		 - Division of power(power sharing within+between branches+states)
+		 - Like Federalist papers, not party
+	 - Republicanism
+		 - Authority in consent of goverened, Elite/modest serve intrest of public the best
+		 - People can not be trusted to decide
+	 - Liberty
+		 - Broadens into individual rights
+		 - Property seperates from liberty
+		 - Freedom of concience(speech press assembly religion)
+		 - Bear arms
+	 - Property Rights & Protections
+ - Structure
+	 - From Great Compromise
+		 - Bicameral(2 houses) congress
+		 - Start to see debate over how count ppl
+		 - 3/5 compromise
+			 - North wants slaves as property bc get taxes+power in gov
+			 - Slaves wants slaves as ppl bc get power in gov+less taxes
+	 - Seperation of power
+		 - Three branches
+			 - Legislative(Article 1)(declares war)
+			 - Executive(Article 2)(runs war)
+			 - Judicial(Article 3)
+		 - Occasionally loophole, but usually closed later
+		 - Some things left up to states
+			 - Education
+			 - 
+ - Compromise
+	 - Slavery
+	 - Liberties
+		 - Bill of rights
+	 - Power of the People
+ - Initally nothing said abt voting
+	 - Voting left up to states(power sharing/federalism)
+ - Create Executive (Article II)
+	 - Rules to restrict power
+		 - Cant be in any 2 branchs at once
+		 - Makes it harder to influence exec. branch
+		 - Protects congress from exec. influence
+	 - Run by single person, not committe
+		 - Want president to have ownership+responsibility of executive branch
+		 - Want to avoid confusion about which part of the executive is saying what 
+	 - Terms(4 years)
+		 - Accountability
+		 - PPL vote to select differnt delegates for president
+		 - Nothing one can do to get rid of bad monarch
+	 - 3 differnet proposals regarding cabinet, cant decide, leave for washington to decide
+		 - Create department of state
+		 - Tresaury treasury
+		 - Attorney gneral
+		 - Secretary of war
+	 - significant identity differences between norith and south
+	 - Each region develops own areas of intrest in national gov
+ - Federalists vs Antifederalists
+	 - Federalists in favor of power-sharing
+	 - Antifederalists want smaller gov, state pwrs
+	 - Antifederalists insist on bill of rights, see lack of bill of rights as nullfiying state bill of rights
+	 - Want More unified bill of rights(states all have different ones)
+	 - Compromise is that Const. ratified, then congress will make BOR
+	 - Hamilton+Madison are both federalists, write federalist papers
+ - Washington presidency
+	 - Hamilton's econ. program(5 parts)
+	 - Reflects intrests of the north(manufacturing+trade)
+	 - 1. Create credit-worthyness(each state has own debt from amerrev, all states paid off diff amnts(vir done, mass bad))(hamilton wants gov to absorb debt, pay off w/taxes)(paying back debt creates credit worthiness)
+	 - 2. to create consistincy, wants national bank to make currency and manage inflation
+	 - 3. To create revenue, excise(product or property) taxes on whiskey(backcountry areas)(objected bc discriminatory bc targets one industry)(farmers producing whiskey bc they have to to transport it)
+	 - 4. Support for industry(tarrifs and subsidies)(similar to what england did)(subsidies for BIEC)
+	 - 5. treaty of mutual support w/ french rev, would put america against england(hamilton says stay neutral(favor both equally, trade w/each))
+		 - Upsets France bc violates treaty
+		 - Upsets Britan bc American trade keeps Fr going(take ships and impress americans)
+		 - Neutrality always ends is war

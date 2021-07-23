@@ -1,0 +1,128 @@
+Interwar Foreign Policy
+
+# 3/26/2021 Theo Urban
+## APUSH notes American Interwar Foreign policy(1920-1941)
+***
+ - Foreign policy is super nuances
+	 - Makes decisions that are in its own best interest
+	 - Will collaborate with other nations when it suits american needs
+	 - Will not engage in long term/binding cooperation
+	 - Isolationism
+		 - Isolated from collective agreements
+		 - Not complete isolationsim
+ - Why good neighbor
+	 - GW adress - - Munroe doctorine - roosevelt corolarry - Dollar/Moral Diplomacy - Quarantine(good neighbor)
+	 - Western hemisphere respect socerignty, not interventionism
+	 - Mutually beneficial even w/ undemocratic govs
+		 - US not a bully
+		 - El salvador+Nicagura(not dem)(change from wilson, only time in american history)
+	 - Focus on Great depression recovery
+	 - Unified response to axis agression
+		 - Build goodwill now, will have future goodwill response
+		 - Roosevelt has international approach to great depression
+			 - Already thinking in 1933 abt responding to japan and germany
+			 - Build goodwill to use friendly nations to do things
+	 - Nationalistic - AM interists are diff, superior
+		 - International trade, econ strength
+	 - Unilateral action, bilateral agreements
+		 - Engages on a case-by-case basis when needs suited
+		 - Makes agreements with other nations
+	 - Use neutrality to stay out of war
+		 - Neutrality acts of 1935, 1936, 1937
+		 - Not involved in the fighting, but find other ways(political/economic)
+		 - Manifested by good neighbor policy
+		 - Apply equally to all beligerants/conflictors
+			 - Beligarents not looked at in terms of right/wrong side, just beligarants or not
+			 - Who classifies? - prez/executive branch
+			 - Nation can be at war without being declared at war by prez
+			 - This power of FDR seems dictitorial
+		 - Once prez declares beligerant, US cannot engage w/ you
+			 - Italy and etheopia both beligerants
+			 - Cannot aid either, despite italy being the agressor and us self-interests want etheopia free
+			 - Spain civil war, FDR declares beligerant, cannot support even non-facist side
+			 - Increases activation energy needed to convince americans of need to go to war(pearl harbor has to happen)
+			 - Lets agressor feel uncountered
+			 - Lend-lease and cash/carry(really hard for america to help england)
+			 - Switching from peactime economy to wartime economy is harder(does really good with switching the economy)
+		 - WWII sold as defensive war bc pearl harbor
+		 - 
+ - Washington naval arms conference
+	 - Tensions are in seasia are on the rise
+	 - Meant to releive the tensions
+	 - US unilaterally initates conference, needs bilateral agreements w/ other nations
+	 - Basically what LON was supposed to do, us willing to engage in LON stuff, but not on others terms
+	 - Cherrypicks nations w/ common interests w/ usa and also japan
+		 - Occupiers of seasian countries(colonial powers come, not actual places)
+	 - Agree to three things
+		 - Each nation maintatins rationfor navy/limiting military strength
+		 - Agree to respect territorial integrity/china(makes european nations worried abt colonies in se asia and invasion)
+		 - Continue to respect open door policy of china
+	 - Why important
+		 - Where ppl think this is going
+		 - No actual enforcement taken
+		 - Worried abt safety of colonies and disruption of trade
+			 - Japan needs natural resources, dependent on us for oil, us cutting off supply
+			 - Japan believed in ethnic superiority(their right to expand/occupy/destroy)
+ - Neutrality acts box president in, how to support GB w/ neutrality acts still in place
+	 - Cash-carry(pay cash, move on own boats)
+	 - Lend-lease(lend, lease on island, get it if not returned)
+ - Hitler comes to power in 1933 w/ fire in capitol
+	 - Creates narrative placing blame on opponent, elevates himself
+	 - Uses influence to manipulate parliment to make himself chancelor and then makes himself furher
+	 - Premise is 'I can restore germany to preWWI greatness' by...
+		 - Reuniteing all germans into one country
+		 - Rapid industrialization
+		 - Nongerman threats(jews and other european nations)
+		 - Jews not in germany in europe were much more vulnerable bc became stateless(no gov trying to protect them)
+			 - Germany protects germans somewhat
+			 - Removes all rights, but saf-er
+			 - final solution created in late 1930s(starts by removing from society, isolating)
+		 - Starts advancing towards germanppl
+			 - Rhineland(fr)/sars/sudatenland(czech)
+			 - These are the areas where versailles said dont occupi
+			 - Also have lotsa natural resources
+		 - Said he will stop when are under flag of germany
+			 - Europeans dont want a war
+			 - Meetings like munich conference where England PM meet with hitler, say will stop when have germans
+			 - Called appeasement
+		 - Breaks pacts, moves into czech, austria
+		 - Changes in 1937
+			 - Uses blitskreig(lightning war) to invade poland
+			 - Overpowers polish army
+			 - Similar to WWI, Alliances w/england and france mean england and france start to fight
+			 - Hitler invades france
+			 - France falls
+			 - France and England and Poland very unprepared
+		 - Battle of britan
+			 - Mostly air battle
+			 - Muflafla(german air force)
+			 - attacks military instillations, bombs london
+	 - Italy and germany ally, invade northafrica
+		 - Oil-rich area
+		 - Need oil to fight
+	 - War framed in us perspective than pacific more in europe
+ - Japan is not self sufficent
+	 - US had provided up to 80% of those resources
+	 - Invades mainland, korea, etc
+	 - Has general idea of superiority over japan
+	 - 37-39, start to freeze japanese assets in US institutions bc of japans agressive actions esp in nanking
+	 - Japan starts to threaten indochine(fr colony vietnam cambodia laos, etc)
+	 - US says will not trade any more oil until pull back military
+	 - US is the only one concerned with japan, others are occupied w/ hitler
+	 - Japan is also creating military plans for suprise atk
+		 - Up until morning of december 7(pearl) is still in negotiations
+		 - Sunday morning
+		 - Japan does coordinated atk on several military places in the pacific, on US holdings(hawaii/phillipines), France(indochine), Britan(Hong Kong)
+	 - Roosevelt uses this to ask for a war declaration
+	 - Declares war on germany, italy, japan, any other axis
+	 - Focus of war is on europe, win europe, then win asia
+	 - frustrating stratagey for russia and for US in pacific(many losses)
+	 - strong belief that europe dosent belong in controlling asia
+	 - Japanese front is really a whole-nation movement
+		 - Emperor with connection to god
+		 - Dishonorable to be captured
+		 - Kamakazi
+		 - Makes it really hard to fight them, encourages justification of the atom bomb
+ - Strategy is to secure oil in north africa, then do mainland eruo invasion(thru italy+thru france)
+	 - Once europe is secure(not won)
+	 - Then shift focus to asia strategy(island hopping)(turningpoint is battle of midway, then go from island to island to counter)

@@ -1,0 +1,64 @@
+MANIFEST DESTINY+SPAW LECTURE 
+
+# 12/17/2020 Theo Urban
+## APUSH PD5 Manifest Destiny +SPAW
+***
+### Westward expansion
+ - Causes
+	 - Economic Depression/ Bank Crisis(End of bank, pet banks)
+	 - Families follow oregon trail 
+	 - Pulls: Fertile soil, mild climate, good harbor, pugeot sound
+ - What
+	 - Orgeon trail is wagon trail, harsh
+	 - Americans go first, gov follows
+	 - Both US and Britan claim oregon based on company presence there(fur companies)
+	 - US claims also based on discovery of river, Lewis+Clark, successful farming settlement
+	 - 1844 election polk won on going to oregon/manifesting destiny
+	 - Extends american identity/continues founders work
+	 - Sees Americans as supreme, better than other nations, predestined to take North America to oregon(similar to winthrop city on a hill)
+	 - Oregon dispute settled diplomatically(england is also becoming less keen on oregon and more keen on afr)
+ - Coflict over Southwestern Provinces
+	 - Mexican(not spainish government) wants ppl to settle land
+	 - Speculator overprices land, splits it up into chunks to sell, mexico gets american ppl
+	 - Texas becomes very american
+	 - Mexico Passes law to abolish slavery and establish catholicism(not followed)
+	 - Texas revolt ends with texas independence from mexico
+	 - Texas wants in to the US 
+		 - Slavery is issue
+		 - Texas has well established slavery
+		 - needs new debate and resolution as stuff
+		 - Northwest ordinance(northwest), Missouri compromise(louisiana), Compromise of 1850(this one)
+		 - tries to 1) avoid big national debate 2)Find solutions for specific areas(not growth-oriented) 3)
+	 - Polk is not expected
+		 - Elected on expansionism and nationalism
+		 - Northern Democrats dont like bc fear texas and oregon will split the union
+		 - Polk also wants to reduce tariffs, reestablish bank, acquire CALIF
+		 - Some US military/exploritary presence in calif(also natural progression)(completes coasttocoast quest)
+	 - Also line btw america and mexico not defined(between 2 rivers)
+ - WAR
+	 - Immediate cause - US military moves into contested territory
+	 - Also connected to failed negotiations in Calif
+	 - Fought in central mexico
+	 - Small revolt in calif, overthrow spainish
+	 - End in treaty of Guadeloupe
+	 - Mexico recognises border @ rio grande
+	 - US gets Calif+New Mexico for $15mil
+	 - Becomes most states in that area
+	 - Gives up texas
+	 - Assumes claims against mexico(property loss from war)
+ - Effects
+	 - Renewed sectionalism debate
+	 - Contributed to changes in political parties
+	 - Makes US interconnected with entire world
+ - Moving west
+	 - Cross open, rolling hills
+	 - Cross spaces claimed by indian people
+		 - Sometimes amicable trade
+		 - Sometimes fighting
+		 - As ppl start to leave trail for isolated homesteads, conflict increases
+		 - No belief that middle area(great american desert) can be settled
+		 - Tensions increase with people moving off trail and start to settle(US gov sends military when fighting happens)
+		 - Indian American tribes dont like eachother, inceased contact bc americans, increased fighting btw tribes
+	 - Also Mormon trail
+		 - Past rockies head to utah
+		 - From missouri to south

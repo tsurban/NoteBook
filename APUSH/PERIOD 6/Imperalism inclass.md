@@ -1,0 +1,32 @@
+Imperalism inclass
+
+ - Policy of  extending a country’s power & influence through diplomacy & force, Espy. Through territorial acquistion that leads to/involves political and economic control
+ - Newly expanded beyond continent
+ - Scrabmble to control africa, etc, etc
+ - All countries want colonies
+ - Jutification
+	 - Civilize the uncivilized(Bring values, labor, farming techniques, christianity/self-gov+democracy once one is deemed fit)
+ - Against washington with munroe doctorine
+	 - time btw founding and now has mostly been within continent
+ - Causes of Imperalism
+	 - European imperalism, dont get left behind
+	 - Spreading of western/american values(Josiah Strong = imperarlist, updates manifet destiny to advocate for spread of democracy into world, like into west)
+	 - Land expansion, growing american global power, continuing manifest destiny
+	 - Expansion of trade, agriculture and industrial production need to be marketed abroad
+	 - Religious appeal/spread w/ missionaries
+	 - American Fronteir is closed(CENSUS BUERAU???)
+	 - Want to introduce modern industrial stuff to less civilized countries
+	 - Interested in expanding sources of natural resources
+ - Continuation
+	 - Spread of Christianity
+	 - American exceptionalism, racial attitudes(white mans burden)
+	 - Traditional world empires(britan+america, etc)
+	 - Fronteirs
+	 - American exceptionalism(josiah strong+Henry waterson like John O'sullivan)
+	 - Crime and negative stereotypes to natives
+	 - Marketing of products abroad
+ - Change
+	 - Washington farewell adress becomes wanting to take place on world stage
+	 - Expansion from NA continent to beyond NA continent
+	 - Insular cases
+	 - MOREEEE jamboard

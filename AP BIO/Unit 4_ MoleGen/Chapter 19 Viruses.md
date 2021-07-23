@@ -1,0 +1,110 @@
+Chapter 19 Viruses
+
+##19.1Describe a virus.
+ - A virus consists of a nucleic acid surrounded by a protein coat
+ - Most viruses are smaller and simpler than other cells
+ - Viruses first observed with plant illnesses not killed by bacteria-killing things
+	 - Showed that could not be cultivated on simple agar plate, needed other organisms
+	 - Virus crystalized, seen
+ - Virus Structure
+	 - Smallest viruses only 20nm
+	 - Most expirements done on bacteria-infecters
+	 - Viruses helped demonstrate that genes made out of nucleic acids, Replication, transcrip/translation
+	 - Viral Genomes
+		 - Viruses can have double or single stranded DNA or RNA
+		 - Arranged in single linear or circular neucleic acid, from 3->2000 units/genes
+	 - Capsids and Envelopes
+		 - Protein shell enclosing viral genome is capsid
+		 - Capsids are built from capsomeres(Subunits), commonly all proteins are identical
+		 - Accessory infectious aspects
+			 - Membranous envelope around influenza capsids
+			 - Viral envelops contain host phospholipids+membrane proteins+proteins & glycoproteins(With starch atched)
+		 - Some viruses carry viral enzymes like viral polymerase in capsids
+
+##19.2Explain how viruses replicate and evolve.
+ - Viruses replicate only in host cells
+ - Lack metabolic pathways for self sustenance
+ - Obligate intracellular parasites
+ - Each virus can only infect a specific subset of species(host range)
+ - Identify host cells by a handshake btw viral surface proteins+surface receptor molecules on outside of cells
+ - Gemeral Features of Viral REplicative cycles
+	 - Infection beins when viral genome enters host cell
+	 - Method of entry depends on type of virus+host(T-even phages use tail apparatus)
+		 - Some taken in by endocytosis
+		 - if virus has membrane, membranes can fuse w/host's
+ - Replicative cycles of phages
+	 - best understood and most complex viruses
+	 - two alternative replicaition mechanisms(lytc cycle+lysogenic cycle)
+	 - lytic cycle
+		 - Culminates in death of host cell
+		 - Last stage, bacterium lyses+releases phages
+		 - Phage that only uses lytic cycle is virulent phage
+	 - Lysogenic cycle
+		 - Phages coexist with host in lysogeny
+		 - Allows replication of phage without destoying host, coexist in lysogeny
+		 - Using both is temperate phage, model organism is lambda or $\lambda$
+	 - Phage $\lambda$ 
+		 - Infects ecoli
+		 - Binds to surface, injects linear DNA genome
+		 - $\lambda$ DNA forms circle within host
+		 - if during lytic cycle, host immediately turned into $\lambda$ producing all ends
+			 - Can be switched to lytic by certian signal or radiation
+		 - Lysogenic cycle, $\lambda$ molecule DNA incoperated into ecoli chromosome as prophage
+			 - Prophage inhibits prophage production, e.coli divide with prophages in them, slowly producing
+			 - Prophage can code for something making ecoli toxic to humans
+	 - Bactterial defenses
+		 - Natural selection favors bacteria without receptors detected by phages
+		 - Phage DNA often eliminated by restriction enzymes
+		 - Crispr-Cas9 cuts it, stores phage genome, remembers to cut it next time
+ - Replicative cycles of Animal viruses
+	 - Like other viruses, can only replicate in host cells
+	 - Variations depend on double/single stranded dna/rna, envelope presence
+	 - Many animal viruses have both rna and envelope
+	 - Viral envelopes
+		 - Enters thru fusing membranes
+		 - Uses rough ER membranes
+		 - Like exocytosis, new capsids wropped in membrane as leave cell
+		 - Dosent nessecarily kill cell
+		 - Herpes viruses use golgi for membraane, replicate within nucleus
+	 - Viral Genetic Material chart classification
+	 - Retroviruses are most complicated
+		 - Enzyme reverse transcriptase transcribes RNA onto DNA copy(HIV/AIDS)
+		 - Hiv enters cell, catalyzes synthesis of viral DNA
+		 - Viral DNA enters nucleus, integrates into chromosome(provirus)
+		 - Never leaves host genome, remains permenant resident
+ - Evoltion of viruses
+	 - Despite being nonliving, still evolve
+	 - Appeared after host-cells appeared
+	 - Og sources of genomes are plasmids(in bacteria, seperate from genome) or transposons(DNA segmetns that can move around in genome)(all mobile genetc elements)
+	 - COnsistent with some irus DNA being virtually idenetical to host
+	 - Some larger viruses have been found recently with more modern features, did they steal it...?
+
+##19.3Use examples to illustrate the effects of animal and plant viruses, as well as prions, on their hosts.
+ - Viral Disease in Animals
+ - Damage or kill cells by releasing hydrolytic enzymes from lysosomes
+ - Lasting viral damage depends on ability of tissue to repair(respritory tract can repair good)
+ - Polio to nerve cells is baaad
+ - Immune system causes temporary symptoms
+ - Vaccines use immune systems by stimulating them
+	 - Curing Viruses is still impossible
+	 - Most drugs try to interfere with nucleic acid synthesis, inhibits viral polymerase
+ - Emerging viral diseases
+	 - Viruses that suddenly become apparent are emerging viruses
+	 - Rapid virus strain creation/spread is bc high mutation rate
+	 - Human development allowing for spread(HIV)
+	 - Spread from other animals(H1N1)
+		 - H1N1 was mix from many divverent
+		 - Flu viruses change quickly bc have 9 rna segments rather than one
+	 - Change in host behavior or environment changes increase viral traffic, potential spread
+	 - Mosquitos are big transmitter, has been mvmnt to stop mosquitos from biting ppl
+ - Viral diseases in plants
+	 - Crop diestuction(brown spots, stunted growth, etc)
+	 - Same basic structure and replication as animal viruses
+	 - Plant protected by epidermis, is more succeptable if damaged
+	 - Herbivores+insects also carrry viruses from plant to plant
+ - Prions: Proteins as Infectious agents
+	 - Viruses are infectious, spread diseases, made up of nucleic acid genitics
+	 - Infectious proteins, cause degenerative brain disease in some animals
+	 - infect by eating meat w/ proteins
+	 - Prions act slowly, arent destroyed by heat
+	 - Are misfolded forms of protein normally expressed in brain cells, prion converts good proteins into prions, creates aggregate cinokec vonberting more

@@ -1,0 +1,1125 @@
+
+				<!DOCTYPE html>
+				<html>
+					<head>
+						<meta charset="UTF-8">
+						<link rel="stylesheet" href="pluginAssets/katex/katex.css">
+						<title>Book Notes Chapter 17+18</title>
+					</head>
+					<body>
+						<div class="exported-note"><div class="exported-note-title">Book Notes Chapter 17+18</div>
+
+<style>
+		/* https://necolas.github.io/normalize.css/ */
+		html{line-height:1.15;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
+		article,aside,footer,header,nav,section{display:block}h1{font-size:2em;margin:.67em 0}hr{box-sizing:content-box;height:0;overflow:visible}
+		pre{font-family:monospace,monospace;font-size:1em}a{background-color:transparent;-webkit-text-decoration-skip:objects}
+		b,strong{font-weight:bolder}small{font-size:80%}img{border-style:none}
+
+		body {
+			font-size: 15;
+			color: #555555;
+			word-wrap: break-word;
+			line-height: 1.6em;
+			background-color: #ffffff;
+			font-family: 'Avenir', 'Arial', sans-serif;
+			padding-bottom: 0px;
+			padding-top: 0px;
+		}
+		strong {
+			color: #000000;
+		}
+		kbd {
+			border: 1px solid rgb(220, 220, 220);
+			box-shadow: inset 0 -1px 0 rgb(220, 220, 220);
+			padding: 2px 4px;
+			border-radius: 3px;
+			background-color: rgb(243, 243, 243);
+		}
+		::-webkit-scrollbar {
+			width: 7px;
+			height: 7px;
+		}
+		::-webkit-scrollbar-corner {
+			background: none;
+		}
+		::-webkit-scrollbar-track {
+			border: none;
+		}
+		::-webkit-scrollbar-thumb {
+			background: rgba(100, 100, 100, 0.3); 
+			border-radius: 5px;
+		}
+		::-webkit-scrollbar-track:hover {
+			background: rgba(0, 0, 0, 0.1); 
+		}
+		::-webkit-scrollbar-thumb:hover {
+			background: rgba(100, 100, 100, 0.7); 
+		}
+
+		/* Remove top padding and margin from first child so that top of rendered text is aligned to top of text editor text */
+
+		#rendered-md > h1:first-child,
+		#rendered-md > h2:first-child,
+		#rendered-md > h3:first-child,
+		#rendered-md > h4:first-child,
+		#rendered-md > ul:first-child,
+		#rendered-md > ol:first-child,
+		#rendered-md > table:first-child,
+		#rendered-md > blockquote:first-child,
+		#rendered-md > img:first-child,
+		#rendered-md > p:first-child {
+			margin-top: 0;
+			padding-top: 0;
+		}
+		
+		p, h1, h2, h3, h4, h5, h6, ul, table {
+			margin-top: .6em;
+			margin-bottom: .65em;
+		}
+		h1, h2, h3, h4, h5, h6 {
+			line-height: 1.5em;
+		}
+		h1 {
+			font-size: 1.5em;
+			font-weight: bold;
+			border-bottom: 1px solid #dddddd;
+			padding-bottom: .3em;
+		}
+		h2 {
+			font-size: 1.3em;
+			font-weight: bold;
+			padding-bottom: .1em; */
+		}
+		h3 {
+			font-size: 1.1em;
+		}
+		h4, h5, h6 {
+			font-size: 1em;
+			font-weight: bold;
+		}
+
+		.exported-note-title {
+			font-size: 2em;
+			font-weight: bold;
+			margin-bottom: 0.8em;
+			line-height: 1.5em;
+			padding-bottom: .35em;
+			border-bottom: 1px solid #dddddd;
+		}
+
+		a {
+			color: #155BDA;
+		}
+		ul, ol {
+			padding-left: 0;
+			margin-left: 1.7em;
+		}
+		li {
+			margin-bottom: .4em;
+		}
+		li p {
+			margin-top: 0.2em;
+			margin-bottom: 0;
+		}
+		.resource-icon {
+			display: inline-block;
+			position: relative;
+			top: .5em;
+			text-decoration: none;
+			width: 1.2em;
+			height: 1.4em;
+			margin-right: 0.4em;
+			background-color:  #155BDA;
+		}
+    /* These icons are obtained from the wonderful ForkAwesome project by copying the src svgs 
+     * into the css classes below.
+     * svgs are obtained from https://github.com/ForkAwesome/Fork-Awesome/tree/master/src/icons/svg
+     * instead of the svg width, height property you must use a viewbox here, 0 0 1536 1792 is typically the actual size of the icon
+     * each line begins with the pre-amble -webkit-mask: url("data:image/svg+xml;utf8,
+     * and of course finishes with ");
+     * to precvent artifacts it is also necessary to include -webkit-mask-repeat: no-repeat;
+     * on the following line
+     * */
+		.fa-joplin {
+			/* Awesome Font file */
+			-webkit-mask: url("data:image/svg+xml;utf8,<svg viewBox='0 0 1536 1792' xmlns='http://www.w3.org/2000/svg'><path d='M373.834 128C168.227 128 0 296.223 0 501.834v788.336C0 1495.778 168.227 1664 373.834 1664h788.336c205.608 0 373.83-168.222 373.83-373.83V501.834C1536 296.224 1367.778 128 1162.17 128zm397.222 205.431h417.424a7.132 7.132 0 0 1 7.132 7.133v132.552c0 4.461-3.619 8.073-8.077 8.073h-57.23c-24.168 0-43.768 19.338-44.284 43.374v2.377h-.017v136.191h-.053l-.466 509.375c-5.02 77.667-39.222 149.056-96.324 201.046-60.28 54.834-141.948 85.017-229.962 85.017-12.45 0-25.208-.61-37.907-1.785-92.157-8.682-181.494-48.601-251.662-112.438-71.99-65.517-117.147-150.03-127.164-238-11.226-98.763 23.42-192.783 95.045-257.937 81.99-74.637 198.185-101.768 316.613-75.704 5.574 1.227 9.55 6.282 9.55 11.997v199.52c-.199 2.625-1.481 6.599-8.183 2.896-.663-.365-1.194-.511-1.653-.531-21.987-10.587-45.159-17.57-68.559-19.916-.38-.04-.757-.124-1.138-.163-.537-.048-1.034-.033-1.556-.075-4.13-.354-8.183-.517-12.203-.58-.87-.011-1.771-.127-2.641-.127-.486 0-.951.05-1.437.057-1.464.011-2.886.115-4.33.163-2.76.102-5.497.211-8.182.448-.273.024-.547.07-.835.097-25.509 2.4-47.864 11.104-65.012 25.47-.954.802-1.974 1.53-2.9 2.36a1.34 1.34 0 0 1-.168.146c-23.96 21.8-34.881 53.872-30.726 90.316 4.62 40.737 26.94 81.156 62.841 113.823 35.908 32.67 80.335 52.977 125.113 57.186 35.118 3.36 66.547-3.919 89.899-20.461a97.255 97.255 0 0 0 9.365-7.501c2.925-2.661 5.569-5.5 8.086-8.416.3-.348.672-.673.975-1.024 8.253-9.864 14.222-21.067 17.996-33.148.639-2.034 1.051-4.148 1.564-6.227.381-1.563.81-3.106 1.112-4.693.555-2.784.923-5.632 1.253-8.49.086-.709.183-1.414.237-2.128.492-4.893.693-9.858.55-14.91h.013V521.623c-2.01-22.626-20.78-40.434-43.928-40.434h-57.23a8.071 8.071 0 0 1-8.077-8.073V340.564a7.132 7.132 0 0 1 7.136-7.133z'/></svg>");
+		}
+		.fa-file-image {
+			-webkit-mask: url("data:image/svg+xml;utf8,<svg viewBox='0 0 1536 1792' xmlns='http://www.w3.org/2000/svg'><path d='M1468 380c37 37 68 111 68 164v1152c0 53-43 96-96 96H96c-53 0-96-43-96-96V96C0 43 43 0 96 0h896c53 0 127 31 164 68zm-444-244v376h376c-6-17-15-34-22-41l-313-313c-7-7-24-16-41-22zm384 1528V640H992c-53 0-96-43-96-96V128H128v1536h1280zm-128-448v320H256v-192l192-192 128 128 384-384zm-832-192c-106 0-192-86-192-192s86-192 192-192 192 86 192 192-86 192-192 192z'/></svg>");
+      -webkit-mask-repeat: no-repeat;
+		}
+		.fa-file-pdf {
+			-webkit-mask: url("data:image/svg+xml;utf8,<svg viewBox='0 0 1536 1792' xmlns='http://www.w3.org/2000/svg'><path d='M1468 380c37 37 68 111 68 164v1152c0 53-43 96-96 96H96c-53 0-96-43-96-96V96C0 43 43 0 96 0h896c53 0 127 31 164 68zm-444-244v376h376c-6-17-15-34-22-41l-313-313c-7-7-24-16-41-22zm384 1528V640H992c-53 0-96-43-96-96V128H128v1536h1280zm-514-593c25 20 53 38 84 56 42-5 81-7 117-7 67 0 152 8 177 49 7 10 13 28 2 52-1 1-2 3-3 4v1c-3 18-18 38-71 38-64 0-161-29-245-73-139 15-285 46-392 83-103 176-182 262-242 262-10 0-19-2-28-7l-24-12c-3-1-4-3-6-5-5-5-9-16-6-36 10-46 64-123 188-188 8-5 18-2 23 6 1 1 2 3 2 4 31-51 67-116 107-197 45-90 80-178 104-262-32-109-42-221-24-287 7-25 22-40 42-40h22c15 0 27 5 35 15 12 14 15 36 9 68-1 3-2 6-4 8 1 3 1 5 1 8v30c-1 63-2 123-14 192 35 105 87 190 146 238zm-576 411c30-14 73-57 137-158-75 58-122 124-137 158zm398-920c-10 28-10 76-2 132 3-16 5-31 7-44 2-17 5-31 7-43 1-3 2-5 4-8-1-1-1-3-2-5-1-18-7-29-13-36 0 2-1 3-1 4zm-124 661c88-35 186-63 284-81-10-8-20-15-29-23-49-43-93-103-127-176-19 61-47 126-83 197-15 28-30 56-45 83zm646-16c-5-5-31-24-140-24 49 18 94 28 124 28 9 0 14 0 18-1 0-1-1-2-2-3z'/></svg>");
+      -webkit-mask-repeat: no-repeat;
+		}
+		.fa-file-word {
+			-webkit-mask: url("data:image/svg+xml;utf8,<svg viewBox='0 0 1536 1792' xmlns='http://www.w3.org/2000/svg'><path d='M1468 380c37 37 68 111 68 164v1152c0 53-43 96-96 96H96c-53 0-96-43-96-96V96C0 43 43 0 96 0h896c53 0 127 31 164 68zm-444-244v376h376c-6-17-15-34-22-41l-313-313c-7-7-24-16-41-22zm384 1528V640H992c-53 0-96-43-96-96V128H128v1536h1280zM233 768v107h70l164 661h159l128-485c5-15 8-30 10-46 1-8 2-16 2-24h4l3 24c3 14 4 30 9 46l128 485h159l164-661h70V768h-300v107h90l-99 438c-4 16-6 33-7 46l-2 21h-4c0-6-2-14-3-21-3-13-5-30-9-46L825 768H711l-144 545c-4 16-5 33-8 46l-4 21h-4l-2-21c-1-13-3-30-7-46l-99-438h90V768H233z'/></svg>");
+      -webkit-mask-repeat: no-repeat;
+		}
+		.fa-file-powerpoint {
+			-webkit-mask: url("data:image/svg+xml;utf8,<svg viewBox='0 0 1536 1792' xmlns='http://www.w3.org/2000/svg'><path d='M1468 380c37 37 68 111 68 164v1152c0 53-43 96-96 96H96c-53 0-96-43-96-96V96C0 43 43 0 96 0h896c53 0 127 31 164 68zm-444-244v376h376c-6-17-15-34-22-41l-313-313c-7-7-24-16-41-22zm384 1528V640H992c-53 0-96-43-96-96V128H128v1536h1280zm-992-234v106h327v-106h-93v-167h137c43 0 82-2 118-15 90-31 146-124 146-233s-54-193-137-228c-38-15-84-19-130-19H416v107h92v555h-92zm353-280H650V882h120c35 0 62 6 83 18 36 21 56 62 56 115 0 56-20 99-62 120-21 10-47 15-78 15z'/></svg>");
+      -webkit-mask-repeat: no-repeat;
+		}
+		.fa-file-excel {
+			-webkit-mask: url("data:image/svg+xml;utf8,<svg viewBox='0 0 1536 1792' xmlns='http://www.w3.org/2000/svg'><path d='M1468 380c37 37 68 111 68 164v1152c0 53-43 96-96 96H96c-53 0-96-43-96-96V96C0 43 43 0 96 0h896c53 0 127 31 164 68zm-444-244v376h376c-6-17-15-34-22-41l-313-313c-7-7-24-16-41-22zm384 1528V640H992c-53 0-96-43-96-96V128H128v1536h1280zm-979-234v106h281v-106h-75l103-161c12-19 18-34 21-34h2c1 4 3 7 5 10 4 8 10 14 17 24l107 161h-76v106h291v-106h-68l-192-273 195-282h67V768H828v107h74l-103 159c-12 19-21 34-21 33h-2c-1-4-3-7-5-10-4-7-9-14-17-23L648 875h76V768H434v107h68l189 272-194 283h-68z'/></svg>");
+      -webkit-mask-repeat: no-repeat;
+		}
+		.fa-file-audio {
+			-webkit-mask: url("data:image/svg+xml;utf8,<svg viewBox='0 0 1536 1792' xmlns='http://www.w3.org/2000/svg'><path d='M1468 380c37 37 68 111 68 164v1152c0 53-43 96-96 96H96c-53 0-96-43-96-96V96C0 43 43 0 96 0h896c53 0 127 31 164 68zm-444-244v376h376c-6-17-15-34-22-41l-313-313c-7-7-24-16-41-22zm384 1528V640H992c-53 0-96-43-96-96V128H128v1536h1280zM620 850c12 5 20 17 20 30v544c0 13-8 25-20 30-4 1-8 2-12 2-8 0-16-3-23-9l-166-167H288c-18 0-32-14-32-32v-192c0-18 14-32 32-32h131l166-167c10-9 23-12 35-7zm417 689c19 0 37-8 50-24 83-102 129-231 129-363s-46-261-129-363c-22-28-63-32-90-10-28 23-32 63-9 91 65 80 100 178 100 282s-35 202-100 282c-23 28-19 68 9 90 12 10 26 15 40 15zm-211-148c17 0 34-7 47-20 56-60 87-137 87-219s-31-159-87-219c-24-26-65-27-91-3-25 24-27 65-2 91 33 36 52 82 52 131s-19 95-52 131c-25 26-23 67 2 91 13 11 29 17 44 17z'/></svg>");
+      -webkit-mask-repeat: no-repeat;
+		}
+		.fa-file-video {
+			-webkit-mask: url("data:image/svg+xml;utf8,<svg viewBox='0 0 1536 1792' xmlns='http://www.w3.org/2000/svg'><path d='M1468 380c37 37 68 111 68 164v1152c0 53-43 96-96 96H96c-53 0-96-43-96-96V96C0 43 43 0 96 0h896c53 0 127 31 164 68zm-444-244v376h376c-6-17-15-34-22-41l-313-313c-7-7-24-16-41-22zm384 1528V640H992c-53 0-96-43-96-96V128H128v1536h1280zM768 768c70 0 128 58 128 128v384c0 70-58 128-128 128H384c-70 0-128-58-128-128V896c0-70 58-128 128-128h384zm492 2c12 5 20 17 20 30v576c0 13-8 25-20 30-4 1-8 2-12 2-8 0-17-3-23-9l-265-266v-90l265-266c6-6 15-9 23-9 4 0 8 1 12 2z'/></svg>");
+      -webkit-mask-repeat: no-repeat;
+		}
+		.fa-file-archive {
+			-webkit-mask: url("data:image/svg+xml;utf8,<svg viewBox='0 0 1536 1792' xmlns='http://www.w3.org/2000/svg'><path d='M640 384V256H512v128h128zm128 128V384H640v128h128zM640 640V512H512v128h128zm128 128V640H640v128h128zm700-388c37 37 68 111 68 164v1152c0 53-43 96-96 96H96c-53 0-96-43-96-96V96C0 43 43 0 96 0h896c53 0 127 31 164 68zm-444-244v376h376c-6-17-15-34-22-41l-313-313c-7-7-24-16-41-22zm384 1528V640H992c-53 0-96-43-96-96V128H768v128H640V128H128v1536h1280zM781 943c85 287 107 349 107 349 5 17 8 34 8 52 0 111-108 192-256 192s-256-81-256-192c0-18 3-35 8-52 0 0 21-62 120-396V768h128v128h79c29 0 54 19 62 47zm-141 465c71 0 128-29 128-64s-57-64-128-64-128 29-128 64 57 64 128 64z'/></svg>");
+      -webkit-mask-repeat: no-repeat;
+		}
+		.fa-file-code {
+			-webkit-mask: url("data:image/svg+xml;utf8,<svg viewBox='0 0 1536 1792' xmlns='http://www.w3.org/2000/svg'><path d='M1468 380c37 37 68 111 68 164v1152c0 53-43 96-96 96H96c-53 0-96-43-96-96V96C0 43 43 0 96 0h896c53 0 127 31 164 68zm-444-244v376h376c-6-17-15-34-22-41l-313-313c-7-7-24-16-41-22zm384 1528V640H992c-53 0-96-43-96-96V128H128v1536h1280zM480 768c11-14 31-17 45-6l51 38c14 11 17 31 6 45l-182 243 182 243c11 14 8 34-6 45l-51 38c-14 11-34 8-45-6l-226-301c-8-11-8-27 0-38zm802 301c8 11 8 27 0 38l-226 301c-11 14-31 17-45 6l-51-38c-14-11-17-31-6-45l182-243-182-243c-11-14-8-34 6-45l51-38c14-11 34-8 45 6zm-620 461c-18-3-29-20-26-37l138-831c3-18 20-29 37-26l63 10c18 3 29 20 26 37l-138 831c-3 18-20 29-37 26z'/></svg>");
+      -webkit-mask-repeat: no-repeat;
+		}
+		.fa-file-alt, .fa-file-csv {
+      /* fork-awesome doesn't have csv so we use the text icon */
+			-webkit-mask: url("data:image/svg+xml;utf8,<svg viewBox='0 0 1536 1792' xmlns='http://www.w3.org/2000/svg'><path d='M1468 380c37 37 68 111 68 164v1152c0 53-43 96-96 96H96c-53 0-96-43-96-96V96C0 43 43 0 96 0h896c53 0 127 31 164 68zm-444-244v376h376c-6-17-15-34-22-41l-313-313c-7-7-24-16-41-22zm384 1528V640H992c-53 0-96-43-96-96V128H128v1536h1280zM384 800c0-18 14-32 32-32h704c18 0 32 14 32 32v64c0 18-14 32-32 32H416c-18 0-32-14-32-32v-64zm736 224c18 0 32 14 32 32v64c0 18-14 32-32 32H416c-18 0-32-14-32-32v-64c0-18 14-32 32-32h704zm0 256c18 0 32 14 32 32v64c0 18-14 32-32 32H416c-18 0-32-14-32-32v-64c0-18 14-32 32-32h704z'/></svg>");
+      -webkit-mask-repeat: no-repeat;
+		}
+		.fa-file {
+			-webkit-mask: url("data:image/svg+xml;utf8,<svg viewBox='0 0 1536 1792' xmlns='http://www.w3.org/2000/svg'><path d='M1468 380c37 37 68 111 68 164v1152c0 53-43 96-96 96H96c-53 0-96-43-96-96V96C0 43 43 0 96 0h896c53 0 127 31 164 68zm-444-244v376h376c-6-17-15-34-22-41l-313-313c-7-7-24-16-41-22zm384 1528V640H992c-53 0-96-43-96-96V128H128v1536h1280z'/></svg>");
+      -webkit-mask-repeat: no-repeat;
+		}
+		blockquote {
+			border-left: 4px solid rgb(220, 220, 220);
+			padding-left: 1.2em;
+			margin-left: 0;
+			opacity: .7;
+		}
+
+		.jop-tinymce table,
+		table {
+			text-align: left;
+			border-collapse: collapse;
+			border: 1px solid rgb(220, 220, 220);
+			background-color: #ffffff;
+		}
+
+		.jop-tinymce table td, .jop-tinymce table th,
+		table td, th {
+			text-align: left;
+			padding: .5em 1em .5em 1em;
+			font-size: 15;
+			color: #555555;
+			font-family: 'Avenir', 'Arial', sans-serif;
+		}
+
+		.jop-tinymce table td,
+		table td {
+			border: 1px solid rgb(220, 220, 220);
+		}
+
+		.jop-tinymce table th,
+		table th {
+			border: 1px solid rgb(220, 220, 220);
+			border-bottom: 2px solid rgb(220, 220, 220);
+			background-color: rgb(247, 247, 247);
+		}
+
+		.jop-tinymce table tr:nth-child(even),
+		table tr:nth-child(even) {
+			background-color: rgb(247, 247, 247);
+		}
+
+		.jop-tinymce table tr:hover,
+		table tr:hover {
+			background-color: #e5e5e5;
+		}
+
+		hr {
+			border: none;
+			border-bottom: 2px solid #dddddd;
+		}
+		img {
+			max-width: 100%;
+			height: auto;
+		}
+		
+		.inline-code,
+		.mce-content-body code {
+			border: 1px solid rgb(220, 220, 220);
+			background-color: rgb(243, 243, 243);
+			padding-right: .2em;
+			padding-left: .2em;
+			border-radius: .25em;
+			color: rgb(0,0,0);
+			font-size: .9em;
+		}
+
+		.highlighted-keyword {
+			background-color: #F3B717;
+			color: black;
+		}
+
+		.not-loaded-resource img {
+			width: 1.15em;
+			height: 1.15em;
+			background: white;
+			padding: 2px !important;
+			border-radius: 2px;
+			box-shadow: 0 1px 3px #000000aa;
+		}
+
+		a.not-loaded-resource img {
+			margin-right: .2em;
+		}
+
+		a.not-loaded-resource {
+			display: flex;
+			flex-direction: row;
+			align-items: center;
+		}
+
+		.md-checkbox input[type=checkbox]:checked {
+			opacity: 0.7;
+		}
+
+		.md-checkbox .checkbox-label-checked {
+			opacity: 0.5;
+		}
+
+		.exported-note {
+			padding: 1em;
+		}
+
+		.joplin-editable .joplin-source {
+			display: none;
+		}
+
+		/* =============================================== */
+		/* For TinyMCE */
+		/* =============================================== */
+
+		.mce-content-body {
+			/* Note: we give a bit more padding at the bottom, to allow scrolling past the end of the document */
+			padding: 5px 10px 10em 10px;
+		}
+
+		/*
+		.mce-content-body code {
+			background-color: transparent;
+		}
+		*/
+
+		.mce-content-body [data-mce-selected=inline-boundary] {
+			background-color: transparent;
+		}
+
+		.mce-content-body .joplin-editable {
+			cursor: pointer !important;
+		}
+
+		.mce-content-body.mce-content-readonly {
+			opacity: 0.5;
+		}
+
+		/* We need that to make sure click events have the A has a target */
+		.katex a span {
+			pointer-events: none;
+		}
+
+		/* Clear the CODE style if the element is within a joplin-editable block */
+		.mce-content-body .joplin-editable code {
+			border: none;
+			background: none;
+			padding: 0;
+			color: inherit;
+			font-size: inherit;
+		}
+
+		/* =============================================== */
+		/* For TinyMCE */
+		/* =============================================== */
+
+		@media print {
+			body {
+				height: auto !important;
+			}
+
+			pre {
+				white-space: pre-wrap;
+			}
+
+			.code, .inline-code {
+				border: 1px solid #CBCBCB;
+			}
+
+			#joplin-container-content {
+				/* The height of the content is set dynamically by JavaScript (in updateBodyHeight) to go
+				   around various issues related to scrolling. However when printing we don't want this
+				   fixed size as that would crop the content. So we set it to auto here. "important" is
+				   needed to override the style set by JavaScript at the element-level. */
+				height: auto !important;
+			}
+		}
+	</style><div id="rendered-md"><h1 id="dna">DNA</h1>
+<h2 id="gene-expression">Gene Expression</h2>
+<hr>
+<h3 id="intro">Intro</h3>
+<ul>
+<li>
+<p>17.1 Describe evidence that helped us understand the process of gene expression, and describe the process.</p>
+</li>
+<li>
+<p>17.2 Explain transcription, including a description of important molecules involved in the process.</p>
+</li>
+<li>
+<p>17.3 Trace the steps involved in eukaryotic RNA processing.</p>
+</li>
+<li>
+<p>17.4 List the cellular components and molecules involved in translation, and describe the process, then describe how multiple polypeptides are made in bacteria and eukaryotes.</p>
+</li>
+<li>
+<p>17.5 Identify different types of mutations and how they can affect protein structure and function, then discuss the concept of a gene.</p>
+</li>
+</ul>
+<h3 id="171-dna-rna-proteins">17.1 - DNA -&gt; RNA -&gt; Proteins</h3>
+<ul>
+<li>How Discovered
+<ul>
+<li>Archibald Garrod studited metabolic defects, thought that genes determined which enzymes are produced, enzymes create metabolic defects, thats how passed down</li>
+<li>This <em>One Gene One Enzyme</em> process was supported by evidence that catabolism+anabolism happens in metabolic pathways by specific enzymes(supports role of enzymes)</li>
+<li>Haploid bread mold used bc could disable specific genes</li>
+<li>Caused mutations in mold with xrays, then looked at changes in nutritional needs
+<ul>
+<li>Cells with a certain mutation needed a complete medium w/ all needed nutrients</li>
+<li>Able to link disabled gene with nutrients needed, demonstrating that the function of a gene is to dictate the production of an enzyme</li>
+</ul>
+</li>
+<li>Discovery that not all proteins are enzymes(keratin), now is one protein-one gene</li>
+<li>Discovery that a gene codes for a polypeptide, not a full protein, one polypeptide-one gene</li>
+</ul>
+</li>
+<li>Basic Transcription and Translation
+<ul>
+<li>RNA is bridge btw DNA and Protein synth</li>
+<li>DNA and RNA have somewhat different letters and structure, RNA and Proteins are two different languages</li>
+<li>Transcription, Translation</li>
+<li>Transcription
+<ul>
+<li>Synthesis of RNA from DNA info</li>
+<li>DNA serves as template in replication and in RNA Synth</li>
+</ul>
+</li>
+<li>Translation is Polypeptide from mRNA
+<ul>
+<li>Translated from nucleotide sequence to amino acid sequence</li>
+</ul>
+</li>
+<li>Similar in bacteria and eukaryotes
+<ul>
+<li>In bacteria, lack of nucleus means transcription and translation can occur simultaneously</li>
+<li>In eukaryotes, transcription makes pre-mRNA(primary transcript, with some steps before leave nucleus</li>
+</ul>
+</li>
+<li>This flow from DNA-&gt;RNA-&gt;Protein is the Central Dogma, coined by crick</li>
+</ul>
+</li>
+<li>The genetic code
+<ul>
+<li>With four bases, need three bases to code each of 20 amino acids</li>
+<li>Flow of information is based on triplet code</li>
+<li>RNA is coded from the template strand, looks like the coding strand</li>
+<li>DNA sequences to determine which direction an RNA POL lands when it bonds</li>
+<li>RNA is complimentary to template strand</li>
+<li>Codon is the term for the triplets on mRNA or coding strand, written in 5'-&gt;3'</li>
+<li>How to tell what codons code for what amino acids
+<ul>
+<li>Synthesized all UUUUUUs, porduced only phenyalanine, same for AAA, GGG, CCC</li>
+<li>Eventually developed more sophisticted exprirements</li>
+<li>For humans to read the code, we must have a correct frame/sets of three</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h3 id="172-transcription-is-the-dna-directed-rna-synth">17.2 - Transcription is the DNA-directed rna synth</h3>
+<ul>
+<li>Molecular Compoents of Transcription</li>
+<li>mRNA carries Dna info to protein-synth stuff
+<ul>
+<li>RNA Pol doesn't need a starting primer to start transcription, binds to promoter(<strong>initiation</strong>)</li>
+<li>Created by RNA Polymerase seperating DNA strands, adding complementary base to RNA strand(<strong>Elongation</strong>)</li>
+<li>RNA Pol adds in 5' to 3' direction(travels 3' to 5' on dna)(<strong>Termination</strong>)</li>
+<li>Sequence that RNA binds to is <strong>Promoter</strong>
+<ul>
+<li>Neucleotide within promoter that is first to be transcribed is <strong>start point</strong></li>
+<li>Usually several dozen nucleotides in promoter before start point</li>
+<li>Transcription factors determine where pol bonds(Eukaryotes recognise tata box)</li>
+<li></li>
+</ul>
+</li>
+<li>In bacteria, end sequence is <strong>terminator</strong></li>
+<li>DNA downstream from the promoter, before <strong>terminator</strong> is <strong>transcription unit</strong></li>
+</ul>
+</li>
+<li>Bacteria RNA pol synth other RNA types too</li>
+<li>Eukaryotes have 3 specialized RNA pol</li>
+<li>Transcription in Eukaryotes vs Bacteria
+<table>
+<thead>
+<tr>
+<th>Bacteria</th>
+<th>Same</th>
+<th>Eukaryotes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>NA POL recognises directly the promoter</td>
+<td>RNA Pol untwists double helix, adds nucleotdes to end, spits out RNA, Dbl Helix reforms</td>
+<td>Promoter with TATA box(~25 nucleotides upstream)</td>
+</tr>
+<tr>
+<td>erminator sequence, when transcribed causes RNA pol to detach</td>
+<td>Single DNA can be transcribed by multiple RNA POL at once in convoy</td>
+<td>Multiple RNA POLS(II for transcription)</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td><strong>Transcription initiation complex</strong> is system allowing RNA POL to atch</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Termination thru <strong>polyadenylation signal(AAUAAA)</strong>, is transcribed and immediately bonded to by nuclear proteins, cut strand 10-35 nTides later, RNA Pol II keeps transcribing until caught up to by enzymes dissolving irrelevant RNA created</td>
+</tr>
+</tbody>
+</table>
+</li>
+</ul>
+<h3 id="173-alteration-of-mrna-endseukaryotes">17.3 - Alteration of mRNA Ends(Eukaryotes)</h3>
+<ul>
+<li>Before alteration, called <em>pre-mRNA</em>
+<ul>
+<li>5' end(transcribed first) gets <strong>5' cap</strong> w/Guanine after first 20-40 nTides</li>
+<li>3' pre-mRNA gets50-250 more Adenines(<strong>Poly-A Tail</strong>) before leave nucleus</li>
+<li>Facilitate mRNA leaving Nucleus</li>
+<li>Protect from hydrolytic enzymes</li>
+<li>Help ribosomes atch to 5' end of mRNA</li>
+<li>UTR(Untranslated regions) added to assist w/ribosome activity+others</li>
+</ul>
+</li>
+<li>Split Genes and <strong>RNA Splicing</strong>
+<ul>
+<li>Large RNA portions removed + reconnected(edited)</li>
+<li>Most eukaryotic genes+RNA transcripts have long non-coding regions(intervening sequences/<strong>Introns</strong>), interspersed between coding segments(Expressed sequences/<strong>Exons</strong>)</li>
+<li>RNA pol II transcribes both introns + exons
+<ul>
+<li>Introns removed by splicesosome, binds to short nucleotide intron sequences, releases+degrades it</li>
+<li>Spliceosome rebinds exons</li>
+<li>Spliceosome has bits of RNA to bind+catalyze reaction</li>
+</ul>
+</li>
+<li>Riobzymes(RNAs that are enzymes)
+<ul>
+<li>RNA splicing can occur without proteins/independently</li>
+<li>Some organisms w/intron RNA acting as ribozyme, catalyzing own removal</li>
+<li>RNA is single stranded, can base pair w/itself, create secondary, tertiary structures</li>
+<li>Some RNA bases contain catalyzing functional gps</li>
+<li>RNA hydrogen bonding w/other nucleic acids increases specificity(like in splicesome)</li>
+</ul>
+</li>
+<li>Intron importance
+<ul>
+<li>One gene can encode &gt;1 polypeptide depending on exons</li>
+<li>Proteins have modular domain structure</li>
+<li>Increase genetic variance with different splicing possibilities</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h3 id="174-translation-is-the-rna-directed-synthesis-of-a-polypeptide-a-closer-look">17.4 - Translation is the RNA-directed synthesis of a polypeptide: <em>A CLOSER LOOK</em></h3>
+<ul>
+<li>mRNA is the script, tRNA is the translator</li>
+<li>Structure and Function of tRNA
+<ul>
+<li>Each tRNA has specific AA at one end, other end is nucleotide triplet(<strong>Anticodon</strong>)</li>
+<li>tRNA is RNA strand ~80nTides long, complementary segments fold onto eachother</li>
+<li>Looks like a cloverleaf, top cloverleaf is anticodon, stem holds AA<br>
+<img src="../../../_resources/444c69659fb04cc9b7a79f9ed6db8580.png" alt="Screenshot from 2021-02-16 21-51-53.png"></li>
+<li>Anticodons are antiparalles(5' <span class="joplin-editable"><span class="joplin-source" data-joplin-language="katex" data-joplin-source-open="$" data-joplin-source-close="$">\to</span><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo>→</mo></mrow><annotation encoding="application/x-tex">\to</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.36687em;vertical-align:0em;"></span><span class="mrel">→</span></span></span></span></span> 3' )</li>
+<li>tRNA accepts input of codon, outputs AA</li>
+<li>tRNA must bind to correct AA
+<ul>
+<li>Matching performed by <strong>Aminoacyl-tRNA Synthetases</strong></li>
+<li>Enzyme, each active site only fits specific tRNA+AA</li>
+<li>20 diff enzymes(1 for each AA)</li>
+</ul>
+</li>
+<li>tRNA anticodon must bind to correct mRNA codon
+<ul>
+<li>If 1 tRNA for each mRNA codon, 61 tRNAs(actually 45)</li>
+<li>Some tRNAs able to bind to more than 1 codon bc 3rd nucleotide base are relaxed</li>
+<li>Flexible base pairing called wobble</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Structure and Function of Ribosomes
+<ul>
+<li>Similar in bacteria and eukaryotes</li>
+<li>Eukeryotes are slightly larger, somewhat molecularly different</li>
+<li>Medically significant to neutralizing bacteria without neutralizing humans</li>
+<li>Facilitate copuling of tRNA anticodons and mRNA codons</li>
+<li>Consists of large subunit+small subunit
+<ul>
+<li>Subunits are mix of proteins and rRNAs</li>
+<li>Eukaryotic subunits made in nucleolus</li>
+<li>Ribosomes are assembled in cytoplasm</li>
+<li>rRNA is most abundant type of RNA</li>
+</ul>
+</li>
+<li>Ribosome has three binding sites for trna
+<ul>
+<li>P site(peptide) holds trna carrying polypeptide(middle)</li>
+<li>A site(amino) holds tRNA carrying next AA(right)</li>
+<li>E site(exit) discharges tRNAs</li>
+</ul>
+</li>
+<li>Mostly made from rRNA, so basically big ribosyme</li>
+</ul>
+</li>
+<li>Building a polypeptide
+<ul>
+<li>Translation has three stages:Initiation, elongation, termination</li>
+<li>Initiation
+<ul>
+<li>Brings together first mRNA, first tRNA, the subunits</li>
+<li>Small subunit binds to mRNA+initiator tRNA w/ methionine</li>
+<li>Bacteria, binds mRNA at specific RNA sequence upstream of AUG</li>
+<li>Eukaryotes, binds to 5' cap and moves/scans sownstream along mRNA until reaches AUG(START), est frame</li>
+<li>Then large subunit follows, completes trnaslation initiation complex, aided by initiation factor proteins</li>
+<li>GTP hydrolysis provides nrg for formation</li>
+</ul>
+</li>
+<li>Elongation
+<ul>
+<li>AA added to each other at C-terminus(bit attached to tRNA in middle)</li>
+<li>Elongation factor proteins aid provess</li>
+<li>mRNA moved in 5' first direction only(5' <span class="joplin-editable"><span class="joplin-source" data-joplin-language="katex" data-joplin-source-open="$" data-joplin-source-close="$">\to</span><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo>→</mo></mrow><annotation encoding="application/x-tex">\to</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.36687em;vertical-align:0em;"></span><span class="mrel">→</span></span></span></span></span> 3')</li>
+<li>ribosome and mRNA move for each codon</li>
+</ul>
+</li>
+<li>Termination
+<ul>
+<li>When stop codom reaches the A site</li>
+<li>Release factor(protein shaped like aminoacyl tRNA) binds to stop codon</li>
+<li>Odds water molecule instead of AA to PP chain, breaks bond w/tRNA</li>
+<li>GTP breaks apart subunits</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Protein folding and post-translational Modifications
+<ul>
+<li>PP chain begins to coil+fold spontaneously(primary-&gt;tertiary structure)</li>
+<li>post-translational modifications may be required
+<ul>
+<li>Enzymes to remove a few AA from leading end</li>
+<li>Quaternary structure</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Targeting polypeptides to specific locations
+<ul>
+<li>Free and bound ribosomes
+<ul>
+<li>Free found in cytosol, synth proteins to stay in cytosol</li>
+<li>Bound ribosomes attached to rough ER or nuclear envelope, make endomembrane system proteins or secreted proteins</li>
+<li>Ribosomes can ater btw free+bound</li>
+</ul>
+</li>
+<li>Translation always begins in ER</li>
+<li>mRNA says if to become bound(signal peptide)
+<ul>
+<li>signal peptide is ~20 AA near leading end of polypeptide(N-terminus)</li>
+<li>Recognised by signal-recognition particle, escorts ribosome to receptor protein in ER membrane, then into ER lumen with protein por</li>
+<li>Other singal peptides target mitochandria, chloroplasts, nucleus interior, etc, similar to above, but translation completed before shipping</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Strings of ribosomes on one mRNA are polyribosomes(both in eukaryotes and prokaryotes)</li>
+<li>Bacteria can futher streamline by having many rna pol transcribing and polyribosomes translating simultaneously</li>
+</ul>
+<h3 id="175-mtations-of-one-or-a-few-nucleotides-can-affect-protein-structure-and-function">17.5 - Mtations of one or a few nucleotides can affect protein structure and function</h3>
+<ul>
+<li>Changes of genetic info to a cell = mutations</li>
+<li>Point mutuation in gamete cell or cell that becomes gamete, is transmitted to future generations
+<ul>
+<li>Sickle cell anemia is caused by point mutation</li>
+<li>Familial cardiomyopathy, respnsible for sudden death in some young athletes</li>
+<li>If change is negative, its considered a genetic disease or disorder</li>
+</ul>
+</li>
+<li>Types of mutations
+<ul>
+<li>Many mutations occur outside of protein-coding genes, unimportant</li>
+<li>Either substitutions or insertions/deletions</li>
+<li>Substitutions
+<ul>
+<li>Nucleotide-pair substitution is replacemnet of one nTide+partner with another pair</li>
+<li>Some swaps have no affect on amino acids(silent mutations)</li>
+<li>Subs with change one amino acid to another are missense, affect varies</li>
+<li>AA -&gt; stop codon is nonsense mutation(nonfunctional)</li>
+</ul>
+</li>
+<li>Insertions and deletions
+<ul>
+<li>Additions or losses of nTide pirs in a gene</li>
+<li>If in transcriptional unit, affect frame(frameshift mutation) if num nTides inserted !%= 3</li>
+<li>Protein almost certainly nonfunctional unless close to end of gene</li>
+</ul>
+</li>
+<li>Mutations outside of coding bits can affect gene expression</li>
+</ul>
+</li>
+<li>How arise
+<ul>
+<li>Errors during repliation or recombination
+<ul>
+<li>many cases is corrected by DNA proofreading</li>
+<li>Called spontaneous mutations</li>
+</ul>
+</li>
+<li>Mutagens(physical and chemical agents)
+<ul>
+<li>Interact w/ DNA in a mutation causing way</li>
+<li>X-rays+other high-energy radiations can affect genetic material of ppl(discovered by ppl doing genetic expirements on nsects)</li>
+<li>Mutagenic radiation considered a physical mutagen</li>
+<li>Chemical mutagens
+<ul>
+<li>Nucleotide analogs are fake nTides that pair during replication</li>
+<li>Others insert selves into dna, distorting dbl helix</li>
+<li>Developed ways to test chemicals for mutagenic capacity</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Using CRISPR to edit Genes and correct Disease-Causing mutations
+<ul>
+<li>Scientests have sought to edit genes in specific, predictable way</li>
+<li>CRISPR-Cas9
+<ul>
+<li>Cas9 helps defend bacteria against bacteriophages</li>
+<li>Cas9 works with CRISPR region of bacteria genome as guide RNA</li>
+<li>Cas9 is a nuclease, cuts double-stranded DNA molecules at any sequence it is told to</li>
+<li>Cuts at specific site, DNA repair subs in new DNA</li>
+<li>Generally just disables gene entirely</li>
+</ul>
+</li>
+<li>Using crispr against disease
+<ul>
+<li>Introduce segment from functional gene along with CRISPR system, after Cas9 cuts, functional segment is reintroduced</li>
+<li>Promising use for sickle cell and other diseases</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h1 id="chapter-18-regulation-of-gene-expression">Chapter 18: Regulation of Gene Expression</h1>
+<ul>
+<li>Transcription factors to determine gene expression</li>
+</ul>
+<h3 id="181-bacteria-often-respond-to-environmental-change-by-regulating-transcription">18.1 Bacteria often respond to environmental change by regulating transcription</h3>
+<ul>
+<li>Bacteria cells able to conserve resources have selective advantage</li>
+<li>Individual E. Coli in gut detects presence of needed resources, if needs, makes if dosent, stops making
+<ul>
+<li>Cells can adjust activity of already present enzymes rapidly, relies on sensivity of enzymes to chemical cues such as presence of end product inhibiting</li>
+</ul>
+</li>
+<li>Cells can adjust production lvl via genetic mechanism(regulate transcription)</li>
+<li>Basic mechanism is operon molecule
+<ul>
+<li>Operon is part of DNA coding for stuff</li>
+<li>Comes after promoter+regulatory gene</li>
+<li>Regulatory gene codes for repressor protein, binds to operator on operon promoter+prevents synth if activated by thing</li>
+</ul>
+</li>
+<li>Advantage of grouping related genes into one transcription unit with single on-off switch(coordinated control)
+<ul>
+<li>On-Off switch is called operator</li>
+<li>Positioned within promoter or between promoter and genes controlled</li>
+<li>Entire stretch of DNA+Operator+Promoter needed for enzyme production is operon(not regulator)</li>
+</ul>
+</li>
+<li>Trp Repressor = Trp regulator</li>
+<li>Trp operon is on by default, is switched off by trp binding to regulator protein in operator slot
+<ul>
+<li>Trp is allosteric w/inactive + active shapes</li>
+<li>Synthesized in inactive shape</li>
+<li>Controls access of RNA Pol to genes</li>
+</ul>
+</li>
+<li>Trp is considered corepressor, as it cooperates with repressor protein to switch operon off</li>
+<li>Trp is Repressible operon(turned off, default on)</li>
+<li>Inducible operon is default off, can be turned on(Lac)
+<ul>
+<li>Lactose is avalible to E. Coli when in contat with dairy</li>
+<li>Lactose metabolisim begins with hydrolysis catalyzed by <span class="joplin-editable"><span class="joplin-source" data-joplin-language="katex" data-joplin-source-open="$" data-joplin-source-close="$">\beta</span><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>β</mi></mrow><annotation encoding="application/x-tex">\beta</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord mathnormal" style="margin-right:0.05278em;">β</span></span></span></span></span>-galactosidase, is able to rapidly ramp up production</li>
+<li>Gene for <span class="joplin-editable"><span class="joplin-source" data-joplin-language="katex" data-joplin-source-open="$" data-joplin-source-close="$">\beta</span><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>β</mi></mrow><annotation encoding="application/x-tex">\beta</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord mathnormal" style="margin-right:0.05278em;">β</span></span></span></span></span>-galactosidase is lacZ on lac operon w/ two other enzymes helping glucose dissolution</li>
+<li>Regulatory lacI gene codes for allosteric repressor</li>
+<li>lac repressor is active by default, inducer makes it inactive(not transcribed by default)
+<ul>
+<li>Induced by allolactose(isomer, formed infrequently in lactose enterinc cell)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Positive Gene Regulation
+<ul>
+<li>if both Glucose &amp; lacotse are present, E.Coli prefers glucose</li>
+<li>Interaction of allosteric regulator with cyclic AMP, which accumulates when glucose is in short supply</li>
+<li>Regulatory protein is CRP, is activator, attaches upstream of lac promoter, increases affinity of rna pol to that section from the relatively low default</li>
+<li>Basically and gate</li>
+<li>If glucose amnt increases, cAMP concentration falls, CRP detaches+RNA pol dosent find stuff</li>
+<li>Negative control by lac repressor+positive conrol by CRP</li>
+<li>CRP also regulates catabolic enzymes, when CRP inactive/glucose plentiful, catabolizm slows down for nonglucose molecules</li>
+</ul>
+</li>
+</ul>
+<h3 id="182-eukaryotic-gene-expression-is-regulated-at-many-stages">18.2 Eukaryotic gene expression is regulated at many stages</h3>
+<ul>
+<li>All organisms turn off+on genes in response to signals</li>
+<li>Typical human cell expresses 1/2 -&gt; 1/3 of all genes at once</li>
+<li>Almost all cells in multicellular organism contain identical genome
+<ul>
+<li>Differences between cells is due to expression</li>
+</ul>
+</li>
+<li>Regulation of Chromatin Structure
+<ul>
+<li>Basic unit is nucleosome</li>
+<li>Genes in tightly packed heterochromatin not expressed</li>
+<li>Euchromatin genes are looser+Easier</li>
+</ul>
+</li>
+<li>Histone Modifications and DNA Methylation
+<ul>
+<li>All eukaryotes have chemical modifications to histones</li>
+<li>N-terminus of each histone protein allow access to different enzymes</li>
+<li>Hisstone acetylation - addition of acetyl group to amino acid in histone tail, opens up chromatin structure</li>
+<li>Different enzymes can methylate the DNA on certain bases(usually cytosine)
+<ul>
+<li>Long inactive DNA stretches generally more methylated than active regions</li>
+<li>Removal of methyl groups can activate regions</li>
+<li>Methylated genes stay methylated thru replication, permenantly regulates expression of either maternal or paternal allele at start of development</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Epigenetic inheritance
+<ul>
+<li>Chromatin modifications dont change DNA sequence, still passed along hru epigenitics</li>
+<li>Modifications can be reversed, largely erased in gamete formation+reestablished in embryonic dev</li>
+<li>Lack of epigenetic nutrients in embryo dev leads to significant changes</li>
+</ul>
+</li>
+<li>Regulation of Transcription initiation
+<ul>
+<li>Once chromatin is optimal for expression, transcription is regulated</li>
+<li>Involves proteins binding to DNA either facilitating or inhibiting RNA Pol binding in bacteria</li>
+<li>Eukaryotic gene organization
+<ul>
+<li>Transcription initiation complex assembles on promoter upstream of gene</li>
+<li>RNA pol II transcribes gene, other molecules add cap and taiil and jprocess introns</li>
+<li>Multiple control elements(noncoding regions to facilitate binding of transcription factors)</li>
+</ul>
+</li>
+<li>Specific transcription factors
+<ul>
+<li>General transcription factors at promoter of all genes
+<ul>
+<li>RNA Pol II requires transcription factors to initate transcription</li>
+<li>Needed for trnascription of ALL protein-coding genes(general)</li>
+<li>Some bind to sequence directly(TATA box)</li>
+<li>Many bind to other proteins/other transcription factors</li>
+</ul>
+</li>
+<li>Enhancers and Specific Transcription Factors
+<ul>
+<li>Transcription activators have a DNA-binding domain &amp; 1 or more activation domains to bind together other proteins or things resulting in enhanced transcription</li>
+</ul>
+</li>
+<li>Specific ranscription factors away from promoter
+<ul>
+<li>Activator proteins bind to distal control element far away from promoter</li>
+<li>DNA-bending protein brings activators closer to promoter, link with general transcription factors and mediator proteins</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Inherited Predisposition and ENvironmental factors contributing to cancer
+<ul>
+<li>Certian mutations passed down to start accumulation of issues</li>
+<li>Inherited BRCA1+2 genes found to largely increase likelihood of getting rest cancer</li>
+<li>BRCA is considered tumor-supressor
+<ul>
+<li>Mediators and transcription factors form active transcription initiation complex on promoter</li>
+<li>Can inhibit gene expression by binding directly to DNA(blocking), interfere with activator itself</li>
+</ul>
+</li>
+<li>Indirectly affecting chromatin structure
+<ul>
+<li>Some activators recruit proteins to acetylate histones near promoters</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Combinatorial Control of Gene Activation
+<ul>
+<li>Number of different nucleotide sequences in control elements is small(~a dozen)</li>
+<li>Each enhancer is about 10 control elements, each binds to 1 or 2 transcription factors</li>
+<li>Many combination sare possible even with only 12 sequences</li>
+<li>Each combination activates under specific set of activators</li>
+</ul>
+</li>
+<li>Coordinately controlled genes in eukaryotes
+<ul>
+<li>Group of genes can be turned off or on at same time(like in bacteria operons)</li>
+<li>Opeons like this have NOT been found in eukaryotes</li>
+<li>Eukaryote coordinated control uses genes with same combinations of conrol elements</li>
+<li>Allows for simultaneous control regardless of location</li>
+<li>Often is response to chem signals from outside cell(Stereroid hormones, bond to transcription activators)</li>
+<li>Many signaling molecules mind to receptors on cell surface without entering cel, can control gene expression indirectly by triggering signal transduction pathways for particular transcription factors</li>
+</ul>
+</li>
+<li>Nuclear arcjitecture and gene expression
+<ul>
+<li>Each chromosome in interphase occupied distinct territory</li>
+<li><img src="../../../_resources/d909ce6e07ff4a10a5a7cb741031e757.png" alt="Screenshot from 2021-02-17 20-51-12.png"></li>
+<li>Nucleus has defined architecture w/regulated chromatin mcmnts</li>
+<li>unexpressed genes found around edge of nucleus, expressed genes are in interior bit</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Post-transcriptional Regulation
+<ul>
+<li>Expression of protein-coding gene not just determined by transcription</li>
+<li>RNA processing
+<ul>
+<li>RNA processing in nucleus and export of RNA to cytoplasm allow gene expression not avalible in prokaryotes</li>
+<li>Alternative RNA Splicing, diff mRNAs produced from same primary transcript(depends on introns vs exons)
+<ul>
+<li>Significantly expands protein possibilities</li>
+</ul>
+</li>
+<li>Initiation of Translation and mRNA Degradation
+<ul>
+<li>Translation is mostly regulated at initiation stage, blocked by regulatory proteins binded to Untranslated regions at 5' or 3' end(cap+tail imprortant for binding)</li>
+<li>All mRNAs can be regulated simultaneously with &quot;global&quot; control</li>
+<li>Useful in eggs, translation triggered after fertilzation by activation of initiation factors</li>
+</ul>
+</li>
+<li>Life span of mRNAs is improtant to determine pattern of protein synth
+<ul>
+<li>mRNAs typically degraded within a few minutes in bacteria</li>
+<li>in some eukaryotes, can survive for hours-&gt;days-&gt;weeks</li>
+<li>Lifetime controlling nTide sequences foind in UTR at 3' end</li>
+</ul>
+</li>
+<li>Protein Processing and Degredation
+<ul>
+<li>Eukeryotic pptds must be processed to yield functional molecules</li>
+<li>Cleavage of inital insulin forms active hormone</li>
+<li>Regulatory protein activated by addition of phosphate groups</li>
+<li>Lifetime controlled by selective degredations with ubiquitin molecules attached to protein to mark for destruction</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h3 id="183-noncoding-rnas-play-multiple-roles-in-controlling-gene-expression">18.3 Noncoding RNAs play multiple roles in controlling gene expression</h3>
+<ul>
+<li>Protein-coding DNA only accounts for 1.5% of the human genome</li>
+<li>Until recently, other DNA other than small percent that are rRNA+tRNA are junk DNA</li>
+<li>New research says that ~75% of Genome is transcribed at some pojnt</li>
+<li>Effects on mRNAs by microRNAs and small interfering RNAs
+<ul>
+<li>ncRNA = noncoding RNA</li>
+<li>ncRNA affects translation and chromatin modification</li>
+<li>Studies uncovered microRNAs(small, single-stranded RNAs able to bind to compelmentary sequences in mRNAs)
+<ul>
+<li>Created by mRNA processing into miRNA by enzymes</li>
+<li>miRNA joins with protein, allows it to bind to any mRNA molecule with at least 7-8 nT</li>
+<li>miRNA degrades mRNA or just blocks translation</li>
+<li>~1500 genes for miRNAs in human genome</li>
+<li>~1/2 all human genes regulated by miRNAs</li>
+</ul>
+</li>
+<li>Small interfering RNAs(siRNAs), similar to miRNAs
+<ul>
+<li>miRNA and siRNA can associate with same proteins w/ similar results</li>
+<li>Difference only subtly in precursors</li>
+<li>Blocking by siRNA is called RNA interference or RNAi</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Chromatin remodeling + effects on transcription of ncRNAs
+<ul>
+<li>small noncoding RNAs can cause chromatin remodeling</li>
+<li>S phase centromeric DNA regions must be loosened, then recndensed</li>
+<li>Some yeasts need siRNA to reform heterochromain</li>
+<li>Most mamallian siRNAs have not been found, DNA condensation method not understood</li>
+<li>newly discovered ncRNA class <em>piwi interacting RNAs</em></li>
+</ul>
+</li>
+</ul>
+<h3 id="184-a-program-of-differential-gene-expression-leads-to-the-different-cell-types-in-a-multicellular-organism">18.4 A program of differential gene expression leads to the different cell types in a multicellular organism</h3>
+<ul>
+<li>Fertilized egg gives rise to many different cell types</li>
+<li>Any prgraom must produce cells of different typs</li>
+<li>A genetic Program for Embryonic Developnment
+<ul>
+<li>Cell division, cell differentiation, morphogenesis</li>
+<li>Mitotic cell divisions make zygote give rise to large number of cells</li>
+<li>Cell differentiation undergonePhysical processes giving organism shape are morphogenesis</li>
+</ul>
+</li>
+<li>Cytoplasmic Determinatnts and inductive signals
+<ul>
+<li>Genes expressed during development determine organism path</li>
+<li>Cytoplansm is important egg source, not homogeneous, location of different bits(mRNAs, Proteins, others plays big role in future dev)</li>
+<li>^^ characteristics are called cytoplasmic determinants</li>
+<li>Early mitotic divisions distribute cytoplasm into different cells</li>
+<li>Other major source of developmental info is environment egg is in
+<ul>
+<li>Most influential are signals conveyed to embryonic cell from others in vicinity</li>
+<li>^^ signals called induction, signals transmitted by cell-suface receptors+other pathway proteins</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Sequential REgulation of Gene Expression during Cellular Differentaiation
+<ul>
+<li>Earliest changes to cell are at molecular lvl</li>
+<li>Determination = point where embryonic cell has irreversabley committed to cell type</li>
+<li>Expression of tissue-specific protein genes(First sign is specific mRNA appearences)</li>
+<li>Multiple steps regulated(usually transcription)</li>
+<li>Cause specialization +getting really good at producing one protein bc regulated to produce more mRNA</li>
+<li>Muscle cells have Master regulatory genes, proteins commit to cell to being muscle, determination caused by said muscle cells
+<ul>
+<li>myoD gene is a master regulatory gene, capable of truning different types into muscles</li>
+<li>muscle-specific activation also depends on some other combination of regulatory proteins, not present in cells cant convert</li>
+<li>Embryonic prcursor introduced to myoD, myoD activates the correct genes</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Pattern Formation: Setting up the body plan
+<ul>
+<li>different programs of gene expression in egg can result in differentiated cells and tissues</li>
+<li>3D body plan different from just tissues</li>
+<li>Cytoplasmic Determinants+ cell chem signals nearby(induction) result in pattern formation
+<ul>
+<li>In Embryo, major axis of animal are establihed(location of head, tail, right, left, back, front are determined by positional info of diff chems in diff places)</li>
+<li>Fruit fly has major axis+sections established in egg+diff types of cells develop in different locations in response to different chemicals</li>
+<li>Studied mutations with extra wings or legs in wrong place, tied to fly's genetic map</li>
+<li>Homeotic genes are regulatory genes controlling growth pattern(first evidence of such genes)</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h3 id="185-cancer-results-from-genetic-changes-that-affect-cell-cycle-control">18.5 Cancer results from genetic changes that affect cell cycle control​​</h3>
+<ul>
+<li>Cancer Results from genetic changes to cell cycle control</li>
+<li>Types of genes associated with cancer
+<ul>
+<li>Genes for growth factors, their receptors, signaling pathways</li>
+<li>Mutations in any of ^^ in somatic cells can lead to cancer</li>
+<li>Cancer-causing genes called oncogenes in certian viruses, later found in humans+other animals</li>
+<li>Normal versions called proto-oncogenes code for normal growth+division</li>
+<li>How does protooncogene become oncogene
+<ul>
+<li>Epigenetic chagnes
+<ul>
+<li>if mutation in chromatin-modifying enzyme leads to new chromatin being loose+expressed protooncogene at superhigh levels</li>
+</ul>
+</li>
+<li>Translocations
+<ul>
+<li>Broken chromosomes that rejoined incorrectly</li>
+<li>Proto-oncogene ends up near active promoter</li>
+</ul>
+</li>
+<li>Gene Amplification
+<ul>
+<li>Increases # copies of protooncogene thru gene duplication</li>
+</ul>
+</li>
+<li>Point mutations
+<ul>
+<li>Point mutation in promoter or enhancer controlling protooncogene can increase expression</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Mutations that inhibit tumor-supressor genes</li>
+<li>Interference with normal cell-signaling
+<ul>
+<li>ras protooncogene+p53 tumorsupressor gene often interfered with in human cancer</li>
+<li>Ras gene relays signal to protein kinase cascade, end of pathway synthesizes protein stimulating cell cycle
+<ul>
+<li>ras mutations lead to hyperactive ras protein, triggers kinase cascade even w/o growth factor</li>
+</ul>
+</li>
+<li>p53 gene is tumor supressor, inhibits cell cycle, breaking p53 results in uninhibited cell cycle
+<ul>
+<li>if activated by protein seeing DNA irregularity, activates other genes like p21+miRNAs, binds to cyclin-dependent kinases</li>
+<li>If beyond repaair, suicide genes do programmed cell death</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Multistep model of cancer development
+<ul>
+<li>
+<blockquote>
+<p>1 mutation needed to produce changes for cancer cell</p>
+</blockquote>
+</li>
+<li>Explains why cancer increases with age(Accumulation)
+<ul>
+<li>Colorectal cancer is wel understood, is model for multistep model</li>
+<li>First stage is unnoticable polyp</li>
+<li>To become cancerous, need ~6 changes, appearence of oncogene+loss of tumor-supressors</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Role of Viruses in cancer
+<ul>
+<li>Tumor Viruses can cause cancer</li>
+<li>Epstein-Barr virus, causes infectious mononucleosis linked to cancer(lymphoma)</li>
+<li>Integration of viral dna can introduce oncogene, distupt tumor-supressor gene, convert protooncogen to oncogene</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div></div>
+					</body>
+				</html>
+			

@@ -1,0 +1,1132 @@
+
+				<!DOCTYPE html>
+				<html>
+					<head>
+						<meta charset="UTF-8">
+						<link rel="stylesheet" href="pluginAssets/katex/katex.css">
+						<title>Plant anatomy</title>
+					</head>
+					<body>
+						<div class="exported-note"><div class="exported-note-title">Plant anatomy</div>
+
+<style>
+		/* https://necolas.github.io/normalize.css/ */
+		html{line-height:1.15;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
+		article,aside,footer,header,nav,section{display:block}h1{font-size:2em;margin:.67em 0}hr{box-sizing:content-box;height:0;overflow:visible}
+		pre{font-family:monospace,monospace;font-size:1em}a{background-color:transparent;-webkit-text-decoration-skip:objects}
+		b,strong{font-weight:bolder}small{font-size:80%}img{border-style:none}
+
+		body {
+			font-size: 15;
+			color: #555555;
+			word-wrap: break-word;
+			line-height: 1.6em;
+			background-color: #ffffff;
+			font-family: 'Avenir', 'Arial', sans-serif;
+			padding-bottom: 0px;
+			padding-top: 0px;
+		}
+		strong {
+			color: #000000;
+		}
+		kbd {
+			border: 1px solid rgb(220, 220, 220);
+			box-shadow: inset 0 -1px 0 rgb(220, 220, 220);
+			padding: 2px 4px;
+			border-radius: 3px;
+			background-color: rgb(243, 243, 243);
+		}
+		::-webkit-scrollbar {
+			width: 7px;
+			height: 7px;
+		}
+		::-webkit-scrollbar-corner {
+			background: none;
+		}
+		::-webkit-scrollbar-track {
+			border: none;
+		}
+		::-webkit-scrollbar-thumb {
+			background: rgba(100, 100, 100, 0.3); 
+			border-radius: 5px;
+		}
+		::-webkit-scrollbar-track:hover {
+			background: rgba(0, 0, 0, 0.1); 
+		}
+		::-webkit-scrollbar-thumb:hover {
+			background: rgba(100, 100, 100, 0.7); 
+		}
+
+		/* Remove top padding and margin from first child so that top of rendered text is aligned to top of text editor text */
+
+		#rendered-md > h1:first-child,
+		#rendered-md > h2:first-child,
+		#rendered-md > h3:first-child,
+		#rendered-md > h4:first-child,
+		#rendered-md > ul:first-child,
+		#rendered-md > ol:first-child,
+		#rendered-md > table:first-child,
+		#rendered-md > blockquote:first-child,
+		#rendered-md > img:first-child,
+		#rendered-md > p:first-child {
+			margin-top: 0;
+			padding-top: 0;
+		}
+		
+		p, h1, h2, h3, h4, h5, h6, ul, table {
+			margin-top: .6em;
+			margin-bottom: .65em;
+		}
+		h1, h2, h3, h4, h5, h6 {
+			line-height: 1.5em;
+		}
+		h1 {
+			font-size: 1.5em;
+			font-weight: bold;
+			border-bottom: 1px solid #dddddd;
+			padding-bottom: .3em;
+		}
+		h2 {
+			font-size: 1.3em;
+			font-weight: bold;
+			padding-bottom: .1em; */
+		}
+		h3 {
+			font-size: 1.1em;
+		}
+		h4, h5, h6 {
+			font-size: 1em;
+			font-weight: bold;
+		}
+
+		.exported-note-title {
+			font-size: 2em;
+			font-weight: bold;
+			margin-bottom: 0.8em;
+			line-height: 1.5em;
+			padding-bottom: .35em;
+			border-bottom: 1px solid #dddddd;
+		}
+
+		a {
+			color: #155BDA;
+		}
+		ul, ol {
+			padding-left: 0;
+			margin-left: 1.7em;
+		}
+		li {
+			margin-bottom: .4em;
+		}
+		li p {
+			margin-top: 0.2em;
+			margin-bottom: 0;
+		}
+		.resource-icon {
+			display: inline-block;
+			position: relative;
+			top: .5em;
+			text-decoration: none;
+			width: 1.2em;
+			height: 1.4em;
+			margin-right: 0.4em;
+			background-color:  #155BDA;
+		}
+    /* These icons are obtained from the wonderful ForkAwesome project by copying the src svgs 
+     * into the css classes below.
+     * svgs are obtained from https://github.com/ForkAwesome/Fork-Awesome/tree/master/src/icons/svg
+     * instead of the svg width, height property you must use a viewbox here, 0 0 1536 1792 is typically the actual size of the icon
+     * each line begins with the pre-amble -webkit-mask: url("data:image/svg+xml;utf8,
+     * and of course finishes with ");
+     * to precvent artifacts it is also necessary to include -webkit-mask-repeat: no-repeat;
+     * on the following line
+     * */
+		.fa-joplin {
+			/* Awesome Font file */
+			-webkit-mask: url("data:image/svg+xml;utf8,<svg viewBox='0 0 1536 1792' xmlns='http://www.w3.org/2000/svg'><path d='M373.834 128C168.227 128 0 296.223 0 501.834v788.336C0 1495.778 168.227 1664 373.834 1664h788.336c205.608 0 373.83-168.222 373.83-373.83V501.834C1536 296.224 1367.778 128 1162.17 128zm397.222 205.431h417.424a7.132 7.132 0 0 1 7.132 7.133v132.552c0 4.461-3.619 8.073-8.077 8.073h-57.23c-24.168 0-43.768 19.338-44.284 43.374v2.377h-.017v136.191h-.053l-.466 509.375c-5.02 77.667-39.222 149.056-96.324 201.046-60.28 54.834-141.948 85.017-229.962 85.017-12.45 0-25.208-.61-37.907-1.785-92.157-8.682-181.494-48.601-251.662-112.438-71.99-65.517-117.147-150.03-127.164-238-11.226-98.763 23.42-192.783 95.045-257.937 81.99-74.637 198.185-101.768 316.613-75.704 5.574 1.227 9.55 6.282 9.55 11.997v199.52c-.199 2.625-1.481 6.599-8.183 2.896-.663-.365-1.194-.511-1.653-.531-21.987-10.587-45.159-17.57-68.559-19.916-.38-.04-.757-.124-1.138-.163-.537-.048-1.034-.033-1.556-.075-4.13-.354-8.183-.517-12.203-.58-.87-.011-1.771-.127-2.641-.127-.486 0-.951.05-1.437.057-1.464.011-2.886.115-4.33.163-2.76.102-5.497.211-8.182.448-.273.024-.547.07-.835.097-25.509 2.4-47.864 11.104-65.012 25.47-.954.802-1.974 1.53-2.9 2.36a1.34 1.34 0 0 1-.168.146c-23.96 21.8-34.881 53.872-30.726 90.316 4.62 40.737 26.94 81.156 62.841 113.823 35.908 32.67 80.335 52.977 125.113 57.186 35.118 3.36 66.547-3.919 89.899-20.461a97.255 97.255 0 0 0 9.365-7.501c2.925-2.661 5.569-5.5 8.086-8.416.3-.348.672-.673.975-1.024 8.253-9.864 14.222-21.067 17.996-33.148.639-2.034 1.051-4.148 1.564-6.227.381-1.563.81-3.106 1.112-4.693.555-2.784.923-5.632 1.253-8.49.086-.709.183-1.414.237-2.128.492-4.893.693-9.858.55-14.91h.013V521.623c-2.01-22.626-20.78-40.434-43.928-40.434h-57.23a8.071 8.071 0 0 1-8.077-8.073V340.564a7.132 7.132 0 0 1 7.136-7.133z'/></svg>");
+		}
+		.fa-file-image {
+			-webkit-mask: url("data:image/svg+xml;utf8,<svg viewBox='0 0 1536 1792' xmlns='http://www.w3.org/2000/svg'><path d='M1468 380c37 37 68 111 68 164v1152c0 53-43 96-96 96H96c-53 0-96-43-96-96V96C0 43 43 0 96 0h896c53 0 127 31 164 68zm-444-244v376h376c-6-17-15-34-22-41l-313-313c-7-7-24-16-41-22zm384 1528V640H992c-53 0-96-43-96-96V128H128v1536h1280zm-128-448v320H256v-192l192-192 128 128 384-384zm-832-192c-106 0-192-86-192-192s86-192 192-192 192 86 192 192-86 192-192 192z'/></svg>");
+      -webkit-mask-repeat: no-repeat;
+		}
+		.fa-file-pdf {
+			-webkit-mask: url("data:image/svg+xml;utf8,<svg viewBox='0 0 1536 1792' xmlns='http://www.w3.org/2000/svg'><path d='M1468 380c37 37 68 111 68 164v1152c0 53-43 96-96 96H96c-53 0-96-43-96-96V96C0 43 43 0 96 0h896c53 0 127 31 164 68zm-444-244v376h376c-6-17-15-34-22-41l-313-313c-7-7-24-16-41-22zm384 1528V640H992c-53 0-96-43-96-96V128H128v1536h1280zm-514-593c25 20 53 38 84 56 42-5 81-7 117-7 67 0 152 8 177 49 7 10 13 28 2 52-1 1-2 3-3 4v1c-3 18-18 38-71 38-64 0-161-29-245-73-139 15-285 46-392 83-103 176-182 262-242 262-10 0-19-2-28-7l-24-12c-3-1-4-3-6-5-5-5-9-16-6-36 10-46 64-123 188-188 8-5 18-2 23 6 1 1 2 3 2 4 31-51 67-116 107-197 45-90 80-178 104-262-32-109-42-221-24-287 7-25 22-40 42-40h22c15 0 27 5 35 15 12 14 15 36 9 68-1 3-2 6-4 8 1 3 1 5 1 8v30c-1 63-2 123-14 192 35 105 87 190 146 238zm-576 411c30-14 73-57 137-158-75 58-122 124-137 158zm398-920c-10 28-10 76-2 132 3-16 5-31 7-44 2-17 5-31 7-43 1-3 2-5 4-8-1-1-1-3-2-5-1-18-7-29-13-36 0 2-1 3-1 4zm-124 661c88-35 186-63 284-81-10-8-20-15-29-23-49-43-93-103-127-176-19 61-47 126-83 197-15 28-30 56-45 83zm646-16c-5-5-31-24-140-24 49 18 94 28 124 28 9 0 14 0 18-1 0-1-1-2-2-3z'/></svg>");
+      -webkit-mask-repeat: no-repeat;
+		}
+		.fa-file-word {
+			-webkit-mask: url("data:image/svg+xml;utf8,<svg viewBox='0 0 1536 1792' xmlns='http://www.w3.org/2000/svg'><path d='M1468 380c37 37 68 111 68 164v1152c0 53-43 96-96 96H96c-53 0-96-43-96-96V96C0 43 43 0 96 0h896c53 0 127 31 164 68zm-444-244v376h376c-6-17-15-34-22-41l-313-313c-7-7-24-16-41-22zm384 1528V640H992c-53 0-96-43-96-96V128H128v1536h1280zM233 768v107h70l164 661h159l128-485c5-15 8-30 10-46 1-8 2-16 2-24h4l3 24c3 14 4 30 9 46l128 485h159l164-661h70V768h-300v107h90l-99 438c-4 16-6 33-7 46l-2 21h-4c0-6-2-14-3-21-3-13-5-30-9-46L825 768H711l-144 545c-4 16-5 33-8 46l-4 21h-4l-2-21c-1-13-3-30-7-46l-99-438h90V768H233z'/></svg>");
+      -webkit-mask-repeat: no-repeat;
+		}
+		.fa-file-powerpoint {
+			-webkit-mask: url("data:image/svg+xml;utf8,<svg viewBox='0 0 1536 1792' xmlns='http://www.w3.org/2000/svg'><path d='M1468 380c37 37 68 111 68 164v1152c0 53-43 96-96 96H96c-53 0-96-43-96-96V96C0 43 43 0 96 0h896c53 0 127 31 164 68zm-444-244v376h376c-6-17-15-34-22-41l-313-313c-7-7-24-16-41-22zm384 1528V640H992c-53 0-96-43-96-96V128H128v1536h1280zm-992-234v106h327v-106h-93v-167h137c43 0 82-2 118-15 90-31 146-124 146-233s-54-193-137-228c-38-15-84-19-130-19H416v107h92v555h-92zm353-280H650V882h120c35 0 62 6 83 18 36 21 56 62 56 115 0 56-20 99-62 120-21 10-47 15-78 15z'/></svg>");
+      -webkit-mask-repeat: no-repeat;
+		}
+		.fa-file-excel {
+			-webkit-mask: url("data:image/svg+xml;utf8,<svg viewBox='0 0 1536 1792' xmlns='http://www.w3.org/2000/svg'><path d='M1468 380c37 37 68 111 68 164v1152c0 53-43 96-96 96H96c-53 0-96-43-96-96V96C0 43 43 0 96 0h896c53 0 127 31 164 68zm-444-244v376h376c-6-17-15-34-22-41l-313-313c-7-7-24-16-41-22zm384 1528V640H992c-53 0-96-43-96-96V128H128v1536h1280zm-979-234v106h281v-106h-75l103-161c12-19 18-34 21-34h2c1 4 3 7 5 10 4 8 10 14 17 24l107 161h-76v106h291v-106h-68l-192-273 195-282h67V768H828v107h74l-103 159c-12 19-21 34-21 33h-2c-1-4-3-7-5-10-4-7-9-14-17-23L648 875h76V768H434v107h68l189 272-194 283h-68z'/></svg>");
+      -webkit-mask-repeat: no-repeat;
+		}
+		.fa-file-audio {
+			-webkit-mask: url("data:image/svg+xml;utf8,<svg viewBox='0 0 1536 1792' xmlns='http://www.w3.org/2000/svg'><path d='M1468 380c37 37 68 111 68 164v1152c0 53-43 96-96 96H96c-53 0-96-43-96-96V96C0 43 43 0 96 0h896c53 0 127 31 164 68zm-444-244v376h376c-6-17-15-34-22-41l-313-313c-7-7-24-16-41-22zm384 1528V640H992c-53 0-96-43-96-96V128H128v1536h1280zM620 850c12 5 20 17 20 30v544c0 13-8 25-20 30-4 1-8 2-12 2-8 0-16-3-23-9l-166-167H288c-18 0-32-14-32-32v-192c0-18 14-32 32-32h131l166-167c10-9 23-12 35-7zm417 689c19 0 37-8 50-24 83-102 129-231 129-363s-46-261-129-363c-22-28-63-32-90-10-28 23-32 63-9 91 65 80 100 178 100 282s-35 202-100 282c-23 28-19 68 9 90 12 10 26 15 40 15zm-211-148c17 0 34-7 47-20 56-60 87-137 87-219s-31-159-87-219c-24-26-65-27-91-3-25 24-27 65-2 91 33 36 52 82 52 131s-19 95-52 131c-25 26-23 67 2 91 13 11 29 17 44 17z'/></svg>");
+      -webkit-mask-repeat: no-repeat;
+		}
+		.fa-file-video {
+			-webkit-mask: url("data:image/svg+xml;utf8,<svg viewBox='0 0 1536 1792' xmlns='http://www.w3.org/2000/svg'><path d='M1468 380c37 37 68 111 68 164v1152c0 53-43 96-96 96H96c-53 0-96-43-96-96V96C0 43 43 0 96 0h896c53 0 127 31 164 68zm-444-244v376h376c-6-17-15-34-22-41l-313-313c-7-7-24-16-41-22zm384 1528V640H992c-53 0-96-43-96-96V128H128v1536h1280zM768 768c70 0 128 58 128 128v384c0 70-58 128-128 128H384c-70 0-128-58-128-128V896c0-70 58-128 128-128h384zm492 2c12 5 20 17 20 30v576c0 13-8 25-20 30-4 1-8 2-12 2-8 0-17-3-23-9l-265-266v-90l265-266c6-6 15-9 23-9 4 0 8 1 12 2z'/></svg>");
+      -webkit-mask-repeat: no-repeat;
+		}
+		.fa-file-archive {
+			-webkit-mask: url("data:image/svg+xml;utf8,<svg viewBox='0 0 1536 1792' xmlns='http://www.w3.org/2000/svg'><path d='M640 384V256H512v128h128zm128 128V384H640v128h128zM640 640V512H512v128h128zm128 128V640H640v128h128zm700-388c37 37 68 111 68 164v1152c0 53-43 96-96 96H96c-53 0-96-43-96-96V96C0 43 43 0 96 0h896c53 0 127 31 164 68zm-444-244v376h376c-6-17-15-34-22-41l-313-313c-7-7-24-16-41-22zm384 1528V640H992c-53 0-96-43-96-96V128H768v128H640V128H128v1536h1280zM781 943c85 287 107 349 107 349 5 17 8 34 8 52 0 111-108 192-256 192s-256-81-256-192c0-18 3-35 8-52 0 0 21-62 120-396V768h128v128h79c29 0 54 19 62 47zm-141 465c71 0 128-29 128-64s-57-64-128-64-128 29-128 64 57 64 128 64z'/></svg>");
+      -webkit-mask-repeat: no-repeat;
+		}
+		.fa-file-code {
+			-webkit-mask: url("data:image/svg+xml;utf8,<svg viewBox='0 0 1536 1792' xmlns='http://www.w3.org/2000/svg'><path d='M1468 380c37 37 68 111 68 164v1152c0 53-43 96-96 96H96c-53 0-96-43-96-96V96C0 43 43 0 96 0h896c53 0 127 31 164 68zm-444-244v376h376c-6-17-15-34-22-41l-313-313c-7-7-24-16-41-22zm384 1528V640H992c-53 0-96-43-96-96V128H128v1536h1280zM480 768c11-14 31-17 45-6l51 38c14 11 17 31 6 45l-182 243 182 243c11 14 8 34-6 45l-51 38c-14 11-34 8-45-6l-226-301c-8-11-8-27 0-38zm802 301c8 11 8 27 0 38l-226 301c-11 14-31 17-45 6l-51-38c-14-11-17-31-6-45l182-243-182-243c-11-14-8-34 6-45l51-38c14-11 34-8 45 6zm-620 461c-18-3-29-20-26-37l138-831c3-18 20-29 37-26l63 10c18 3 29 20 26 37l-138 831c-3 18-20 29-37 26z'/></svg>");
+      -webkit-mask-repeat: no-repeat;
+		}
+		.fa-file-alt, .fa-file-csv {
+      /* fork-awesome doesn't have csv so we use the text icon */
+			-webkit-mask: url("data:image/svg+xml;utf8,<svg viewBox='0 0 1536 1792' xmlns='http://www.w3.org/2000/svg'><path d='M1468 380c37 37 68 111 68 164v1152c0 53-43 96-96 96H96c-53 0-96-43-96-96V96C0 43 43 0 96 0h896c53 0 127 31 164 68zm-444-244v376h376c-6-17-15-34-22-41l-313-313c-7-7-24-16-41-22zm384 1528V640H992c-53 0-96-43-96-96V128H128v1536h1280zM384 800c0-18 14-32 32-32h704c18 0 32 14 32 32v64c0 18-14 32-32 32H416c-18 0-32-14-32-32v-64zm736 224c18 0 32 14 32 32v64c0 18-14 32-32 32H416c-18 0-32-14-32-32v-64c0-18 14-32 32-32h704zm0 256c18 0 32 14 32 32v64c0 18-14 32-32 32H416c-18 0-32-14-32-32v-64c0-18 14-32 32-32h704z'/></svg>");
+      -webkit-mask-repeat: no-repeat;
+		}
+		.fa-file {
+			-webkit-mask: url("data:image/svg+xml;utf8,<svg viewBox='0 0 1536 1792' xmlns='http://www.w3.org/2000/svg'><path d='M1468 380c37 37 68 111 68 164v1152c0 53-43 96-96 96H96c-53 0-96-43-96-96V96C0 43 43 0 96 0h896c53 0 127 31 164 68zm-444-244v376h376c-6-17-15-34-22-41l-313-313c-7-7-24-16-41-22zm384 1528V640H992c-53 0-96-43-96-96V128H128v1536h1280z'/></svg>");
+      -webkit-mask-repeat: no-repeat;
+		}
+		blockquote {
+			border-left: 4px solid rgb(220, 220, 220);
+			padding-left: 1.2em;
+			margin-left: 0;
+			opacity: .7;
+		}
+
+		.jop-tinymce table,
+		table {
+			text-align: left;
+			border-collapse: collapse;
+			border: 1px solid rgb(220, 220, 220);
+			background-color: #ffffff;
+		}
+
+		.jop-tinymce table td, .jop-tinymce table th,
+		table td, th {
+			text-align: left;
+			padding: .5em 1em .5em 1em;
+			font-size: 15;
+			color: #555555;
+			font-family: 'Avenir', 'Arial', sans-serif;
+		}
+
+		.jop-tinymce table td,
+		table td {
+			border: 1px solid rgb(220, 220, 220);
+		}
+
+		.jop-tinymce table th,
+		table th {
+			border: 1px solid rgb(220, 220, 220);
+			border-bottom: 2px solid rgb(220, 220, 220);
+			background-color: rgb(247, 247, 247);
+		}
+
+		.jop-tinymce table tr:nth-child(even),
+		table tr:nth-child(even) {
+			background-color: rgb(247, 247, 247);
+		}
+
+		.jop-tinymce table tr:hover,
+		table tr:hover {
+			background-color: #e5e5e5;
+		}
+
+		hr {
+			border: none;
+			border-bottom: 2px solid #dddddd;
+		}
+		img {
+			max-width: 100%;
+			height: auto;
+		}
+		
+		.inline-code,
+		.mce-content-body code {
+			border: 1px solid rgb(220, 220, 220);
+			background-color: rgb(243, 243, 243);
+			padding-right: .2em;
+			padding-left: .2em;
+			border-radius: .25em;
+			color: rgb(0,0,0);
+			font-size: .9em;
+		}
+
+		.highlighted-keyword {
+			background-color: #F3B717;
+			color: black;
+		}
+
+		.not-loaded-resource img {
+			width: 1.15em;
+			height: 1.15em;
+			background: white;
+			padding: 2px !important;
+			border-radius: 2px;
+			box-shadow: 0 1px 3px #000000aa;
+		}
+
+		a.not-loaded-resource img {
+			margin-right: .2em;
+		}
+
+		a.not-loaded-resource {
+			display: flex;
+			flex-direction: row;
+			align-items: center;
+		}
+
+		.md-checkbox input[type=checkbox]:checked {
+			opacity: 0.7;
+		}
+
+		.md-checkbox .checkbox-label-checked {
+			opacity: 0.5;
+		}
+
+		.exported-note {
+			padding: 1em;
+		}
+
+		.joplin-editable .joplin-source {
+			display: none;
+		}
+
+		/* =============================================== */
+		/* For TinyMCE */
+		/* =============================================== */
+
+		.mce-content-body {
+			/* Note: we give a bit more padding at the bottom, to allow scrolling past the end of the document */
+			padding: 5px 10px 10em 10px;
+		}
+
+		/*
+		.mce-content-body code {
+			background-color: transparent;
+		}
+		*/
+
+		.mce-content-body [data-mce-selected=inline-boundary] {
+			background-color: transparent;
+		}
+
+		.mce-content-body .joplin-editable {
+			cursor: pointer !important;
+		}
+
+		.mce-content-body.mce-content-readonly {
+			opacity: 0.5;
+		}
+
+		/* We need that to make sure click events have the A has a target */
+		.katex a span {
+			pointer-events: none;
+		}
+
+		/* Clear the CODE style if the element is within a joplin-editable block */
+		.mce-content-body .joplin-editable code {
+			border: none;
+			background: none;
+			padding: 0;
+			color: inherit;
+			font-size: inherit;
+		}
+
+		/* =============================================== */
+		/* For TinyMCE */
+		/* =============================================== */
+
+		@media print {
+			body {
+				height: auto !important;
+			}
+
+			pre {
+				white-space: pre-wrap;
+			}
+
+			.code, .inline-code {
+				border: 1px solid #CBCBCB;
+			}
+
+			#joplin-container-content {
+				/* The height of the content is set dynamically by JavaScript (in updateBodyHeight) to go
+				   around various issues related to scrolling. However when printing we don't want this
+				   fixed size as that would crop the content. So we set it to auto here. "important" is
+				   needed to override the style set by JavaScript at the element-level. */
+				height: auto !important;
+			}
+		}
+	</style><div id="rendered-md"><h1 id="11102020-theo-urban">11/10/2020 Theo Urban</h1>
+<h2 id="in-class-plant-anatomy-notes">In-Class Plant Anatomy notes</h2>
+<hr>
+<h3 id="photorespirationo2-problem">Photorespiration/O2 problem</h3>
+<ul>
+<li>When O2 gets caught in C3, go thru Photorespiration cycle</li>
+<li>Happens more in C3 bc Only one CO2/ more seperated from RuBisCo</li>
+<li>RuBisCo hooks O2 to rubp, changes pathway entirely</li>
+<li>Makes amino acids(glycine and serine)+G3P+other useful things</li>
+<li>Plant can use this</li>
+<li>C4 and CAM plants go through this process less frequently than C3(25% in C3)/wasted nrg</li>
+<li>C3 plants are less efficent at fixing carbon
+<ul>
+<li>Evolution says C3 plants should be elim.</li>
+<li>Not true(most flowering plants C3)</li>
+<li>Must be no selective pressure for C3 plants</li>
+</ul>
+</li>
+<li>Process evolved sans O2, now that there is, they have this other cycle</li>
+<li>C4/CAM plants hold water, only open at night, less o2 to get involved</li>
+<li>Buliform cells filled with water at start of day, stop photorespiration when empty/dry @ night</li>
+<li>C4/CAM plants manage o2 much better</li>
+</ul>
+<h3 id="glyoxylic-pathway">Glyoxylic pathway</h3>
+<ul>
+<li>happens in the spring</li>
+<li>Seeds germinating</li>
+<li>Seeds are mostly fatty acids(shiny)</li>
+<li>Seed has to convert fatty acids to usable nrg</li>
+<li>Glyoxylic cycle does this
+<ul>
+<li>Beta oxidation breaks down fatty acids</li>
+<li>Broken into Acetyl(2C) groups</li>
+<li>Hooked to COA, to glyoxix acid to malic acid</li>
+<li>Malic acid goes into calvin/krebs cycle, get glucose</li>
+<li>Glucose goes thru glycolysis</li>
+<li>Malic acid can go to Mitochandria, krebs cycle</li>
+<li>Takes place in glyocisome/similar to peroxisome</li>
+</ul>
+</li>
+<li>Nuts have so much stuff bc they have to have EVERYTHING to sprout</li>
+</ul>
+<h3 id="cellular-energetics">Cellular Energetics</h3>
+<ul>
+<li>Relationship btw photosynth and cell resp</li>
+<li>Plants have both chloroplast and MC</li>
+<li>G3P is the one common link between the process(most important step)</li>
+<li>G3P can become many things</li>
+</ul>
+<h3 id="anerobic-respiration">Anerobic Respiration</h3>
+<ul>
+<li>Many organisims dont have access to O2(bottom of ocean, pond muck)</li>
+<li>Glycolysis, Krebs, ETC, but final e- acceptor not O
+<ul>
+<li>Sulfur can be used(same group as o2)</li>
+<li>Form H2S or hydrogen sulfide(rotten eggs)</li>
+<li>Form in hot springs/mud</li>
+<li>Sulfate reducing bacteria(add H2 to sulfur)</li>
+<li>Sulfur accessable in ocean bc ocean vents excrete SO2, break down into S and O2</li>
+<li>Use O2 in other things(amino acids/etc)</li>
+<li>use S as final e- acceptor</li>
+<li>CO2 is reduced to methane(O used for amino acids and stuff)</li>
+<li></li>
+</ul>
+</li>
+<li>No photorespiration or anything with light in deep ocean
+<ul>
+<li>Bacteria use chemicals in place of sun, are producers</li>
+<li>Tube worms eat bacteria</li>
+<li>Basically totally different trophic pyramid</li>
+</ul>
+</li>
+</ul>
+<h3 id="anabolic-production">Anabolic Production</h3>
+<ul>
+<li>Carbs
+<ul>
+<li>Glucose produced from G3P/reverse glycolysis,</li>
+<li>Get glucose, glycogen, starch, cellulose</li>
+<li>In bacteria, peptidoglycan made from fructose in glyc</li>
+</ul>
+</li>
+<li>Fatty acid
+<ul>
+<li>Reverse Beta oxidation</li>
+<li>Sticks acetyl groups back together(makes amino acids)</li>
+<li>Get DHAP, used to convert to glycerol/triglycerides</li>
+</ul>
+</li>
+<li>Amino Acid
+<ul>
+<li>Intermediates of krebs</li>
+<li>Oxylacedic acid+amine group-animation-&gt;move amine froups to amino acids</li>
+</ul>
+</li>
+<li>Neucleic acids
+<ul>
+<li>Pentose pathway</li>
+</ul>
+</li>
+<li>Each organisim produces some if not all of them
+<ul>
+<li>Plants All</li>
+<li>Animals Most/eat food(essential nutrients)</li>
+<li>Algae/Lower animals can produce all</li>
+</ul>
+</li>
+</ul>
+<h2 id="plant-science">Plant science</h2>
+<ul>
+<li>frequently shows up on AP</li>
+<li>Chap 29, 30, 35</li>
+<li>Different tissues like in humans</li>
+<li>Growth, Structure, Vascular Tissues</li>
+<li>Grouth tissues become structural and vascular tissues</li>
+<li>Plant cells divide once, then stop</li>
+<li>growth tissues continue division(most plant cells only divide once or is dead tissue)</li>
+<li>Bark is only living part of a tree(center is dead)</li>
+</ul>
+<h3 id="growth-tissues">Growth Tissues</h3>
+<ul>
+<li>Apical Meristem(roots and chutes)
+<ul>
+<li>Allows plant to grow up and down</li>
+<li>Also at tips of branches</li>
+<li>Anything @ end of line</li>
+<li>Roots
+<ul>
+<li>Zone of cell division(zone of mytotic activity)
+<ul>
+<li>Some vasucar tissue</li>
+<li>Cells undergo single cell division</li>
+<li>Zone of elongation</li>
+<li>In elongation zone, acid growth hypothesis, cell pumps electrolytes to btw cell wall+plasma membrane</li>
+<li>Acids stretch things(becomes hypertonic, water moves in, stretches, electrolytes neutralized, cells stops growing)</li>
+</ul>
+</li>
+<li>Soil-side, root cap, cells fall off as root goes further(like skin)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Vascular Meristem/Cambian
+<ul>
+<li>Produces xylem+phloem</li>
+<li>Xylem(roots to leaves) Phloem(Leaves to roots)</li>
+<li>Once Xylem divides, neucleus dies, is hollow</li>
+<li>Phloem is alive</li>
+<li>Herbacious plants don't have woody stems(annuals)</li>
+</ul>
+</li>
+<li>Woody plants also have lateral meristem
+<ul>
+<li>Produce protective material+cork</li>
+<li>All trees have cork</li>
+<li>Cork trees have really big cork</li>
+<li>protocambian</li>
+</ul>
+</li>
+<li>Root caps
+<ul>
+<li>Root cap produces significant CO2</li>
+<li>Helps roots grow down</li>
+<li>Water+CO2-&gt;Carbonic Acid</li>
+<li>This is why rain is acidic</li>
+<li>Carbonic acid is mildly acidic, breaks down soil</li>
+</ul>
+</li>
+<li>Shoot
+<ul>
+<li>Same structures</li>
+<li>Apical meristem
+<ul>
+<li>Procambian(begennigs of xylem and phloem)</li>
+<li>ground meristem produces cap-kind of</li>
+<li>protoderm = infant cortex cells</li>
+<li>primordia = begennings of buds + leaves</li>
+</ul>
+</li>
+<li>Apical meristem is always where bud produced+always in all roots</li>
+<li>Lateral meristem
+<ul>
+<li>Vascular meristem</li>
+<li>Gives rise to xylem+phloem</li>
+<li>Everything outside of vascular cambium is phloem(living)</li>
+<li>On inside is xylem(dead)/hollow
+<ul>
+<li>primary xylem(og xylem plant starting to grow)</li>
+<li>Everything else is 2ndary xylem</li>
+<li>peice of wood is all xylem</li>
+<li>In woody dicots,xylems in groups formed on either half of vascular cambium</li>
+<li>inside of vascular cambium is pith</li>
+<li>Eventually pith becomes hart wood</li>
+<li>pith is storage place for nutrients, enzymes, etc</li>
+<li>Other side is phloem</li>
+<li>Everythign between vascular cambium and epidermis is all living(phloem+cortex)</li>
+</ul>
+</li>
+<li>Most trees also have cork cambian
+<ul>
+<li>Builds cork layer</li>
+<li>in semi-desert climates, drought tolerant trees w/cork</li>
+<li>Most trees have small cork layers produced by cork cambina</li>
+<li>in portugal/iberian peninsula, cork trees produce more layers</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Meristem tissue does undergo mitosis(mitotically active part of plant)</li>
+</ul>
+</li>
+<li>Other tissues</li>
+<li>Structural tissues
+<ul>
+<li>Parenchyma
+<ul>
+<li>basic generic tissue</li>
+<li>Sometimes storage</li>
+<li>in leaves, is mesophyll(photosynthetic)</li>
+<li>Makes up cortex in woody dicots</li>
+</ul>
+</li>
+<li>Sclerenchyma tissue(stronger than col)
+<ul>
+<li>Support monocot vascular tissue and in dicot seeds</li>
+<li>Produced, then loses all cellular components</li>
+<li>strengthens other tissues</li>
+<li>Called stone cells</li>
+<li>Also found in seeds of stone fruits(peach/cherries/avacado)</li>
+</ul>
+</li>
+<li>Collenchyma
+<ul>
+<li>cell walls thinner than scleren</li>
+<li>located in epidermis in mono+dicots</li>
+<li>may or may not have cytoplasm</li>
+</ul>
+</li>
+<li>Chlorenchyma
+<ul>
+<li>photosynthetic</li>
+<li>not recognized anymore</li>
+<li>basically mesophyl tissue</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Non-Meristematic Tissue
+<ul>
+<li>Plant fibers</li>
+<li>Make Grains</li>
+<li>Make little tubes to conduct resin/sap</li>
+<li>Support mechanisim in trees</li>
+<li>Mostly inflexible</li>
+<li>Conduct electricity bc lotsa water</li>
+</ul>
+</li>
+<li>Vascular tissue
+<ul>
+<li>2 types</li>
+<li>Either vessels(pine trees)</li>
+<li>Trachids(non pine trees)</li>
+<li>SLIDE(a,b vessls/civ plates/constant flow moving up/prevents air bubbles with grate)(c-e trachids in angiosperms/flowering plants/no grates, many little holes/pits to break up air)</li>
+<li>Bundles
+<ul>
+<li>eyes, mouth, nose are xylem</li>
+<li>look at slides</li>
+</ul>
+</li>
+<li>Phloem
+<ul>
+<li>actual living tissue</li>
+<li>(xylem loses cytoplasm)</li>
+<li>Living tissue side of vascular cambium</li>
+<li>phloem made of 2 diff cells
+<ul>
+<li>civ tube cell w/vessels</li>
+<li>companion cell regulating everything in civ tube cell</li>
+<li>Excess sugar from photosynth goes into phloem, redistributed to where needed</li>
+<li>companion cell redirects sugar</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Acedemic opportunity ends w/ vascular tissues</li>
+<li>Monocots usually annual bc vascular cambian dosen't keep reproducing(Randomly distributed)</li>
+</ul>
+<h3 id="leaves">Leaves</h3>
+<ul>
+<li>C3 leaf vs C4(cam similar) leaf</li>
+<li>note: more/better light in tropics bc the atmosphere has to deflect the light less</li>
+<li>C3
+<ul>
+<li>C3 most frequently falling down leaves</li>
+<li>Top layer is cuticle, waterproofing layer, waxy, produced by leaf(G3P-&gt;DHAP-&gt;Fatty Acids), thicker in tropics(more water loss bc plants evolve to use more water, cant lose as much)</li>
+<li>Below that is epidermis</li>
+<li>below that is palisade mesophyll(parenchyma cells)
+<ul>
+<li>palisades means vertical/perp to epidermis</li>
+<li>whole layer of cells in line with sunlight, more surface area, better photosynth</li>
+<li>in tropics, have multiple layers of palisade mesophyl(better light)</li>
+</ul>
+</li>
+<li>Spongy mesophyl(parenchyma)
+<ul>
+<li>Has air spaces(sub-stomatal crypt)
+<ul>
+<li>also layer thin of water surrounding cells</li>
+<li>co2 and o2 go between these cells, obey gas laws</li>
+<li>Law of partial pressures, so cant survive in pure o2 bc cant move co2 around</li>
+</ul>
+</li>
+<li>Where gas exchange takes place</li>
+<li>Stomata(opening) and guard cells(control opening) control this</li>
+<li>on a dicot leaf(but not waterlilies), stomata on bottom epidermis</li>
+</ul>
+</li>
+<li>Lower epidermis has thin cuticle as well</li>
+<li>Bundle sheath mostly structural</li>
+</ul>
+</li>
+<li>C4
+<ul>
+<li>Photosynthetic cells are mesophyl cells where light collected, CO2 is fixed, calvin cycle occurs in bundle sheath cells</li>
+<li>stomata on both surfaces</li>
+<li>Also have bolate cells on epidermis, 3 parenchyma cells
+<ul>
+<li>Start out day filled w/ water</li>
+<li>water moved into mesophyl 4 photosynth</li>
+<li>Leaf starts to curl bc change water(crab grass)</li>
+<li>leafs dont do photosynth anymore, prevent from burning up/drying out</li>
+</ul>
+</li>
+<li>Guard cells
+<ul>
+<li>Osmotic principles</li>
+<li>Stomata is hole regulated in size by guard cell(behind stomata is crypt)</li>
+<li>Malate transported w/ K+ to gaurd cell(active transport), causes ion imbalance</li>
+<li>Causes water to move into cells(CELL is hypertonic)</li>
+<li>Opens stomata bc cell swells</li>
+<li>inner layer of cell not very flexible, so swells up to make opening</li>
+<li>k+ leaks out, malate is used by photosynth(calvin cycle), hole closes</li>
+<li>Environmental cues for opening+closing
+<ul>
+<li>Opening at dawn triggered by light</li>
+<li>CO2 deblletion</li>
+<li>Circadian rhythym(in plants is light dominated)</li>
+<li>High temperatures close stomata bc lose water</li>
+<li>Absicic acid (plant hormone) produced bc lack of water, closes stomata</li>
+<li>Backwards for cam plants(open @ night) bc water</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h3 id="roots">Roots</h3>
+<ul>
+<li>Anchor plant to substrate</li>
+<li>Primary source of nutrients</li>
+<li>Soils low in nutrients have adapted roots</li>
+<li>Apical meristem
+<ul>
+<li>pictured is monocot</li>
+<li>See mature xylem(in cross)+phloem(in arms of cross)</li>
+<li>Vascular stele surrounded by endodermis(waterproofed by casparian strip)</li>
+<li>Casparian strip lets water, nutrients in, only lets starches out into cortex</li>
+</ul>
+</li>
+<li>Zone of maturation
+<ul>
+<li>Root hairs(extenstions of epidermis)
+<ul>
+<li>Incredibly fragile</li>
+<li>Usually when u pull a plant up, lose root hairs</li>
+<li>Increases surface area for mineral+nutrient absorption</li>
+<li>Lot of energy expended in root hair to transport nutrients</li>
+<li>Mostly facilitated diffusion, osmosis</li>
+<li>As soil drys out, water around roots gone, more air spaces
+<ul>
+<li>all plants have fundamental minimum of water needed(permenant wilting point)(point when water in soil when water is so low plants never come back)</li>
+</ul>
+</li>
+<li>Field capacity for water
+<ul>
+<li>if all air spaces filled up, cannot hold more water, then makes runoff</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Water+minerals move into cortex cells thru osmosis+facillitated diffusion
+<ul>
+<li>Get into vascular stele, xylem+phloem(apoplastic movement)</li>
+</ul>
+</li>
+<li>Alternately moves around cortex cells(sim-plastic movement)</li>
+</ul>
+</li>
+<li>Root types
+<ul>
+<li>Fiborous/Diffuse roots (C4) Pictured left
+<ul>
+<li>Better at retaining soil</li>
+<li>Grass good for growing near eroding places</li>
+</ul>
+</li>
+<li>Adventitious/brace roots, grow up(ivy)</li>
+<li>Taproots(C3)(Right)
+<ul>
+<li>Branches off of them called lateral roots</li>
+<li>Lateral roots produced by perry cycle</li>
+<li>After long time, lateral roots resemble diffuse roots</li>
+<li>Equal surface area to above ground, trees have taproots, grow in weird formations bc follow earth</li>
+<li>Taproots have same width as tree trunk</li>
+</ul>
+</li>
+<li>Moss has root-like system(rhizomes), short, small tissues anchor plant to substrate
+<ul>
+<li>moss can grab a lot of substrate</li>
+<li>Moss can build better substrate for future plants</li>
+<li>Taproots theoretically like mirror image to above ground tree</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Plant growth(dg/dt)
+<ul>
+<li>Growth of seed</li>
+<li>glyoxysosomes convert fatty acids to sugar</li>
+<li>Little white spot in bean is embryo(dicots)
+<ul>
+<li>radical grows from there, becomes roots
+<ul>
+<li>sprouts, bends down bc gravity+hormones</li>
+</ul>
+</li>
+<li>Hypotococtyal(coleoptile)(apical meristem) grows from WHERE???, becomes stem
+<ul>
+<li>Bends upward bc sunlight+hormones</li>
+<li>Breaks thru soil with seed, begins leaves</li>
+</ul>
+</li>
+<li>cotyledens are old and wrinkly bc glyocysomes extracted all faty acids</li>
+<li>Below cotyleden is hypocotyl, above is epicotyl</li>
+</ul>
+</li>
+<li>Monocot
+<ul>
+<li>Still have embryo(in corn, at point of corn)</li>
+<li>Still have radical to produce roots</li>
+<li>bc cotlyeden stays in place, stem called coleoptile, unfolds into leaf</li>
+</ul>
+</li>
+<li>Seed sprout if warm enough, water is avalible</li>
+<li>Also controlled hormonally
+<ul>
+<li>phytoestrogens allow for cellular growth</li>
+<li>if in large concentrations, can have negative effect (excessive growth) in animals(frequently produced by water plants, animal consumes water etc.)</li>
+<li>Tropism is response resulting in organs moving away from or toward a stimulus(can have + or - response)
+<ul>
+<li>Darwin+Son expiremetned on phototropism(plant response to light)</li>
+<li>Saw grass seedling grow toward light if only coleophtile is present</li>
+<li>developed words without knowing abt hormones</li>
+<li>Positive response is taxic response</li>
+<li>Negative response is nasty response</li>
+<li>Phototaxic means is attracted to light</li>
+<li>Photonasty means is avoiding light</li>
+</ul>
+</li>
+<li>Plants produce hormones in low concentrations(very responsive to hormone)</li>
+<li>Responses are everything a plant does(division, elongation, etc)</li>
+<li>Plants have many hormones</li>
+</ul>
+</li>
+<li>Hormone that causes photonasty/taxic is Auxin
+<ul>
+<li>causes cell to grow or not(acid growth hypothesis)</li>
+<li>in radical, auxins pool on lower side bc gravity</li>
+<li>higher concentrations inhibit elnogation down, plant grows up</li>
+<li>if on upper side, lower concentration, cells elongate and root points down(gravity)</li>
+<li>in hypocotyl, low concentrations inhubit cell elongation</li>
+<li>Larger concentrations towards light, not inhibited</li>
+<li>Works by stimulating(or not) proton pumps creating gradient</li>
+<li>Auxin also alters geneexpression, stimulates a sustained growth</li>
+<li>Removal or addition of too much auxin kills plant</li>
+<li>Stimulates growth in lower branchses</li>
+<li>controls arrangement of leaves on stem</li>
+<li>Directs leaf vein patterns</li>
+<li>vascular combium controlled by auxin</li>
+<li>Auxin as herbicide
+<ul>
+<li>IBA stimulates adventitious roots, stimulates cuttings</li>
+<li>Overdose of IBA can kill dicots(agent orange)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Cytokinins stimulate cell division
+<ul>
+<li>active in roots, shoots, fruits</li>
+<li>works with auxins</li>
+<li>can slow plant aging by inhibiting protein breakdown, stimulating rna and protein synth</li>
+</ul>
+</li>
+<li>Gibberellins
+<ul>
+<li>sensitive to water and soil temp</li>
+<li>stimulates glyoxysome to start plant growth</li>
+<li>in stems, also help stimulate cell division+elongation</li>
+<li>after contacting water, gibberellins released, signal germination</li>
+</ul>
+</li>
+<li>Stems
+<ul>
+<li>Arise from shoots
+<ul>
+<li>in dicot comes from hypocotyl</li>
+<li>In monocot comes from coleopile</li>
+<li>Cotlyeldens(food go with stem as it grows)</li>
+<li>Eventually leaves bud out, unfurl, then cotyledens not needed for food</li>
+<li>Once cotyledens fall off, epi/hypo stem become integrated into stem</li>
+<li>Leaves come from apical meristem/basically modified parencyma tissue</li>
+</ul>
+</li>
+<li>Plumule
+<ul>
+<li>Epicotyls - Stem</li>
+<li>Leaf Primordia - Leaf</li>
+<li>Apical meristem - Parenchyma</li>
+</ul>
+</li>
+<li>Stem Consists of
+<ul>
+<li>Alternating system of nodes/points where leaves were attached</li>
+<li>Plant+leaf begin building up cellulose to make cell wall, eventually leaves scar, where leaf attached, called node</li>
+<li>Node can have 2 or three leaf scars on opposite sides of stem(opposite leaf arangement)</li>
+<li>Little white bumps on stem are lenticiles for gas exchange all along twig(lose when get bigger bc needs less o2)</li>
+<li>Axilary buds form on sides of twig, have potential to become branch</li>
+<li>Apical/terminal buds are at end</li>
+<li>Vascular bundle scars formed when leaf broken off bc tree scabs over the bundles to prevent nutrient loss</li>
+<li>Alternate leaves are when angle of leaves shifts to be perpendicular to previous leaf set(1 scar per node)</li>
+<li>Distance between each node is called internode</li>
+<li>Opposite nodes are when one node has 2 scars on either side of the twig(2 scars per node)</li>
+<li>When Nodes scar with many right next to each other, it is whorled(2+ scars per node)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Water transport
+<ul>
+<li>Uses osmosis</li>
+<li>Area of low concentration to high solute concentration</li>
+<li>Water potential is measurement combining solute concentration and pressure
+<ul>
+<li>Deterimens direction of movement of water</li>
+<li><span class="joplin-editable"><span class="joplin-source" data-joplin-language="katex" data-joplin-source-open="$" data-joplin-source-close="$">\Psi</span><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">Ψ</mi></mrow><annotation encoding="application/x-tex">\Psi</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord">Ψ</span></span></span></span></span> is measure of pressure across membrane</li>
+<li>Flows fromhigher water potential to lower water potential</li>
+<li>Potential is capacity to do work</li>
+<li>water potential is abbreviated as <span class="joplin-editable"><span class="joplin-source" data-joplin-language="katex" data-joplin-source-open="$" data-joplin-source-close="$">\Psi</span><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">Ψ</mi></mrow><annotation encoding="application/x-tex">\Psi</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord">Ψ</span></span></span></span></span> in megapascals(MPa)</li>
+<li><span class="joplin-editable"><span class="joplin-source" data-joplin-language="katex" data-joplin-source-open="$" data-joplin-source-close="$">\Psi</span><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">Ψ</mi></mrow><annotation encoding="application/x-tex">\Psi</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord">Ψ</span></span></span></span></span> = 0MPa for pure water at Std temp+sea lvl</li>
+</ul>
+</li>
+<li>Equation
+<ul>
+<li>Water potential affected by pressure and solute concentration</li>
+<li>Expressed by <span class="joplin-editable"><span class="joplin-source" data-joplin-language="katex" data-joplin-source-open="$" data-joplin-source-close="$">\Psi = \Psi_s+\Psi_p</span><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">Ψ</mi><mo>=</mo><msub><mi mathvariant="normal">Ψ</mi><mi>s</mi></msub><mo>+</mo><msub><mi mathvariant="normal">Ψ</mi><mi>p</mi></msub></mrow><annotation encoding="application/x-tex">\Psi = \Psi_s+\Psi_p</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord">Ψ</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.83333em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord">Ψ</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">s</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.969438em;vertical-align:-0.286108em;"></span><span class="mord"><span class="mord">Ψ</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.15139200000000003em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">p</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.286108em;"><span></span></span></span></span></span></span></span></span></span></span></li>
+<li><span class="joplin-editable"><span class="joplin-source" data-joplin-language="katex" data-joplin-source-open="$" data-joplin-source-close="$">\Psi_s</span><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi mathvariant="normal">Ψ</mi><mi>s</mi></msub></mrow><annotation encoding="application/x-tex">\Psi_s</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.83333em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord">Ψ</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">s</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span></span> is solute potential is proportional to molarity</li>
+<li>Solute potential is also called osmotic potential</li>
+<li><span class="joplin-editable"><span class="joplin-source" data-joplin-language="katex" data-joplin-source-open="$" data-joplin-source-close="$">\Psi_p</span><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi mathvariant="normal">Ψ</mi><mi>p</mi></msub></mrow><annotation encoding="application/x-tex">\Psi_p</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.969438em;vertical-align:-0.286108em;"></span><span class="mord"><span class="mord">Ψ</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.15139200000000003em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">p</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.286108em;"><span></span></span></span></span></span></span></span></span></span></span> is pressure potential is physical pressure on solution</li>
+</ul>
+</li>
+<li>Turgor Pressure is pressure by plasma membrane against cell wall+cell wall against protoplast
+<ul>
+<li>Seen by water exiting cell</li>
+<li>Cell is hypertonic, water flows in, measuring pressure of water on cell wall/moving of water back out to prevent bursting thru aquaporins</li>
+<li>cell can drown bc loses ions in pumping out water</li>
+</ul>
+</li>
+<li>Efficent long distance transport driven by pressure
+<ul>
+<li>This is how plants move water from roots to vascular steele</li>
+<li>transport water across cortex, move using small amounts of pressure SYMPLASITC</li>
+</ul>
+</li>
+<li>At vascular steele
+<ul>
+<li>Outer layer(outside of vascular steele) is endodermis(where paras cycle and lateral roots)</li>
+<li>diffuses into vascular steele thru endodermis, cant go out bc blocked by casparian strip</li>
+<li>Pressure created bc water cant go out, so it must go up(root pressure)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Transpiration
+<ul>
+<li>Evaporation of water from stomata</li>
+<li>In cojuunction with root pressure, pulls water up(massive concentration gradient)</li>
+<li>Capilary pressure/adhesion+cohesion/cohesion tension hypothesis</li>
+<li>Xylem sap is normally under negative pressure/tension</li>
+<li>if you remove phloem, water still pumped up, strip bark</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Stuff going down(pressure flow hypothesis)
+<ul>
+<li>Active transport of water and photosynate into xylem</li>
+<li>works with coheson-tension hypothesis</li>
+<li>Cotransport of sugars(sucrose)</li>
+<li>h+ ion attached to sucrose(cotransport molecule) put into phloem</li>
+<li>angeosperms, seive-tube elements are conduits for translacation
+<ul>
+<li>Phloem sap is sucrose solution from leavees</li>
+<li>Sugar source is net producer of sugar(mature leaves)</li>
+<li>Sugar sink is organ that is net consumer or storage of sugar like tuber or bulb</li>
+</ul>
+</li>
+<li>Phloem is living; how sugars move, how pick up H+ is all regulated by companion cell</li>
+<li>Process starts in leaves, is called phloem loaded
+<ul>
+<li>Phloem loaded with sucrose +cotransporter</li>
+<li>then pushed down phloem into roots(phloem is hypotonic), water moves in, pushes sucrose+H+ down bc h+ prevents from leaving</li>
+</ul>
+</li>
+<li>once gets to roots, h+ detached, sucrose goes into cells, water recycled</li>
+</ul>
+</li>
+</ul>
+<h3 id="boesman-info">Boesman info</h3>
+<ul>
+<li>Water potential allows us to figure out if water will flow</li>
+<li><span class="joplin-editable"><span class="joplin-source" data-joplin-language="katex" data-joplin-source-open="$" data-joplin-source-close="$">\Psi</span><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">Ψ</mi></mrow><annotation encoding="application/x-tex">\Psi</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord">Ψ</span></span></span></span></span> is symbol</li>
+<li>Osmosis
+<ul>
+<li>adding solute to solution decreases water potential by making more space bc water attracted to solute</li>
+<li>Water flows from high to low potential</li>
+<li>Flows up tree (roots -2 bars, stems -6 bars, leaves -15, atmosphere -1000)</li>
+<li>Water evaporated as move up in leaves</li>
+<li><span class="joplin-editable"><span class="joplin-source" data-joplin-language="katex" data-joplin-source-open="$" data-joplin-source-close="$">\Psi_s</span><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi mathvariant="normal">Ψ</mi><mi>s</mi></msub></mrow><annotation encoding="application/x-tex">\Psi_s</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.83333em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord">Ψ</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">s</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span></span> water flowing by osmosis, drops with added solutes</li>
+<li><span class="joplin-editable"><span class="joplin-source" data-joplin-language="katex" data-joplin-source-open="$" data-joplin-source-close="$">\Psi_p</span><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi mathvariant="normal">Ψ</mi><mi>p</mi></msub></mrow><annotation encoding="application/x-tex">\Psi_p</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.969438em;vertical-align:-0.286108em;"></span><span class="mord"><span class="mord">Ψ</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.15139200000000003em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">p</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.286108em;"><span></span></span></span></span></span></span></span></span></span></span> is physical pressure, pressure of wall on membrane+vice versa, pressure potential, is positive/water pushed out</li>
+<li><span class="joplin-editable"><span class="joplin-source" data-joplin-language="katex" data-joplin-source-open="$" data-joplin-source-close="$">\Psi_T = \Psi_s+\Psi_p</span><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi mathvariant="normal">Ψ</mi><mi>T</mi></msub><mo>=</mo><msub><mi mathvariant="normal">Ψ</mi><mi>s</mi></msub><mo>+</mo><msub><mi mathvariant="normal">Ψ</mi><mi>p</mi></msub></mrow><annotation encoding="application/x-tex">\Psi_T = \Psi_s+\Psi_p</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.83333em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord">Ψ</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.32833099999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight" style="margin-right:0.13889em;">T</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.83333em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord">Ψ</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">s</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.969438em;vertical-align:-0.286108em;"></span><span class="mord"><span class="mord">Ψ</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.15139200000000003em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">p</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.286108em;"><span></span></span></span></span></span></span></span></span></span></span></li>
+<li><span class="joplin-editable"><span class="joplin-source" data-joplin-language="katex" data-joplin-source-open="$" data-joplin-source-close="$">\Psi_s = -iCRT</span><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi mathvariant="normal">Ψ</mi><mi>s</mi></msub><mo>=</mo><mo>−</mo><mi>i</mi><mi>C</mi><mi>R</mi><mi>T</mi></mrow><annotation encoding="application/x-tex">\Psi_s = -iCRT</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.83333em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord">Ψ</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">s</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.76666em;vertical-align:-0.08333em;"></span><span class="mord">−</span><span class="mord mathnormal">i</span><span class="mord mathnormal" style="margin-right:0.07153em;">C</span><span class="mord mathnormal" style="margin-right:0.00773em;">R</span><span class="mord mathnormal" style="margin-right:0.13889em;">T</span></span></span></span></span>
+<ul>
+<li><span class="joplin-editable"><span class="joplin-source" data-joplin-language="katex" data-joplin-source-open="$" data-joplin-source-close="$">i</span><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>i</mi></mrow><annotation encoding="application/x-tex">i</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.65952em;vertical-align:0em;"></span><span class="mord mathnormal">i</span></span></span></span></span> is ionization consant(NaCl=2, Sucrose=1)(breaks apart so we multiply)</li>
+<li><span class="joplin-editable"><span class="joplin-source" data-joplin-language="katex" data-joplin-source-open="$" data-joplin-source-close="$">C</span><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>C</mi></mrow><annotation encoding="application/x-tex">C</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathnormal" style="margin-right:0.07153em;">C</span></span></span></span></span> is concentration(moles/liter)(molarity)</li>
+<li><span class="joplin-editable"><span class="joplin-source" data-joplin-language="katex" data-joplin-source-open="$" data-joplin-source-close="$">R</span><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>R</mi></mrow><annotation encoding="application/x-tex">R</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathnormal" style="margin-right:0.00773em;">R</span></span></span></span></span> Pressure constant(.0831 liter bars/mole K)</li>
+<li><span class="joplin-editable"><span class="joplin-source" data-joplin-language="katex" data-joplin-source-open="$" data-joplin-source-close="$">T</span><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>T</mi></mrow><annotation encoding="application/x-tex">T</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathnormal" style="margin-right:0.13889em;">T</span></span></span></span></span> is temperature, molecules bounce around more(kelvin)</li>
+<li>Overall water potential is <span class="joplin-editable"><span class="joplin-source" data-joplin-language="katex" data-joplin-source-open="$" data-joplin-source-close="$">(\Psi_s = iCRT)+(\Psi_p= 0 \ bc\  open beaker)</span><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo stretchy="false">(</mo><msub><mi mathvariant="normal">Ψ</mi><mi>s</mi></msub><mo>=</mo><mi>i</mi><mi>C</mi><mi>R</mi><mi>T</mi><mo stretchy="false">)</mo><mo>+</mo><mo stretchy="false">(</mo><msub><mi mathvariant="normal">Ψ</mi><mi>p</mi></msub><mo>=</mo><mn>0</mn><mtext> </mtext><mi>b</mi><mi>c</mi><mtext> </mtext><mi>o</mi><mi>p</mi><mi>e</mi><mi>n</mi><mi>b</mi><mi>e</mi><mi>a</mi><mi>k</mi><mi>e</mi><mi>r</mi><mo stretchy="false">)</mo></mrow><annotation encoding="application/x-tex">(\Psi_s = iCRT)+(\Psi_p= 0 \ bc\  open beaker)</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mopen">(</span><span class="mord"><span class="mord">Ψ</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">s</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathnormal">i</span><span class="mord mathnormal" style="margin-right:0.07153em;">C</span><span class="mord mathnormal" style="margin-right:0.00773em;">R</span><span class="mord mathnormal" style="margin-right:0.13889em;">T</span><span class="mclose">)</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:1.036108em;vertical-align:-0.286108em;"></span><span class="mopen">(</span><span class="mord"><span class="mord">Ψ</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.15139200000000003em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">p</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.286108em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord">0</span><span class="mspace"> </span><span class="mord mathnormal">b</span><span class="mord mathnormal">c</span><span class="mspace"> </span><span class="mord mathnormal">o</span><span class="mord mathnormal">p</span><span class="mord mathnormal">e</span><span class="mord mathnormal">n</span><span class="mord mathnormal">b</span><span class="mord mathnormal">e</span><span class="mord mathnormal">a</span><span class="mord mathnormal" style="margin-right:0.03148em;">k</span><span class="mord mathnormal">e</span><span class="mord mathnormal" style="margin-right:0.02778em;">r</span><span class="mclose">)</span></span></span></span></span></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>KISH AGAIN</li>
+<li>Reproduction in plants
+<ul>
+<li>Cover entire spectrum of both sexual and asexual methods(diff plants do diff things)</li>
+<li>Process of reproduction in plants is similar to in animals
+<ul>
+<li>Female gamete production is different</li>
+<li>Different cells to produce each</li>
+</ul>
+</li>
+<li>Special cells produce gametes at different times of year
+<ul>
+<li>Like some rodents</li>
+</ul>
+</li>
+<li>Most plants obey alternation-of-generation
+<ul>
+<li>Alter between haploid(single chromosome set) and diploid(double chromosome set stages</li>
+<li>Haploid are mostly gametes
+<ul>
+<li>Gametophyte generation</li>
+</ul>
+</li>
+<li>Diploid is mostly adult plants
+<ul>
+<li>Sporophyte generation</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>in ferns, spores produced(little brown dots)</li>
+<li>Some plants are just haploid(algae)(no land plants)(plants and cyanobacteria and some singlecelled protists)</li>
+<li>If dominant spore generation, life cycle is diplohaplonitc(most common generation/dominant generation is diploid)(oak, maple, most plants)</li>
+<li>if  opposite, haplodiplonitc(only mosses)</li>
+<li>We will consider only reporduction in more common plants like flowers</li>
+<li>2 types of gamete producing cells
+<ul>
+<li>
+<p>Microspore mother cells</p>
+</li>
+<li>
+<p>Megaspore mother cells</p>
+</li>
+<li>
+<p>microspore mother cells produce pollen(male sperm/smaller)</p>
+</li>
+<li>
+<p>Megaspore mother cells produce egg(larger)</p>
+</li>
+<li>
+<p>Microsporogenesis</p>
+<ul>
+<li>Where microspore mother cell meisois devodes forms 4 pollen</li>
+<li>Each plant species produces different shape</li>
+<li>To produce male gametes is similar to all other male gamete production</li>
+</ul>
+</li>
+<li>
+<p>Megasporogenesis</p>
+<ul>
+<li>Plant ovaries produce many different ovuleles</li>
+<li>in each ovulele multiple potential eggs</li>
+<li>White part of inside of pepper is placenta, all little seeds found in ovule</li>
+<li>Entire pepper is ovary</li>
+<li>A lot of ovules produced</li>
+<li>Each ovule has megaspore mother cell</li>
+<li>Megaspore mother cell devides by meiosis(produces for haploid cells)</li>
+<li>3 haploid cells reabsorbed(akin to polar bodies)</li>
+<li>1 cell divides 3x, forming 8 haploid cells</li>
+<li>3 at bottom, 2 in middle of seed, 3 at top</li>
+<li>1 of 3 at bottom is egg, others are supporting synergids</li>
+<li>Polar neuclei are in middle, will be fertilized(once fertilized middle becomes triploid and becomes cotyleden)</li>
+<li>Synergids and antipodals get reabsorped by plant, dont do anything</li>
+<li>Illustrates randomness of DNA transfer bc lots of mixing up before fertilized</li>
+</ul>
+</li>
+<li>
+<p>pollen</p>
+</li>
+<li>
+<p>Flowers</p>
+<ul>
+<li>Gametophyte generation(gamete producing)</li>
+<li>Male part is stamen</li>
+<li>Stamen contains anther(contains microspore mother cells)(supported by filament)</li>
+<li>Female part is pistil, made up of stigma at top, then style, then ovary</li>
+<li>If flower has both male and female parts, perfect flowers</li>
+<li>If have petals and sepals and stamens and pistil then complete flower</li>
+</ul>
+</li>
+<li>
+<p>Reproduction in angiosperms</p>
+<ul>
+<li>pollen lands on stigma somehow, grows pollen tube</li>
+<li>Stigma is specie specific, pollen from other plant cant fertilize one plant</li>
+<li>Plants will dissolve and kill any nonfriendly pollen grain</li>
+<li>Pollen grain sprouts, tube neucleus starts producing pollen tube</li>
+<li>In angeosperms, pollen tube production is fast</li>
+<li>Grows thru style into ovule, sperm neuclei released, then fertilization happens</li>
+<li>in pine tree, takes 2 years(gets neucleus after 1 year, 2 for pine seed to develop)</li>
+<li></li>
+</ul>
+</li>
+<li></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div></div>
+					</body>
+				</html>
+			

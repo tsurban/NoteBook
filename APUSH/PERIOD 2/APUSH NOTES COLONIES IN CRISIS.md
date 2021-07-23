@@ -1,0 +1,70 @@
+APUSH NOTES COLONIES IN CRISIS
+
+# 9/22/2020 Theo Urban
+## APUSH NOTES Colonies in Crisis
+***
+### Crisis in various colonies(1675-1676)
+ - King Philips War
+ - Maryland
+	 - Lord Baltimore restrict right to vote to those with > 50 acres
+	 - Protestant uprising failed to oust baltimore, restore suffrage
+ - Several colonies
+	 - Frontier settlement causes confrontation w/ natives
+	 - Westo Natives rebellion supressed in carolina(1680)
+	 - Pueblo revolt(outside of british empire)
+ - Turmoil of england
+	 - 1688, struggle for domination of english gov
+	 - **Glorious Revolution**, parlimentary power fully established
+	 - Charles II, parliment asserted authority over national policy formation(finance, forigen affairs, exluded catholics and dissenters)
+	 - Charles successor(brother James II) declares religious tolerance
+	 - Anglican elites propose William of Orange (dutch) to take throne
+	 - William of Orange invaded england with 2/3 dutch and support of anglican elites
+	 - Not same kind of social change as in English Civil war 1640s
+	 - 1689, parliment drafts English bill of rights, further solidifies powers of parliment and individuals
+	 - 1690, toleration act allowed protestant dissenters to worship freely, anglicans only can hold office
+	- Mirrored in New World
+		- Protestantism secured
+		- Cathloics and Dissenters discriminatd against
+		- More freedoms in RI, PA, Carolina
+		- Local elites used Glorious Rev. to regrab power
+		- Previously mostly self governing
+			- NE elected own officals, regualted own trade
+			- 1675, England est. **LORDS OF TRADE** watch over colonies
+			- Questioned NE abt compliance with Navigation acts, told dosent apply unless approved by Mass. General Court bc NE no parliment member
+		- 1680s, move to reduce autonomy
+			- Charles II revoke Mass Charter bc violate Nav. Acts.
+			- James II combined Connecicut, Plymouth, Mass., New Hamp, RI, NY, Est+Wst Jersey into **Dominion of NEW ENGLAND**
+			- Ruled by person no answer to elected assembly
+			- James II enemy of freedom
+- The MarylandUprising
+	- Overthrow of James II made rebellions in many colonies
+	- April, Dominion Governer jailed by Militia, OG govs reestablished
+	- Marylands protestant association overthrey Baltimore
+	- All in the name of english liberty
+	- Maryland most successful
+		- Cathloics banned from voting, holding office
+		- Charter removed
+		- Ended tolerance
+- Leisler's Rebellion(NY)
+	- German Leisler = Wealthy Merchant, Calvinist
+	- Divided colony along ethnic and economic lines
+	- Dutch majority reclaim local power, rebels ransack weathly homes
+	- Prominent figures protest that leisler tyrannical
+	- GRIZZLY EXECUTION
+- Changes in NE
+	- After removing GOV, colonies lobbied for return of OG charters, Mass. Not successful
+	- New Charter combined plymouth and mass, removes Bible Commonewalth(property as req to vote)
+	- Required to abide by English TOleration Act
+- Prosecution of Witches
+	- Many puritans belive in supernatural interventions
+	- saw gods will in verything
+	- Witches are females entered deal with devil to get powers
+	- Witchcraft punishable by execution(50,000 ppl exexuted in europe total)
+	- Mostly older women who were outspoken, independent, estranged from husbands, cemented mesn as heads
+- Salem Witch Trials
+	- Several young girls expirence nightmares
+	- Three witches blamed(one was a slave)
+	- Only way to avoid prosecution is to name another witch
+	- Many admit to save s4elf, 14w, 5m hanged
+	- Witchcraft accusations in salem didnt discriminate based on age
+	- Mass. Gov dissolved salem court, demanded prisiones released

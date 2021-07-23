@@ -1,0 +1,53 @@
+Affluent society inclass notes
+
+### Affluence limits
+ - Claimed by uppermiddleclass whites
+ - Most vietnam soldiers are AA+Poor whites
+	 - Student draft exemption
+
+### Vietnam war
+ - Americas involvement begins in truman+eisenhower
+ - US approached by france not wanting to decolonize(indochine(laos, cambodia, vietnam, ~thailand)
+	 - Independence movement in indochine lead by ho-chi-min(former US ally)
+	 - Battle at military post, Nationalists overrun french
+	 - Meet at geneva, sign geneva accords to divide vietnam(north and south)1954 for in 5 years to hold free elections
+ - In 5 years, cold war escalates(korean war, permenant division of korea)
+	 - More powerful nukes(h2 bomb)
+	 - Domino theory and containment(if one seasian country goes communist, all do)
+	 - Position of state dept that communism everywhere is a threat
+	 - Dont want to lose china to communist
+ - ^positions take hold in US gov
+ - South America communist mvmnts
+ - Corrupt gov in control in South vietnam(dinh), gets a lot of US support
+	 - Eisenhower sends first military advisors to help him stave off National Liberation forces(North ho-chi-min communist)
+	 - Dinh bad leader+very corrupt
+	 - Dinh didnt have a lot of support, NLF does
+ - Kennedy escalates military presence
+	 - CIA does an analysis, rejects Dinh, sponsors coup that assasinates dinh and installs another crappy leader
+	 - NLF is gaining power and support, esp from chinese communist party
+	 - US sees vietnam as russia behind it, not as independence movment like it is
+	 - US dosent understand it is actually jistrebellion
+	 - Indirect russian support, mostly occur after free election DONT occur
+ - Boots on the ground
+	 - Dosent happen unitil end of kenndy, late johnson
+	 - Johnson american soldies on, grueling, hard, enemy ambigiousm e
+	 - Terrtiroes not always clerly difine
+	 - Much movement of troops, supplies
+	 - Use of traditional bombs(more dropped in vietnam than in all everywhare WWII)
+	 - Napalm(petrol fire agent)
+	 - Agent orange causes deforestation to create LOS to enemy
+	 - Villagers also trying to support both sides our of goodness and feaww
+	 - Largely gradual escalation
+		 - Gulf of tonkin uSs t0
+	 - Gulf of tonkin resolution passed on bad info(1964) to give prez insane power to sent american soldiers into war
+	 - Escalating US presence to end war , donsent work
+	 - Tete offensive(1968 pivot year)
+			 - January 1968 begenning of lunar new year
+			 - North vientnamese launch counterattaci
+			 - Moment with a lot of questions and stupdish policy
+		 - Questions of wats going on/happening
+			 - Not a voluntteer army(dependent of the draft, majority rcich hid dont go)
+	 - This is where the parent has abandoned you(gov funding+support unclear why or what doing, enhanced by media)
+	 - Get a youngpeople/student antiwar movement, vairety of ppl speaking against(college kids, civil rights(king))
+	 - Organization of student groups anti-war
+	 - 

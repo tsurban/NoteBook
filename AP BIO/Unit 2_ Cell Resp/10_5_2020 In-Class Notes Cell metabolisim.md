@@ -1,0 +1,273 @@
+10/5/2020 In-Class Notes Cell metabolisim
+
+CHAPTER 8+9-READ
+Enzymes - lower activation energy
+Reaction Types:
+ - Condensation or hydrolyitic
+ - Dehyudration or hydrolysis
+ - Seems simple, not really
+Metabolisim
+ - Anabolic Metabolisim
+	 - Constructive/builds stuff up
+	 - Naturally exist in body(estrogen, toteseterone, progesterone)
+ - Catabolic metabolisim
+	 - Breakdown/Destrucive
+	 - If you take in a lot, body uses as fuel, stores what is left over
+	 - In adolescence, metabolisim switches
+	 - Fetal metabolisim(in utero)-->Toddler metabolisim(birth thru puberty)-->Adult(slow metabolisim(forever))
+ - Basic equation(both)
+     - $C_6 H_12_0_6 + 6O_2 <-> 6H_2O+6CO_2 + 36 ATP$
+	 - Perfectly balanced except for energy
+	 - Preferred carbohydrate is glucose(only thing that can be used by )
+	 - These are idealized numbers(every mole potentially can make 36 atp)
+	 - 36 atp is not actually created(heat as byproduct)
+ - Everybody has a basal metabolisim
+ - Cycles
+	 - ATP Cycle
+		 - ATPase/ATPsynthase
+	 - NAD Cycle(electron recycler)
+	    - Oxidation reaction
+- Enzyme tech tips
+	- Almost all end in -ASE
+	- Usually have practical names
+ - **ALL CHEMICAL REACTIONS IN BODY DRIVEN BY ENZYMES**
+	 - DNA codes for enzymes
+	 - Most proteins produced are enzymes
+ - ATP
+	 - Adenine+Ribose+Phosphates
+	 - High nrg bonds btw phosphates
+ - Thermodynamics
+	 - 1st law: Nrg neither created or destroyed
+	 - 2nd law: Entropy
+ - Enzymes
+	 - Made up of
+		 - Protein-Apoenzyme(tertiary shape(Seccondary but folded on itself)
+		 - Non-protein organic-Coenzyme
+			 - Coenzymes can also be vitamins
+		 - Cofactors are nonorganic trace metals
+		 - Together=Holoenzyne(DIFF FROM ENZYME HOW???????)
+			 - Holoenzyme only used as word in txtbook
+	 - Active site:where physical, chemical reaction takes place
+		 - Coenzyme in active site either donates water(hydrolytic), or removes water(dehydrative)
+		 - May also have proton or $e^-$ donations
+		 - Some enzymes called Allosteric(refer to notebook)
+			 - Modulator site
+			 - Multiple sites where cofactors plug in
+			 - Cofactors are metals($Mg^2, Mn^2, Co, As$)
+			 - Depending on the reaction, you may need different cofactors
+			 - ALLOSTERIC Enzymes can make multiple(similar) things
+			 - The metals provide $e^-$ for chem. reactions
+	 - Catalayse gets rid of $H_2 O_2$
+	 - Breaks down 40 million h2o2 per 1s
+	 - HOW?
+		 - Active site(substrate fits into it)
+		 - Tugs on, breaks down substrate
+		 - Important to turn on and off enzymes
+		 - Activation by cofactors and coenzymes
+		 - Inhibition -- Competitive(blocked) or ???
+		 - Fits like a key fits a lock
+		 - lowers activation nrg, tugs by changing ph or mechanical tug
+		 - Just speeds up a reaction, h2o2 would slowly break down
+		 - It is able to be so fast because h2o2 is slightly unstable, dont need to lower Act Nrg a lot
+		 - Would produce protein until required(can wait to produce substrate or can activate at specific time)
+		 - Need to add cofactors(inorganic) and coenzymes(organic) before the enzyme can work
+		 - Inhibioion
+			 - Competitive inhibition(Bonding at active site, competitor competes for the active site witht the eubstrate)
+			 - Allosteric(bonds to another place on the enzyme, blocks active site or changes shape of active site)
+		 - Eventually rate of reaction will level off after limits of various things reached
+		 - 1st model is lock and key theory
+			 - each enzyme has one specific substrate that fits into it
+			 - like a lock(enzyme) and key(substrate)
+			 - EX:sucrase only fits sucrose
+			 - we would need way more enzymes
+		 - 2nd model
+			 - induced fit thory
+			 - gives idea about allosteric enzymes
+			 - different cofactors alter the shape of the enzyme, allow for different(but similar) substrates
+		 - Both models in play
+	 - Enzyme picture
+		 - free gibbs energy on y, progression of reaction on x
+		 - with enzyme, amount of energy much lower
+	 - Interference of enzymes
+		 - Denature them(actually break hydrogen bonds)/(return to primary state)
+			 - pH -- all body systems have specific pH for function "optimum pH" 7.10 for humans -- breaks down by offering oxygens an easier place to bond(with h+ or OH-), breaks hydrogen bonds, respridory acidosis shows in type 1 diabetics
+			 - Temp -- same thing but only works for hot temperatures -- think albumin in an egg shell turns from clear to white bc denatured--dosent happen for cold temps.  
+			 - Active site==Catalytic site
+		 - Inhibitors
+			 - Competitive inhibition -- something with similar shape sits in active site, enzyme dosent do anything, eventually, inhu=ibitor disengages, enzyme functions again(regulatory protein)
+			 - Noncompetitive inhibiition -- alloseric enzyme has wrong modulator/cofactor/allosteric site, reaction cannot occur -- usually permenant
+	 - NO SLIDE ON THIS
+		 - Reaction rates(all of above affect reaction rates)
+		 - Putting living organisims in nonoptimal temp WILL affect the functioning of the enzymes
+		 - fridge or freezer slows reactions extremley
+ - PHOSPHORYLATION
+	 - adding a phosphate group to something(many applicaitions)
+	 - picture
+	 - substrative/simple phosphoralyation
+		 - atp, adp, amp
+		 - stick phosphate group onto other compound 
+	 - first step of glycolosis
+	 - oxidative phosphorlyation
+		 - have oxygen in there somehwere
+	 - Photo-Oxidative phosphorlyation
+		 - only light energy
+		 - photosynthesis
+ - All living organisims use cell resp. to make atp, support selves
+	 - Glycolosis, Krebs cycle, ETC
+	 - EVERY SINGLE LIVING ORGANISIM GOES THROUGH GLYCOLYSIS AT LEAST(krebs, etc are optional)
+		 - Glycolosis starts and ends in cytoplasm
+		 - not in mitochandria
+		 - First of metabolic pathways that evolved
+		 - Splitting carbohydrate
+		 - Most commonly glucose, we talk about glucose, but there are others used
+	 - Krebs cycle and ETC happen in mitochandria
+		 - When mitochandria evolved through endosymbiosis, thats when krebs and etc became important
+	 - These three steps are the only ones that produce atp
+	 - Glycolysis(picture)
+		 1. Molecule of glucose
+		 2. Substrate level phosphorolation(gluose has phosphate group added by atp)
+			 - hydroxil group displaced
+			 - some glucose bonds energized
+			 - named glucose 6 phosphate bc phosphate is on 6th oxy and adp 
+		 3.Rearrangement
+			 - gluecose 6 phosphate goes to fructose 6 phosphate(carboxyl moves)
+		 4. Another rearrangement, becomes fructose 1, 6 phosphate(gains phosphate from another atp)
+			 - Fructose 1, 6 phosphate is unstable
+		 5. Fructose 1,6 phosphate splits into two things
+			 1. On Left: Glyceraldehyde-3-phosphate(G-3-P)(main compound)
+			 2. On Right:Dihydroxyacetonephosphate(DHAP)
+			 - basically interchangable/cell can convert one btw one and the other
+			 - DHAP for fatty acids
+			 - G3P for respiration(assume everything becomes G3P)
+			 - Everything up until now is **investment phase**
+	 - Used 2 atp, made 2 molecules G3P
+		 6. Energy **Payoff phase**
+			 - NADox is NAD+ NADre +2H+
+			 - NAD hooks up with inorganic phosphorous, makes glyceraldehyde 1,3 phosphate
+			 - the third phosphate is high energy bond
+			 - displaced hydrogen picked up by NAD, lotsa potential nrg
+		 7. Then 2 ATP Created by NAD
+		 8. the glyceraldehyde goes through a number of transformations 
+		 9. 2H20 breaks off, creates high energy phosphorous bond
+		 10. 2 more ATP formed
+		  - end result is 2 molecules of pyruvic acid, 2 atp, 2 electron carriers(nad)(glycolosis stops there)
+- Pyruvic acid
+  - Fermentation
+	  - MUST HAVE GLYCOLYSIS(All organisims use glycolysis)
+	  - Takes place in cytoplasm
+	  - NADH2 is toxic, need to get rid of H2
+	  - Lactic Acid Fermentation(Muscle Cells and bacteria)
+		  - Happens once all oxygen in cells is gone
+		  - Muscles still have to produce nrg, no oxy, produce lactic acid
+		  - Lactic acid gradually removed from cells, sent to liver
+		  - Pyruvic acid is final electron acceptor, becomes lactic acid(compound that is reduced to take the H2 from NADH2)
+		  - This is how you get yogurt, sour cream, etc
+		  - (skim milk+bacteria)/24 hours, you have ^
+	  - Achoholic Fermentation(yeast)
+		  - yeast only need oxy for cell wall
+		  - only eukaryotic organisim that dosent use krebs or ETC(have mitochandria, dont use)
+		  - Take carboxyl group off of pyruvic acid, co2 produced(beer can explode)
+		  - "Decarboxylation" - end with 2 carbon structure(end with Acetyl)
+		  - Acetyl is final e- acceptor, becomes reduced into enthanol
+  - Transportation of pyruvic acid to mitochandria
+	  - Motor molecule atches to substrate, moves along cytoskeleton(lose 2ATP)
+  - In mitochandria
+	  - Transitioned to Acetyl-Coenzyme A
+		  - Lose CO2 in decarboxylation(exhaled)
+		  - Decarboxylated Pyruvic acid  is acetate
+		  - To get acetate to mitochandrial matrix, hooked to Coenxyme A
+		  - Make NADH2 to attach acetate to coenzyme A
+		  - Total produced 4 NADH2
+	  - Acetylcoa travels to MCM, does krebs cycle
+	  - Krebs Cycle/Citric acid cycle
+		  - For every glucose molecule, krebs cycle turns twice
+		  - In mitochandria, COA releases Acetyl
+		  - Acetyl(2 carbon) hooks up with 4 carbon to make 6 carbon group, losing co2
+		  - NAD reduced, lose some e-(2NAD produced)
+		  - turns twice, get 2 ATP, 8 NADH2
+	  - Now we have a total of 12 NADH2
+	  - ETC
+		  - Essentially nothing left of og glucose except for NADH2
+		  - ETC is series of protiens in membrane and every protein is a proton pump
+		  - Physically moves protons from area of low concentration from area of low concentration to high concentration(active)
+		  - Series of oxydation reduction reactions(e- exchanged)
+		  - A little bit of energy is produced by ^
+		  - Lowering energy present by oxydizing
+		  - ALL NAD goes here(glycolysis, transition, NAD+FAD from krebs) - 12 in all
+		  - Series of oxidizing/reducing reactions
+		  - As you reduce the carriers, you are losing nrg(downhill)
+		  - Proteins in membrane(almost identical to proteins in bacteria, in chloroplast==>evidence for endosymbiosis)
+		  - Proteins are proton pumps, pump proteins from low concentration to high concentration(inside membrane to outside)
+		  - e- go to different proteins, end with molecule of oxy, forming H2O(only point where see oxygen--can be replaced with sulfur or carbon eg)
+	  - All plays into ATP synthase
+		  - Hydrogen ions = protons
+		  - Gradient exists between two sides of membrane
+		  - Potential energy found in gradients
+		  - Significantly more protons on one side
+		  - ATP synthase rotates when a proton enters
+		  - Once 3 protons, ATP formed
+		  - No more gradient
+		  - ATP transported by diffusion or stays in Mitochandria
+		  - Produces 32 more atp for the entire 12 NADH
+		  - Humans not totally effective at this, more like mid 20s
+	  - Prokaryote ETC
+		  - Plasma membrane houses process virtually identival process
+		  - many prokaryotes don't go thru this process(only ferment)
+		  - Far more efficent to use ETC(36 ATP vs 2 ATP)
+	  - Alternatives to glycolysis(in prokaryotes)(create pyruvate from glucose)(NEED TO KNOW MORE THAN IS HERE)
+		  - 
+		  - Phosphoglucanate pathway
+		  - Pentose Pathway
+		  - Entmer-Dourdorff Pathway(mostly e.coli)
+	  - Alternatives to glucose
+		  - Fatty acids, Nucleic Acids, Amino Acids
+		  - Nuleic acids and amino acids not prefferred bc nitrogen poisionus to cell
+	  - Fatty acids
+		  - In humans, Fatty acids stored in atapose cells(yellow fat)
+		  - In humans, Once fat in cell, hard to pull out
+		  - In others, Brown fat(lotsa blood vessels), use for hybernation
+		  - Fat broken down w/ beta oxidation
+		  - Fat cells long
+		  - In any animal, majority fats saturated
+		  - Fatty acid cut into 2-carbon(acetyl groups), get maximum atp
+		  - 3x ATP produced for fatty acid(not great bc must use atp to produce too)
+- MR ANDERSON CELL RESP
+- BREAKS DOWN FOOD AND MAKES NRG
+	- Aerobic respiration is sustainable, anerobic respiration is like nitro; boost, but not for long
+- Resperation for heterorphs
+	- breaks down organic compounds into co2, water, atp
+	- Autotrophs convert co2 and water back into organic compounds, also use orgnaic compounds to get nrg
+	- opposite of photosynthesis(glucose+oxy -> co2 and water and atp)
+	- energy is in the hydrogens in glucose
+	- energy comes from the bonding of hydrogens to oxygen
+- Mitochandria
+	- folds called cristae
+	- two membranes(inner membrane and outer membrane)
+	- intermembrane space
+	- mitochandria have own dna, do binary fission
+- Three steps to cell resp
+	- Glycolosis
+		- happens outside mitochandria
+		- glucose broken into pyruvate(3 carbons) makes 2atp
+		- converted into Acetyl COA by Pyruvate dehydrogenase complex(loses CO2, 1/3 of lost CO2)
+		- pyruvate goes into krebs cycle, converted into 2 carbons acetyl CoA, into krebs cycle, gives off 2 more co2(2/3 CO2)
+		- produces a little bit atp, give more energy to NADH and FADH2, electrons go thru ETC Makes NADH
+		- ETC
+			- electrons move through series of proteins
+			- pumps hydrogen ion protons out of membrane into inner membrane space
+			- electrons and hydrogen ions used to create water and atp
+			- NADH AND FADH pumped thru, creates protons(H+), Inter-membrane space becomes full, positively charged
+			- ATP Synthase combines H+ proton, switches it and attaches phosphate to make atp
+			- Fadh drops 2 electrons thru Nadh does 3
+		- What if no O2 or no MitoChandria
+		- Electrons added to NAD+, no more NAD+, whole process stops
+		- Lactic acid fermentation
+			- Cells ferment pyruvate into lactate, accepts NADH electrons, and have NAD+
+			- Lactate takes oxygen to break down
+			- Alchoic fermentation does the same thing, but makes ethyl alchohol and co2(ONLY IN YEAST)
+	- What happens to lactate
+		- Muscle did anerobic fermentation, end up with lactic acid
+		- lactic acid moved to blood, to liver
+		- Lactic acid+NAD+O2-->Pyruvic acid+NADH+O2
+		- Pyruvic acid goes to mitochandria, transition, krebs, ETC
+	- Acedemic opporutnity will cover Enzymes and Cell resp, not Fridays photosynth

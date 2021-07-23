@@ -1,0 +1,115 @@
+Civil Rights Movement(inclass)
+
+# 4/23/2021 Theo Urban
+## APUSH notes Civil Rights Movement
+***
+ - PostWWII, Broad range of civil rights movements
+	 - AA, Women, Amerinds, Latinx Farmers, Conservation mvmnt
+	 - Usually refers to AA
+	 - Life cycle of civil rights applies to all movements
+	 - 4 Phases, continuity and changes
+ - Alabama literacy test
+	 - Very problematic
+	 - Not just blacks with less commonly literate(other subtle discriminations)
+	 - NAACP Field workers would register AA to vote to educate AA on tests presented with w/ pamphlets, could be retribution if AA found w/ pamphlet
+	 - Read Page of state constitution, read aloud(some sections harder than others(given to blacks), judged by white registrar's opinion)
+	 - VERY HARD CIVICS QUESTIONS
+	 - Sometimes used to supress poor white vote too
+ - 4 Stages
+	 - (Re)emergence
+		 - Popular realization that something is wrong
+		 - Tied to 18/19c + Abolitionism/reconstruction/jimcrow
+	 - Coalescence
+		 - Movement defines itself(goes public/mainstream, leadership)
+		 - Strategies for success working
+		 - Some kind of mass demonstration
+	 - Bureaucratization
+		 - High level of organizaition(coalitions, groups/subgroups)
+		 - Increased political power, lotsa success
+		 - Coordination of strategy
+		 - Lots of organizations forming
+	 - Decline
+		 - Bureactatizaiton leads to success with og/stated goals
+		 - Fails in accomplishing division of og goals
+		 - Further splits over focus, should focus be divided
+		 - Failure in ppl starting to self-judge mvmnt(group A is not as committed as group B, is not as valid)
+		 - Things happen during burecratization that cause decline
+		 - Represstion
+			 - State sponsored supression of movement to control or destroy
+			 - FBI surviellence, arresting leaders, public campaigns to undermine group actions
+		 - Mainstream
+			 - Accepted by majority leads to decline
+		 - Coopation
+			 - Happens when opressor starts using language of opressed
+			 - Co-opting/claiming ownership of tactics and language of movement(boston 1970s)
+		 - Not permenant
+ - Legalism
+	 - Second phase of movement(after jim crow/reconstruction)
+	 - Challenging segregation+inequality thru judicial system, executive, laws
+	 - Spearheaded by NAACP(made by thrugood marshall)
+		 - Marshall argued brown v board
+		 - Later first AA on SupCourt
+	 - Presidents all do things, but real movement by actual protesters+ppl
+	 - How do events outside C.R. mvmnt effect mvmnt
+		 - Wars+WWII more AA drafted
+ - Nonviolent direct action(MLK articulate philosophy, advocates for it
+ - Making concious choices about when and how to participate(bare minimum self defense, etc.)
+	 - Have to be corageous to do this(dynamic action)
+	 - Emphasizes organized nature of nonviolence
+	 - Intellegent use of police force, to enforce the just laws of the land
+ - 5 most common tactics(sitins, freedom riders(integrated bussesklan burns bus, beat thm))
+	 - Nonviolent mvmnt needs to be countered by violence to achieve goals
+		 - Without violent response, movement does not achieve success
+	 - Part of the success uses cold war, eyes of world on USA, violence shows USA not free
+	 - March on washington for jobs and freedoms(1963), Selma, Birmingham(all demonstrations)
+	 - Boycotts(montgomery bus boycott)
+	 - Letter from B. Jail
+		 - King stands in the middle of violence and submission
+		 - Failure in division(King+MalcomX)
+		 - Success in getting his message out
+ - Know leaders, actions, stand fr
+	 - Southern Christian Leadership Conference(SCLC)(king)
+		 - Birmimgham
+		 - Seek desegrregation+later voting
+		 - Whole combination of nonviolence(sitins, Voter registration drives, boycotts)
+	 - Student Nonviolent Coordinating Committee(SNCC)
+	 - Congress of Racial equality(Core)(James Farmer)(Freeedom riders)
+		 - Initally focused on voting, changes to econ. equality
+		 - Use freedom rides+voter registration drives
+	 - Mississipi Democratic Freedom party(voting)
+		 - FILL IN
+	 - Council of Federated Organizations(COFO)
+		 - FILL IN
+ - More groups/more bureracracy = faster declinge
+	 - Need to find themselves/define goals
+	 - Atk other groups
+ - Birmingham
+	 - KKK is well-organized, police commissioner supports KKK
+	 - Filling jails to get media attention to get prez attention
+	 - Only once decide to use children that they get their point across
+ - Kennedy very focused on foreign policy/cuba
+	 - Kennedy cant win without southern dixiecrat vote(old south)
+	 - Politicized investment in movement, kennedy is not involved until matters politically
+ - Johnson 1963-68
+	 - Southerner from texas
+	 - Consistently supported civil rights(act 1964 to desegregate public spaces), voting rights act 1965
+ - NEasterners say south is racist to seperate northern racism from 'real racism'
+	 - Meant to distract from defacto segregation(laws vs customs)(understood rules)
+ - Nonviolent Direction movemnt affected by Vietnam, prosperity/affluence
+ - Last phase is black power phase
+	 - Falls in bueraucritaiztion/decline phases
+	 - Lost the nuance(partially by design)
+	 - Discussion mostly limited to black pantherism + guns
+	 - Origin of ^ is calf legislature passing bill limiting gun rihgts, protested by holding guns
+	 - Focused on exon. inequality in neighorbhoods, encourage healthy practices
+	 - King does not condemn riots, sees as inferior but are language of the unheard
+	 - Civil rights movement has not mad economics better
+	 - Black power is taking the civil righs movement further
+ - Boston Bussing order Represens
+	 - Movement begins in 1954 with brown v board
+	 - Movement is begenning and ending w/ schools
+	 - Boston school integration
+		 - Mobs like LR9
+			 - Reasons were less overtly racist, still same outcome
+		 - Police pushing back mob
+	 - Movement+external events

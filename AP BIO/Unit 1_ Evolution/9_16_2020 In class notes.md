@@ -1,0 +1,196 @@
+9/16/2020 In class notes
+
+# 9/16/2020 Theo Urban
+## In-Class notes: Evolution cont.
+***
+
+### Alternatives to chemical evolution/single spontaneousgeneration
+some of these have some evidence
+**Exobiology** 
+ - Panspermia - living microorganism surfed to this planet on waves in space
+	 - Space inhospitible, cold
+	 - probably nothing could have surfed, stayed alive
+ - Directed Panspermia - Organisim encased in rock, was a meteorite, struck earth, organisim released
+	 - Evidence for: researcher found meteorite in afr. with fossilized cyanobacteria in it
+	 - Evidence against: --- not likely
+ - Picnic hypothesis -- life came forth bc intergalactic travelers came here, left garbage here
+	 - peru/andes mountains have some roads that look like runways
+ - Zoo Hypothesis - Life deliberately planted at cellular level, evolution has been watched by expirementer
+	 - hard to say expirementer could conceal self from us
+ - Equation for life - tried to prove that life could exist on other planets:
+	 - N is Number of planets
+	 - R is rate at which stars made 
+	 - Fp number of stars with planets is , 
+	 - Ne is number planets
+	 - F is number planets with environment for life(1)
+	 - Fl is number of planets that have potential for life that HAVE life
+	 - Fi is Fl that have intellegent life
+	 - Fc is number of intellegent life forms with civilization
+	 - L is mean lifespan of the civilizations
+
+$$N=Rf_pN_ef_lf_if_cL$$
+### Real stuff
+ - Darwinian evolution
+	 - Descent with modification(offspring different from parents)
+	 - Modification due to changes in genetic code(darwin knew nothing about genetics) that allow for organisim to adapt better to local environment
+	 - Over time, new organisims/species appear because they cant reproduce with other species
+	 - many ppl at the time didnt believe evolution's need for so much time
+	 1.Overproduction
+		- all orgnaisims produce more than can survive up to primates
+		- oak trees produce large # offspring, very few acorns sprout bc predators, competition for resources, 10-15 years later, produce more seeds
+		- Sea turtles -- hundreds of eggs at a time 1 reaches adulthood(predators, disease, etc.)
+	 2.Competition
+		 - 
+	 3.Survival of the Fittest
+		 - Fittest may not be best genetically designed, just has to reproduce successfully
+	 4.Reproduction
+		 - is good
+	 5.Speciation
+		 - speciation event = natural desaster, etc where environment altered so that completley different group is fit
+		 - eventually, specie cant reproduce with other species, complete seperation of groups
+	 - Influence things to natural selection
+		 - Competition
+		 - Carrying Capacity
+			 - How many members of a population an environment can hold with its resources
+			 - Carrying capacity higher for population than for overall ecosystem usually
+		 - Fitness-genetic contribution to future generations(measured on species level)
+			 - Absolute-Expressed as # of offspring produced by specific genotype; is a number = how many of certian genotype is next generation
+			 - Relative-relative abiity of a genotype to be represented in the next generation = more common, not measured
+	 - Properties of fitness
+		 - Properties of genotype
+		 - Genotypes that match environment are more successful
+		 - Genotypes measured for more than one generation
+			 - Previously, we could only detremine one generation's Phenotype
+			 - Now we can just extract DNA 
+			 - Genetic info must go onto next generation
+	 - Lethal mutations 
+		 - usually just affect one individual in eukaryotes
+		 - prokaryotes, one lethal mutation can affect entire population
+		 - what happens if in sex chromosome
+			 - Sex chromosome dimporhic(unmatched pair)w
+			 - Usually the male dies
+			 - Polymorphism, asexual reproduction must occur
+  - Hardy-Weinberg
+	  - p+q=1
+	  - p is allele frequency for dominant allele
+	  - $$p^2+2pq+q^2$$ 
+	  - p^2 is allele frequency if homozyagous dom
+	  - 2pq is allele frequenty if heterozygous dom
+	  - q^2 is allele frequency if homozygous rec
+ - Population Genetics
+	 - Gene Frequency
+		 - Frequencie of Homo. Dom, Het, Homo Rec.
+	 - Allele Frequency
+		 - Frequency of an allele in a population
+	 - Gene Flow(per unit time)
+		 - Immigration+Emigration: The moving of ppl changes the gene frequencies bc they take their genes with them
+		 - Movement of organisims between populations causes allele frequencies to change over time
+	 - Genetic Drift(per unit time)
+		 - Some random change in the frequencies in a population(group of interbreeding individuals)
+			 - New members by birth or imigration
+			 - lose members by death or emigration
+		 - Hard to know for total human population
+			 - A deem is a subset of the total population
+			 - Statistically, seek to use deems as a sample to represent the whole population
+			 - Problem bc deem may be diff from population
+			 - Within deem, you have evolutionary unit(reproductively avalible organisims(not too young or old))
+			 - Gene pool is sum total of genes in a population(reproductively avalible organisims)
+	 - Variations
+		 - Continous
+			 - Height(everyone is near eachother in terms of height)
+		 - Discontinous
+			 - Weight(Weight is more controlled by environment)
+Forward and backwards mutations
+ - Forward = away from wild type
+ - Backward = toward wild type
+	 - Hardy-Weinberg Law of Equilibrium
+		 - Hardy and Winberg were independent researchers, seperately published papers on same thing
+			 - Said that gene frequency of a population will not change significantly without environmental factor
+		 - Conditions must be met
+			 - Reproduction Random
+			 - No net mutations(forward mutations=backwards mutations)
+			 - Large(statistically powerful) interbreedong population
+			 - No immigration or emigration
+			 - No natural selection(gene frequency will not change without some natural selection)
+ - Population Genetics
+	 - Need to know Effective Breeding Size $N_e$
+	 - In $N_e$ goes to zero, extinction
+	 - Population Geneticits determine if species viable
+		 - California condor(50 individuals at one point)
+		 - $N_e$ = 50, population not viable
+		 - $N_e ->$ 0, species go into extinction
+		 - Humans making many species going to extinction, not a natural process
+	 - If decent size population, can measure genetic drift
+		 - Measured by $F_st = H_t - H_s / H_t$
+		 - Where $H_t$ is the measurement of heterzygosity by random mating in the total population
+		 - and $H_s$ is the heterygosity of the subpopulation
+	 - Model Gene Flow(dont write down)
+		 - HERITABILITY OF AALLELES
+		 - $h^2 = V_a/V_p$
+	 - Inbreeding co-efficent
+		 - Organisim becomes more and more homozygous dom or rec
+		 - $F$ is the probability that the alleles are identical by descent
+		 - This relates to the heritability issue
+		 - $F=(H_o - H)/H_o$
+		 - $H_o = 2pq$
+		 - H = homozygous(p^2 or q^2)
+			 - The alleles can be
+			 - Allozygous- homozygous bc random mating
+			 - Autozygous- homozygous due to inbreeding
+ - Population GENETICS CONT.
+	 - Populations shift in genotypic frequencies
+	 - Darwin says that any change in environment change 'allele frequencies'
+	 - Selection by specific genotypes(not phenotypes)
+		 - Stabilizing selection
+			 - select individuals with heterzygote genotype
+			 - heterozygote advantage
+			 - why?: heterozygotes have both dom and rec allele, allows to be a generalist/have more flexibility
+			 - Then, when have selective pressure, directional selection happens easier
+			 - Genetic drift where heterozygotes are favored
+		 - Directional selection
+			 - happens after application of selective pressure placed
+			 - mean shifts toward tail of curve
+			 - Genetic drift where one homozygote is favored
+		 - Distuptive selection
+			 - takes away heterzygotes advantage
+			 - bimodal curve
+			 - eventually, you get 2 new species(if distuptive event continues)
+			 - Genetic drift where heterozygotes not favored(both homo favored)
+		 - random vs aggregated vs hyperdispersed 
+			 - random and aggregated best for hardy weinberg 
+			 - hyperdispersed bad for hardy weinberg...not sure why
+		 - Sexual selection
+			 - mate selection incredibly complex
+			 - some plants and amphibians can switch sex
+			 - if too much testosterone in water, male frogs switch to female
+			 - Darwin saw males had significant adaptations to better sexual selection
+			 - so felales must choose one male form the rest
+			 - Males can reproduce many times but females limited
+			 - by choosing only onemale females place a pressure on these charactistics
+			 - brightly colored males also attract predators, distract from eggs
+			 - move to equal xx and xy genotypes
+			 - Competition
+			 - intra-sexual(male vs male ritualistic behavior(bighorn sheep))
+			 - intersexual(female compete for male)
+		 - Kin selection
+			 - Idea that behavior can impct the genetics of family or fam. group
+			 - average fraction og genes shared by relatives
+			 - parent/child .5
+			 - half siblings .25
+			 - Grandparent/grandchild .25
+			 - first cousins .125
+			 - altruism > enhanced fitness of a population as the expense of individual
+			 - changed now because now altruistic because people popularly talk about not in family
+			 - allows the family unit to survive and reproduce
+			 - always somebody watching out for predators(closest kin relatioship to family group(parent closest to all kids)
+			 - Allows fitter children ability to produce
+			 - if increase fitness of the family(k is ratio of increased fitness, r is .5/.25) K>1/r
+	 - Examples of natural selection
+		 - Batesian Mimicry
+			 - aposematic coloration
+			 - insects copy other insects based on coloration(poison dart frogs, depending on what they eat/viceroys and monarchs)
+		 - Mullerian Mimicry
+			 - mimic patterns(butterlflies, tropical prayng mantis like leaves)
+			 - mimic surroundings, or eachother, whatever
+		 - Emsleyan Mimicry
+			 - Dangerous snake mimics less dangerous one
